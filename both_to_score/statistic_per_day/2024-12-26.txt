@@ -1,0 +1,57 @@
+Team: Royal Antwerp vs Racing Genk, Probability: 76, Prediction: Yes, Scores: 2 - 2, IsSuccess: True
+Team: Baglan Dragons vs Trefelin BGC, Probability: 75, Prediction: Yes, Scores: 1 - 2, IsSuccess: True
+Team: Bangor 1876 vs Colwyn Bay, Probability: 92, Prediction: Yes, Scores: 1 - 3, IsSuccess: True
+Team: Baladiyyat Al Mahalla vs Sporting Alexandria, Probability: 82, Prediction: No, Scores: 0 - 0, IsSuccess: True
+Team: Al Mahdia vs Al Andalus, Probability: 95, Prediction: No, Scores: 0 - 0, IsSuccess: True
+Team: Leiston FC vs Lowestoft Town, Probability: 81, Prediction: Yes, Scores: 7 - 2, IsSuccess: True
+Team: St Ives Town vs Royston Town, Probability: 79, Prediction: Yes, Scores: 0 - 1, IsSuccess: False
+Team: Bedford Town vs Hitchin Town, Probability: 75, Prediction: Yes, Scores: 2 - 1, IsSuccess: True
+Team: Stockton Town vs Hebburn Town, Probability: 70, Prediction: Yes, Scores: 1 - 1, IsSuccess: True
+Team: ESM Koléa vs MC Saïda, Probability: 73, Prediction: No, Scores: 1 - 2, IsSuccess: False
+Team: JS El Biar vs SC Mecheria, Probability: 73, Prediction: No, Scores: 3 - 1, IsSuccess: False
+Team: HB Chelghoum Laid vs US Souf, Probability: 72, Prediction: No, Scores: 4 - 1, IsSuccess: False
+Team: Tanzania Prisons vs Pamba Jiji, Probability: 83, Prediction: No, Scores: 1 - 0, IsSuccess: True
+Team: Asaria vs Al Dahra FC, Probability: 85, Prediction: No, Scores: 1 - 0, IsSuccess: True
+Team: Chadormalu SC vs Esteghlal Tehran, Probability: 74, Prediction: No, Scores: 0 - 0, IsSuccess: True
+Team: Airbus UK vs Buckley Town, Probability: 87, Prediction: Yes, Scores: 3 - 2, IsSuccess: True
+Team: Dikhil vs Arta, Probability: 75, Prediction: Yes, Scores: 0 - 0, IsSuccess: False
+Team: Caernarfon Town vs The New Saints, Probability: 77, Prediction: Yes, Scores: 2 - 5, IsSuccess: True
+Team: Ammanford vs Llanelli AFC, Probability: 73, Prediction: Yes, Scores: 0 - 2, IsSuccess: False
+Team: Chelsea vs Fulham, Probability: 74, Prediction: Yes, Scores: 1 - 2, IsSuccess: True
+Team: Newcastle United vs Aston Villa, Probability: 72, Prediction: Yes, Scores: 3 - 0, IsSuccess: False
+Team: Nottingham Forest vs Tottenham, Probability: 70, Prediction: Yes, Scores: 1 - 0, IsSuccess: False
+Team: Watford vs Portsmouth, Probability: 73, Prediction: Yes, Scores: 2 - 1, IsSuccess: True
+Team: Huddersfield vs Stockport County, Probability: 74, Prediction: Yes, Scores: 1 - 0, IsSuccess: False
+Team: Milton Keynes Dons vs Notts County, Probability: 71, Prediction: Yes, Scores: 0 - 2, IsSuccess: False
+Team: Walsall FC vs Doncaster Rovers, Probability: 71, Prediction: Yes, Scores: 2 - 0, IsSuccess: False
+Team: St Johnstone vs Dundee United, Probability: 70, Prediction: Yes, Scores: 1 - 2, IsSuccess: True
+Team: Celtic vs Motherwell, Probability: 74, Prediction: Yes, Scores: 4 - 0, IsSuccess: False
+Team: Club Brugge vs Westerlo, Probability: 72, Prediction: Yes, Scores: 4 - 3, IsSuccess: True
+Team: Gateshead vs Hartlepool Utd, Probability: 71, Prediction: Yes, Scores: 4 - 3, IsSuccess: True
+Team: King's Lynn vs Needham Market, Probability: 76, Prediction: No, Scores: 2 - 2, IsSuccess: False
+Team: Spennymoor Town vs South Shields, Probability: 77, Prediction: Yes, Scores: 1 - 1, IsSuccess: True
+Team: Dorking Wanderers vs Worthing FC, Probability: 70, Prediction: Yes, Scores: 1 - 2, IsSuccess: True
+Team: Enfield Town vs Boreham Wood, Probability: 73, Prediction: Yes, Scores: 0 - 2, IsSuccess: False
+Team: All Stars FC vs Aduana Stars, Probability: 75, Prediction: No, Scores: 0 - 1, IsSuccess: True
+Team: Coleraine FC vs Ballymena United, Probability: 72, Prediction: Yes, Scores: 2 - 2, IsSuccess: True
+Team: Denbigh Town vs Ruthin Town, Probability: 70, Prediction: Yes, Scores: 2 - 2, IsSuccess: True
+Team: Dulwich Hamlet vs Carshalton, Probability: 75, Prediction: Yes, Scores: 1 - 0, IsSuccess: False
+Team: Hastings United vs Dover Athletic, Probability: 85, Prediction: Yes, Scores: 0 - 2, IsSuccess: False
+Team: Lewes FC vs Folkestone Invicta, Probability: 70, Prediction: Yes, Scores: 0 - 0, IsSuccess: False
+Team: Armagh City vs Annagh United, Probability: 71, Prediction: Yes, Scores: 3 - 1, IsSuccess: True
+Team: Bangor FC vs Ards FC, Probability: 70, Prediction: Yes, Scores: 0 - 0, IsSuccess: False
+Team: Institute FC vs Limavady United, Probability: 76, Prediction: Yes, Scores: 1 - 1, IsSuccess: True
+Team: Gloucester vs Swindon Supermarine, Probability: 71, Prediction: Yes, Scores: 3 - 1, IsSuccess: True
+Team: Hungerford Town vs Merthyr Town, Probability: 81, Prediction: Yes, Scores: 1 - 3, IsSuccess: True
+Team: Walton & Hersham vs Bracknell Town, Probability: 80, Prediction: Yes, Scores: 2 - 0, IsSuccess: False
+Team: Macclesfield vs Leek Town, Probability: 72, Prediction: Yes, Scores: 1 - 2, IsSuccess: True
+Team: Al Malaab El Libby vs Al Watan, Probability: 84, Prediction: No, Scores: 2 - 2, IsSuccess: False
+Team: Oldham Athletic vs York City, Probability: 77, Prediction: Yes, Scores: None, IsSuccess: None
+Team: Bnei Sakhnin vs Ironi Modi'in, Probability: 82, Prediction: No, Scores: 2 - 2, IsSuccess: False
+Team: Hapoel Raanana vs Nordia Jerusalem, Probability: 76, Prediction: No, Scores: 2 - 4, IsSuccess: False
+Team: AC Port of Spain vs Central FC (T&T), Probability: 79, Prediction: Yes, Scores: 2 - 1, IsSuccess: True
+count True : 29,   count False : 22, count None : 1 
+winrate:56.86
+
+
+Gnidlo Sergiy

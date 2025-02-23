@@ -1,0 +1,13 @@
+Team: Baath Bouhajla vs AS Kasserine, Probability: 71, Prediction: No, Scores: 1 - 0, IsSuccess: True
+Team: AS Agareb vs Progrès Sakiet Eddaïer, Probability: 77, Prediction: No, Scores: 0 - 0, IsSuccess: True
+Team: Djelma vs Chebba, Probability: 76, Prediction: No, Scores: 2 - 1, IsSuccess: False
+Team: Rogba Tataouine vs JS Kairouanaise, Probability: 76, Prediction: No, Scores: 0 - 2, IsSuccess: True
+Team: Abilashehar Club vs Al Khums, Probability: 84, Prediction: No, Scores: 0 - 1, IsSuccess: True
+Team: Ittihad Alexandria vs Future FC, Probability: 73, Prediction: No, Scores: 0 - 0, IsSuccess: True
+Team: Ismaily vs Haras Al Hodoud, Probability: 82, Prediction: No, Scores: 2 - 2, IsSuccess: False
+Team: Hilal Benghazi vs Al Branes, Probability: 73, Prediction: No, Scores: 3 - 0, IsSuccess: True
+count True : 6,   count False : 2, count None : 0 
+winrate:75.00
+
+
+Gnidlo Sergiy

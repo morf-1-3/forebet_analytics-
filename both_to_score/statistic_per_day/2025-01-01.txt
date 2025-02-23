@@ -1,0 +1,39 @@
+Team: WS Wanderers vs Macarthur FC, Probability: 89, Prediction: Yes, Scores: 2 - 3, IsSuccess: True
+Team: Gol Gohar vs Chadormalu SC, Probability: 78, Prediction: No, Scores: 2 - 0, IsSuccess: True
+Team: Bracknell Town vs Basingstoke, Probability: 76, Prediction: Yes, Scores: 1 - 1, IsSuccess: True
+Team: Bangor 1876 vs Prestatyn Town, Probability: 84, Prediction: Yes, Scores: None, IsSuccess: None
+Team: Colwyn Bay vs Mold Alexandra, Probability: 82, Prediction: Yes, Scores: 5 - 0, IsSuccess: False
+Team: Denbigh Town vs Flint Mountain, Probability: 99, Prediction: Yes, Scores: None, IsSuccess: None
+Team: Gresford Athletic vs Ruthin Town, Probability: 70, Prediction: Yes, Scores: 1 - 0, IsSuccess: False
+Team: Llandudno vs Holywell Town, Probability: 77, Prediction: Yes, Scores: 0 - 2, IsSuccess: False
+Team: Cambrian & Clydach vs Pontypridd Town, Probability: 71, Prediction: Yes, Scores: 3 - 3, IsSuccess: True
+Team: Chesterfield vs Milton Keynes Dons, Probability: 75, Prediction: Yes, Scores: 1 - 2, IsSuccess: True
+Team: York City vs Gateshead, Probability: 88, Prediction: Yes, Scores: 1 - 0, IsSuccess: False
+Team: South Shields vs Darlington 1883, Probability: 71, Prediction: Yes, Scores: 0 - 1, IsSuccess: False
+Team: Warrington Town vs Marine, Probability: 72, Prediction: No, Scores: 0 - 2, IsSuccess: True
+Team: Alfreton Town vs Curzon Ashton, Probability: 71, Prediction: Yes, Scores: 0 - 1, IsSuccess: False
+Team: Needham Market vs Peterborough Sports, Probability: 72, Prediction: No, Scores: 1 - 2, IsSuccess: False
+Team: Boreham Wood vs Slough Town, Probability: 87, Prediction: Yes, Scores: 5 - 1, IsSuccess: True
+Team: Future FC vs Ismaily, Probability: 84, Prediction: No, Scores: 0 - 0, IsSuccess: True
+Team: Bognor Regis Town vs Chichester City, Probability: 76, Prediction: Yes, Scores: 1 - 4, IsSuccess: True
+Team: Carshalton vs Cray Valley PM, Probability: 80, Prediction: Yes, Scores: 1 - 2, IsSuccess: True
+Team: Chatham Town vs Dartford, Probability: 83, Prediction: Yes, Scores: 0 - 2, IsSuccess: False
+Team: Dover Athletic vs Horsham, Probability: 82, Prediction: Yes, Scores: 1 - 2, IsSuccess: True
+Team: Hashtag United vs Billericay, Probability: 81, Prediction: Yes, Scores: 1 - 2, IsSuccess: True
+Team: Potters Bar Town vs Wingate & Finchley, Probability: 74, Prediction: Yes, Scores: None, IsSuccess: None
+Team: Stratford Town vs AFC Telford Utd, Probability: 71, Prediction: Yes, Scores: 4 - 0, IsSuccess: False
+Team: AFC Totton vs Havant & Waterlooville, Probability: 72, Prediction: Yes, Scores: None, IsSuccess: None
+Team: Chertsey Town vs Walton & Hersham, Probability: 90, Prediction: Yes, Scores: None, IsSuccess: None
+Team: Dorchester Town vs Winchester City, Probability: 74, Prediction: Yes, Scores: 1 - 0, IsSuccess: False
+Team: Merthyr Town vs Gloucester, Probability: 81, Prediction: Yes, Scores: 2 - 2, IsSuccess: True
+Team: Swindon Supermarine vs Hungerford Town, Probability: 75, Prediction: Yes, Scores: 1 - 3, IsSuccess: True
+Team: Ashton United vs FC United, Probability: 74, Prediction: Yes, Scores: 2 - 0, IsSuccess: False
+Team: Worksop Town vs Gainsborough, Probability: 70, Prediction: Yes, Scores: 4 - 1, IsSuccess: True
+Team: Abacha City vs Kamboi Eagles, Probability: 98, Prediction: No, Scores: 2 - 1, IsSuccess: False
+Team: Maccabi Netanya vs Beitar Jerusalem, Probability: 77, Prediction: Yes, Scores: 3 - 0, IsSuccess: False
+Team: Hapoel Beer Sheva vs Maccabi Tel Aviv, Probability: 74, Prediction: Yes, Scores: 2 - 2, IsSuccess: True
+count True : 16,   count False : 13, count None : 5 
+winrate:55.17
+
+
+Gnidlo Sergiy

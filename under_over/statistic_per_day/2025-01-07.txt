@@ -1,0 +1,10 @@
+Team: Canaã U20 vs Vasco U20, Probability: 85, Prediction: Under, Scores: 0 - 0, IsSuccess: True
+Team: IAPE U20 vs Cuiabá U20, Probability: 85, Prediction: Under, Scores: 1 - 1, IsSuccess: True
+Team: Bragantino U20 vs Avaí U20, Probability: 85, Prediction: Under, Scores: 4 - 3, IsSuccess: False
+Team: Caerau Ely vs Pontypridd Town, Probability: 90, Prediction: Over, Scores: None, IsSuccess: None
+Team: Lowestoft Town vs Stamford, Probability: 92, Prediction: Under, Scores: 0 - 3, IsSuccess: False
+count True : 2,   count False : 2, count None : 1 
+winrate:50.00
+
+
+Gnidlo Sergiy

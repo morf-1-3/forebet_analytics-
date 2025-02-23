@@ -1,0 +1,11 @@
+Team: Sanat Naft AC vs Ario Eslamshahr, Probability: 90, Prediction: Under, Scores: 1 - 1, IsSuccess: True
+Team: Naft Bandar Abbas vs Naft Gachsaran, Probability: 90, Prediction: Under, Scores: 1 - 0, IsSuccess: True
+Team: Lugazi Municipal vs Bul FC, Probability: 85, Prediction: Under, Scores: 1 - 2, IsSuccess: False
+Team: ES Mostaganem vs WAB Tissemsilt, Probability: 89, Prediction: Under, Scores: 1 - 1, IsSuccess: True
+Team: CRB U20 vs Água Santa U20, Probability: 88, Prediction: Over, Scores: 0 - 3, IsSuccess: True
+Team: H&W Welders vs Glentoran Belfast, Probability: 99, Prediction: Over, Scores: 2 - 4, IsSuccess: True
+count True : 5,   count False : 1, count None : 0 
+winrate:83.33
+
+
+Gnidlo Sergiy

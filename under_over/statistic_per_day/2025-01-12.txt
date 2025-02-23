@@ -1,0 +1,40 @@
+Team: Acatlán vs Montaneses, Probability: 100, Prediction: Under, Scores: 0 - 4, IsSuccess: False
+Team: Cruzeiro Itaporanga U20 vs Zumbi U20, Probability: 100, Prediction: Under, Scores: 1 - 1, IsSuccess: True
+Team: Mexicali FC vs Tigres de Álica, Probability: 90, Prediction: Under, Scores: 0 - 2, IsSuccess: True
+Team: Merreikh Nyala vs Al Zamala SC, Probability: 100, Prediction: Under, Scores: None, IsSuccess: None
+Team: Deportivo Yautepec vs Poza Rica, Probability: 100, Prediction: Under, Scores: None, IsSuccess: None
+Team: Deportivo Ayense vs Huracanes Izcalli, Probability: 87, Prediction: Under, Scores: None, IsSuccess: None
+Team: Dandy Town Hornets vs Devonshire Colts, Probability: 88, Prediction: Over, Scores: None, IsSuccess: None
+Team: Cruz Azul vs Club Atlas, Probability: 97, Prediction: Over, Scores: 1 - 1, IsSuccess: False
+Team: North District vs Kowloon City, Probability: 90, Prediction: Over, Scores: 3 - 1, IsSuccess: True
+Team: Delhi FC vs Rajasthan United, Probability: 99, Prediction: Over, Scores: 1 - 1, IsSuccess: False
+Team: Master 7 FC vs Viengchanh, Probability: 99, Prediction: Over, Scores: 4 - 1, IsSuccess: True
+Team: Central & Western vs Tuen Mun SA, Probability: 85, Prediction: Over, Scores: 5 - 1, IsSuccess: True
+Team: Spezia U19 vs Bari U19, Probability: 85, Prediction: Over, Scores: 0 - 0, IsSuccess: False
+Team: Bala Azul vs Águilas II, Probability: 90, Prediction: Under, Scores: 0 - 2, IsSuccess: True
+Team: Mijas Las Lagunas vs Atlético Mancha, Probability: 97, Prediction: Under, Scores: 0 - 1, IsSuccess: True
+Team: Dimba Patriots vs APS Bomet, Probability: 85, Prediction: Under, Scores: 1 - 2, IsSuccess: False
+Team: ISOHSA vs Fovu Club, Probability: 92, Prediction: Under, Scores: 4 - 2, IsSuccess: False
+Team: Água Santa U20 vs Linense U20, Probability: 90, Prediction: Over, Scores: 2 - 1, IsSuccess: True
+Team: Rohda Raalte vs HBC, Probability: 88, Prediction: Over, Scores: 2 - 2, IsSuccess: True
+Team: Dolomiti Bellunesi vs Brusaporto, Probability: 85, Prediction: Under, Scores: 2 - 1, IsSuccess: False
+Team: Union Abong-Mbang vs Feutcheu FC, Probability: 90, Prediction: Under, Scores: 0 - 0, IsSuccess: True
+Team: Habay-la-Neuve vs Seraing II, Probability: 90, Prediction: Over, Scores: None, IsSuccess: None
+Team: Eendracht Termien vs KFC Lille, Probability: 88, Prediction: Over, Scores: None, IsSuccess: None
+Team: Belisia Bilzen vs Oud-Heverlee Leuven II, Probability: 90, Prediction: Over, Scores: None, IsSuccess: None
+Team: Dumiense vs USC Paredes, Probability: 90, Prediction: Over, Scores: 0 - 2, IsSuccess: False
+Team: Comércio Indústria vs Lusitano GC, Probability: 85, Prediction: Over, Scores: 0 - 1, IsSuccess: False
+Team: Pêro Pinheiro vs CD Alcains, Probability: 85, Prediction: Under, Scores: 1 - 2, IsSuccess: False
+Team: Bani Gansè vs Real Sport, Probability: 87, Prediction: Under, Scores: 1 - 1, IsSuccess: True
+Team: Amarante vs Sporting Braga B, Probability: 87, Prediction: Under, Scores: 1 - 1, IsSuccess: True
+Team: Real Madrid W vs Granada W, Probability: 99, Prediction: Over, Scores: 3 - 1, IsSuccess: True
+Team: Etoile Filante vs Binah, Probability: 92, Prediction: Under, Scores: 0 - 0, IsSuccess: True
+Team: Togo Port vs Haknour, Probability: 95, Prediction: Under, Scores: 0 - 0, IsSuccess: True
+Team: Santa Amalia vs Llerenense, Probability: 92, Prediction: Under, Scores: 0 - 1, IsSuccess: True
+Team: SD Tarazona vs Unionistas CF, Probability: 90, Prediction: Under, Scores: 1 - 0, IsSuccess: True
+Team: Criciuma U20 vs Santa Cruz U20, Probability: 87, Prediction: Under, Scores: 0 - 0, IsSuccess: True
+count True : 18,   count False : 10, count None : 7 
+winrate:64.29
+
+
+Gnidlo Sergiy

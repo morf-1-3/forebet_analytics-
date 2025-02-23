@@ -1,0 +1,32 @@
+Team: Tivoli Gardens vs Portmore United, Probability: 70, Prediction: Yes, Scores: 1 - 1, IsSuccess: True
+Team: Melbourne City vs Western United, Probability: 71, Prediction: Yes, Scores: 2 - 0, IsSuccess: False
+Team: SK Prostějov vs Sigma Olomouc, Probability: 74, Prediction: Yes, Scores: 1 - 3, IsSuccess: True
+Team: Naft SC Baghdad vs Mina'a Basra, Probability: 71, Prediction: No, Scores: 1 - 0, IsSuccess: True
+Team: Kitara FC vs Villa SC, Probability: 90, Prediction: Yes, Scores: 1 - 0, IsSuccess: False
+Team: Bul FC vs Wakiso Giants, Probability: 70, Prediction: No, Scores: 1 - 1, IsSuccess: False
+Team: Kiboga Young vs NEC, Probability: 71, Prediction: No, Scores: 0 - 1, IsSuccess: True
+Team: Etincelles FC vs AS Kigali, Probability: 70, Prediction: No, Scores: 1 - 0, IsSuccess: True
+Team: Santa Fé SP U20 vs Ponte Preta U20, Probability: 75, Prediction: No, Scores: 1 - 6, IsSuccess: False
+Team: União Suzano U20 vs União TO U20, Probability: 73, Prediction: No, Scores: 2 - 0, IsSuccess: True
+Team: Barra SC U20 vs Internacional U20, Probability: 75, Prediction: No, Scores: 1 - 0, IsSuccess: True
+Team: Santo André U20 vs Porto Velho EC U20, Probability: 73, Prediction: No, Scores: 2 - 0, IsSuccess: True
+Team: CR Belouizdad vs CR Zaouia, Probability: 89, Prediction: No, Scores: 1 - 0, IsSuccess: True
+Team: Canaã U20 vs Vasco U20, Probability: 72, Prediction: No, Scores: 0 - 0, IsSuccess: True
+Team: Gênus U20 vs ABC U20, Probability: 76, Prediction: No, Scores: 0 - 3, IsSuccess: True
+Team: IAPE U20 vs Cuiabá U20, Probability: 75, Prediction: No, Scores: 1 - 1, IsSuccess: False
+Team: Estrela de Março U20 vs América Mineiro U20, Probability: 70, Prediction: No, Scores: 0 - 3, IsSuccess: True
+Team: Flamengo SP U20 vs América SE U20, Probability: 79, Prediction: No, Scores: 2 - 0, IsSuccess: True
+Team: Monte Roraima U20 vs Nautico U20, Probability: 75, Prediction: No, Scores: 1 - 2, IsSuccess: False
+Team: Caerau Ely vs Pontypridd Town, Probability: 94, Prediction: Yes, Scores: None, IsSuccess: None
+Team: Canvey Island vs Potters Bar Town, Probability: 72, Prediction: Yes, Scores: 1 - 2, IsSuccess: True
+Team: Chatham Town vs Hashtag United, Probability: 80, Prediction: Yes, Scores: 0 - 1, IsSuccess: False
+Team: Folkestone Invicta vs Cheshunt FC, Probability: 73, Prediction: Yes, Scores: 0 - 4, IsSuccess: False
+Team: Prescot Cables vs Bamber Bridge, Probability: 82, Prediction: Yes, Scores: None, IsSuccess: None
+Team: Biggleswade Town vs Oxford City, Probability: 76, Prediction: Yes, Scores: 0 - 3, IsSuccess: False
+Team: Rio Branco AC U20 vs Corinthians U20, Probability: 70, Prediction: No, Scores: 0 - 3, IsSuccess: True
+Team: Fleury 91 W vs PSG W, Probability: 84, Prediction: Yes, Scores: 0 - 0, IsSuccess: False
+count True : 15,   count False : 10, count None : 2 
+winrate:60.00
+
+
+Gnidlo Sergiy

@@ -1,0 +1,33 @@
+Team: Colo Colo/BA vs Porto BA, Probability: 75, Prediction: No, Scores: 0 - 0, IsSuccess: True
+Team: Picuiense vs Treze, Probability: 72, Prediction: No, Scores: None, IsSuccess: None
+Team: Botafogo U20 vs Ponte Preta U20, Probability: 78, Prediction: Yes, Scores: 1 - 0, IsSuccess: False
+Team: Wellington Phoenix vs Sydney FC, Probability: 74, Prediction: Yes, Scores: 0 - 0, IsSuccess: False
+Team: Bangkok Glass vs Ratchaburi FC, Probability: 77, Prediction: Yes, Scores: 1 - 2, IsSuccess: True
+Team: Al Hilal Al Manaqil vs Hay Al Arab PS, Probability: 74, Prediction: No, Scores: 4 - 0, IsSuccess: True
+Team: Hilal Al Fasher vs Merreikh Nyala, Probability: 70, Prediction: No, Scores: 1 - 0, IsSuccess: True
+Team: Al Anwar vs Al Borouq, Probability: 74, Prediction: No, Scores: 1 - 1, IsSuccess: False
+Team: Ajman Club vs Al Ain, Probability: 78, Prediction: Yes, Scores: 4 - 2, IsSuccess: True
+Team: Al Nahda vs Al ittihad FC, Probability: 76, Prediction: No, Scores: 0 - 4, IsSuccess: True
+Team: Oltrepò vs NovaRomentin, Probability: 72, Prediction: Yes, Scores: 1 - 3, IsSuccess: True
+Team: Dynamo Douala vs Stade Renard, Probability: 74, Prediction: No, Scores: None, IsSuccess: None
+Team: Mohammedan SC vs Chennaiyin, Probability: 74, Prediction: No, Scores: 2 - 2, IsSuccess: False
+Team: Al-Karma vs Najaf FC, Probability: 70, Prediction: No, Scores: 1 - 0, IsSuccess: True
+Team: Andraus Brasil vs Azuriz FC/PR, Probability: 72, Prediction: No, Scores: 2 - 0, IsSuccess: True
+Team: TAFIC vs Gaborone United, Probability: 87, Prediction: Yes, Scores: 1 - 1, IsSuccess: True
+Team: CD Castellón B vs Jove Español, Probability: 75, Prediction: Yes, Scores: 2 - 1, IsSuccess: True
+Team: Benfica U23 vs Gil Vicente U23, Probability: 93, Prediction: Yes, Scores: 0 - 1, IsSuccess: False
+Team: Binga vs AS Real Bamako, Probability: 71, Prediction: No, Scores: 1 - 2, IsSuccess: False
+Team: Freetown City vs East End Lions FC, Probability: 78, Prediction: No, Scores: 1 - 2, IsSuccess: False
+Team: AS Korofina vs AS Police Bamako, Probability: 70, Prediction: No, Scores: 0 - 1, IsSuccess: True
+Team: Laguna vs Forca e Luz, Probability: 81, Prediction: No, Scores: 1 - 1, IsSuccess: False
+Team: Gremio U20 vs Goias U20, Probability: 77, Prediction: Yes, Scores: 4 - 0, IsSuccess: False
+Team: Ontinyent 1931 vs Benidorm CF, Probability: 76, Prediction: No, Scores: 2 - 0, IsSuccess: True
+Team: Waalwijk vs Utrecht, Probability: 87, Prediction: Yes, Scores: 1 - 2, IsSuccess: True
+Team: Stuttgart vs RB Leipzig, Probability: 78, Prediction: Yes, Scores: 2 - 1, IsSuccess: True
+Team: Werder Bremen vs Heidenheim, Probability: 75, Prediction: Yes, Scores: 3 - 3, IsSuccess: True
+Team: Palmeiras U20 vs Sport Recife U20, Probability: 77, Prediction: Yes, Scores: 2 - 0, IsSuccess: False
+count True : 16,   count False : 10, count None : 2 
+winrate:61.54
+
+
+Gnidlo Sergiy

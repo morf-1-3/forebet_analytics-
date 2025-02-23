@@ -1,0 +1,7 @@
+Team: Sport Recife U20 vs Oeste U20, Probability: 90, Prediction: Under, Scores: 0 - 0, IsSuccess: True
+Team: RCC Kamsar vs Guinée Foot Elite, Probability: 100, Prediction: Under, Scores: 1 - 0, IsSuccess: True
+count True : 2,   count False : 0, count None : 0 
+winrate:100.00
+
+
+Gnidlo Sergiy

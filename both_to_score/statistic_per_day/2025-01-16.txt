@@ -1,0 +1,13 @@
+Team: IAPE/MA vs Sampaio Correa, Probability: 77, Prediction: No, Scores: 0 - 3, IsSuccess: True
+Team: Goianésia GO vs Inhumas, Probability: 80, Prediction: No, Scores: 0 - 1, IsSuccess: True
+Team: Minerva Punjab vs Mumbai City, Probability: 72, Prediction: Yes, Scores: 1 - 1, IsSuccess: True
+Team: Al Adalah vs Al Arabi (KSA), Probability: 77, Prediction: Yes, Scores: 2 - 4, IsSuccess: True
+Team: ASC Kara vs Haknour, Probability: 80, Prediction: No, Scores: 3 - 0, IsSuccess: True
+Team: AS Bakaridjan vs Afrique Football Élite, Probability: 72, Prediction: No, Scores: 0 - 2, IsSuccess: True
+Team: Fluminense U20 vs Sao Paulo U20, Probability: 89, Prediction: Yes, Scores: 0 - 0, IsSuccess: False
+Team: Guarani U20 vs Ferroviária U20, Probability: 77, Prediction: Yes, Scores: 0 - 2, IsSuccess: False
+count True : 6,   count False : 2, count None : 0 
+winrate:75.00
+
+
+Gnidlo Sergiy

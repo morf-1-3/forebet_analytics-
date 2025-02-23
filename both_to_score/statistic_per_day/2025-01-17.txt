@@ -1,0 +1,33 @@
+Team: CA Cerro vs Plaza Colonia, Probability: 75, Prediction: No, Scores: 0 - 1, IsSuccess: True
+Team: Sportivo Italiano vs Villa Dálmine, Probability: 75, Prediction: No, Scores: 0 - 0, IsSuccess: True
+Team: Shimshon Kafr Qasim vs Ironi Kiryat Malakhi, Probability: 79, Prediction: No, Scores: None, IsSuccess: None
+Team: Hapoel Katamon vs Maccabi Haifa, Probability: 72, Prediction: Yes, Scores: None, IsSuccess: None
+Team: Port FC vs Prachuap, Probability: 72, Prediction: Yes, Scores: None, IsSuccess: None
+Team: Buriram United vs Bangkok Glass, Probability: 72, Prediction: Yes, Scores: None, IsSuccess: None
+Team: Estrella vs La Fama, Probability: 90, Prediction: Yes, Scores: 1 - 2, IsSuccess: True
+Team: Central FC (T&T) vs La Horquetta Rangers, Probability: 86, Prediction: Yes, Scores: 2 - 3, IsSuccess: True
+Team: Deportivo Cali vs Atlético Bucaramanga, Probability: 79, Prediction: No, Scores: 0 - 0, IsSuccess: True
+Team: Maitland FC vs Valentine Phoenix, Probability: 76, Prediction: Yes, Scores: 3 - 3, IsSuccess: True
+Team: Sydney Olympic vs WS Wanderers Youth, Probability: 87, Prediction: Yes, Scores: 0 - 1, IsSuccess: False
+Team: Western United vs Auckland, Probability: 77, Prediction: Yes, Scores: 0 - 2, IsSuccess: False
+Team: Altona Magic SC vs St Albans Saints, Probability: 70, Prediction: Yes, Scores: 2 - 1, IsSuccess: True
+Team: Newcastle Olympic vs Cooks Hill United, Probability: 80, Prediction: Yes, Scores: 4 - 2, IsSuccess: True
+Team: Blacktown City vs NWS Spirit, Probability: 74, Prediction: Yes, Scores: 0 - 4, IsSuccess: False
+Team: Adelaide United vs Newcastle Jets, Probability: 70, Prediction: Yes, Scores: 1 - 2, IsSuccess: True
+Team: Prime Bangkok FC vs Lopburi City, Probability: 72, Prediction: Yes, Scores: 2 - 1, IsSuccess: True
+Team: Yala City vs Songkhla FC, Probability: 71, Prediction: No, Scores: None, IsSuccess: None
+Team: Thonburi United vs Nonthaburi United, Probability: 75, Prediction: Yes, Scores: 2 - 1, IsSuccess: True
+Team: Hoffenheim U19 vs Hannover U19, Probability: 96, Prediction: Yes, Scores: None, IsSuccess: None
+Team: BAK 07 U19 vs Holstein Kiel U19, Probability: 88, Prediction: Yes, Scores: None, IsSuccess: None
+Team: Hansa Rostock U19 vs Braunschweig U19, Probability: 89, Prediction: Yes, Scores: 1 - 1, IsSuccess: True
+Team: Lazio U19 vs Atalanta U19, Probability: 73, Prediction: Yes, Scores: 1 - 0, IsSuccess: False
+Team: Südtirol U19 vs Entella U19, Probability: 71, Prediction: Yes, Scores: None, IsSuccess: None
+Team: Ascoli U19 vs Bari U19, Probability: 74, Prediction: Yes, Scores: 3 - 0, IsSuccess: False
+Team: Salernitana U19 vs Spezia U19, Probability: 74, Prediction: Yes, Scores: 2 - 1, IsSuccess: True
+Team: Crotone U19 vs Avellino U19, Probability: 72, Prediction: Yes, Scores: 7 - 0, IsSuccess: False
+Team: Boeung Ket FC vs Visakha FC, Probability: 95, Prediction: Yes, Scores: 0 - 2, IsSuccess: False
+count True : 13,   count False : 7, count None : 8 
+winrate:65.00
+
+
+Gnidlo Sergiy

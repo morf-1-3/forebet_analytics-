@@ -1,0 +1,29 @@
+Team: Floresta CE U20 vs Botafogo U20, Probability: 81, Prediction: No, Scores: 0 - 1, IsSuccess: True
+Team: Fortaleza U20 vs Carajás U20, Probability: 82, Prediction: No, Scores: 2 - 2, IsSuccess: False
+Team: São Carlos U20 vs Real Brasília U20, Probability: 77, Prediction: No, Scores: 1 - 1, IsSuccess: False
+Team: Montego Bay Utd vs Chapelton, Probability: 70, Prediction: No, Scores: 2 - 1, IsSuccess: False
+Team: Macarthur FC vs Adelaide United, Probability: 89, Prediction: Yes, Scores: 1 - 2, IsSuccess: True
+Team: Sekka Al Hadid vs Baladiyyat Al Mahalla, Probability: 82, Prediction: No, Scores: 1 - 1, IsSuccess: False
+Team: Bright Stars vs Lugazi Municipal, Probability: 81, Prediction: No, Scores: 1 - 1, IsSuccess: False
+Team: Asaria vs Al Khums, Probability: 72, Prediction: No, Scores: 0 - 2, IsSuccess: True
+Team: Al Jubail Club vs Ohud Medina, Probability: 71, Prediction: No, Scores: 0 - 0, IsSuccess: True
+Team: Estrela U23 vs Vizela U23, Probability: 77, Prediction: Yes, Scores: 4 - 2, IsSuccess: True
+Team: Al Ittihad Al Misrati vs Al Watan, Probability: 70, Prediction: No, Scores: 1 - 0, IsSuccess: True
+Team: Wahda Abu Dhabi vs Dubba Al Husun, Probability: 77, Prediction: Yes, Scores: 4 - 1, IsSuccess: True
+Team: US Bougouni vs AS Real Bamako, Probability: 74, Prediction: No, Scores: 0 - 3, IsSuccess: True
+Team: Tanabi SP U20 vs Força e Luz U20, Probability: 75, Prediction: No, Scores: 3 - 2, IsSuccess: False
+Team: Bandeirante U20 vs Botafogo SP U20, Probability: 80, Prediction: Yes, Scores: 0 - 3, IsSuccess: False
+Team: Hapoel Petah Tikva vs Hapoel Tel Aviv, Probability: 79, Prediction: Yes, Scores: 0 - 1, IsSuccess: False
+Team: Al Ahli Benghazi vs Hilal Benghazi, Probability: 70, Prediction: Yes, Scores: 1 - 0, IsSuccess: False
+Team: Merreikh Al Sudan vs Garde Nationale, Probability: 74, Prediction: No, Scores: 0 - 1, IsSuccess: True
+Team: Onze Créateurs vs USFAS Bamako, Probability: 70, Prediction: No, Scores: 1 - 3, IsSuccess: False
+Team: Francana U20 vs Guarani U20, Probability: 79, Prediction: Yes, Scores: 0 - 5, IsSuccess: False
+Team: Dom Bosco U20 vs Coritiba U20, Probability: 75, Prediction: No, Scores: 0 - 0, IsSuccess: True
+Team: Crystal Palace U21 vs Fulham U23s, Probability: 95, Prediction: Yes, Scores: 0 - 1, IsSuccess: False
+Team: Comercial de Tietê U20 vs Operário AC MS U20, Probability: 80, Prediction: No, Scores: 3 - 1, IsSuccess: False
+Team: Osasco Audax U20 vs Ferroviário U20, Probability: 84, Prediction: No, Scores: 1 - 0, IsSuccess: True
+count True : 11,   count False : 13, count None : 0 
+winrate:45.83
+
+
+Gnidlo Sergiy

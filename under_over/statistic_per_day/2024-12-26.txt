@@ -1,0 +1,12 @@
+Team: Bowers & Pitsea vs Hashtag United, Probability: 85, Prediction: Under, Scores: 2 - 2, IsSuccess: False
+Team: Hendon FC vs Potters Bar Town, Probability: 85, Prediction: Under, Scores: 0 - 4, IsSuccess: False
+Team: Al Mahdia vs Al Andalus, Probability: 100, Prediction: Under, Scores: 0 - 0, IsSuccess: True
+Team: Holywell Town vs Llay Miners Welfare, Probability: 99, Prediction: Over, Scores: 2 - 0, IsSuccess: False
+Team: Pontypridd Town vs Taffs Well, Probability: 99, Prediction: Over, Scores: 3 - 0, IsSuccess: True
+Team: King's Lynn vs Needham Market, Probability: 97, Prediction: Under, Scores: 2 - 2, IsSuccess: False
+Team: Enfield Town vs Boreham Wood, Probability: 93, Prediction: Over, Scores: 0 - 2, IsSuccess: False
+count True : 2,   count False : 5, count None : 0 
+winrate:28.57
+
+
+Gnidlo Sergiy

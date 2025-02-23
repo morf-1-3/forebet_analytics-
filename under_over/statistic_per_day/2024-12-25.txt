@@ -1,0 +1,8 @@
+Team: Baath Bouhajla vs AS Kasserine, Probability: 85, Prediction: Under, Scores: 1 - 0, IsSuccess: True
+Team: AS Agareb vs Progrès Sakiet Eddaïer, Probability: 85, Prediction: Under, Scores: 0 - 0, IsSuccess: True
+Team: Djelma vs Chebba, Probability: 97, Prediction: Under, Scores: 2 - 1, IsSuccess: False
+count True : 2,   count False : 1, count None : 0 
+winrate:66.67
+
+
+Gnidlo Sergiy

@@ -1,0 +1,16 @@
+Team: Zob Ahan vs Nassaji Mazandaran, Probability: 75, Prediction: No, Scores: 0 - 0, IsSuccess: True
+Team: Mogadishu City vs Gaadiidka, Probability: 77, Prediction: Yes, Scores: 1 - 0, IsSuccess: False
+Team: Al Anwar vs Al Akhdar SC, Probability: 77, Prediction: Yes, Scores: 1 - 2, IsSuccess: True
+Team: Maroons FC vs Kiboga Young, Probability: 72, Prediction: No, Scores: 1 - 0, IsSuccess: True
+Team: Kaedi vs Nouakchott King's, Probability: 73, Prediction: No, Scores: 3 - 3, IsSuccess: False
+Team: Mina'a Basra vs Naft Maysan, Probability: 70, Prediction: No, Scores: 1 - 0, IsSuccess: True
+Team: Dundee vs Dundee United, Probability: 73, Prediction: Yes, Scores: 1 - 2, IsSuccess: True
+Team: Nouadhibou vs SNIM, Probability: 77, Prediction: No, Scores: 2 - 1, IsSuccess: False
+Team: São Carlos U20 vs Imperatriz U20, Probability: 77, Prediction: No, Scores: 2 - 1, IsSuccess: False
+Team: Newport County vs AFC Wimbledon, Probability: 75, Prediction: Yes, Scores: 1 - 2, IsSuccess: True
+Team: Mirassol U20 vs Rio Branco ES U20, Probability: 79, Prediction: No, Scores: 2 - 1, IsSuccess: False
+count True : 6,   count False : 5, count None : 0 
+winrate:54.55
+
+
+Gnidlo Sergiy

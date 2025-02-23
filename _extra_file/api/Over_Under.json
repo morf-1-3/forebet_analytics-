@@ -1,0 +1,1436 @@
+[
+    {
+        "event_name": "Portsmouth - Middlesbrough",
+        "bet_choice": "Under 2.5",
+        "bet_odds": "2.20",
+        "name": "forebet"
+    },
+    {
+        "event_name": "Birmingham City - Exeter City",
+        "bet_choice": "Under 2.5",
+        "bet_odds": "2.15",
+        "name": "forebet"
+    },
+    {
+        "event_name": "Mansfield - Wycombe",
+        "bet_choice": "Under 2.5",
+        "bet_odds": "1.85",
+        "name": "forebet"
+    },
+    {
+        "event_name": "Reading - Stockport County",
+        "bet_choice": "Over 2.5",
+        "bet_odds": "1.73",
+        "name": "forebet"
+    },
+    {
+        "event_name": "Rotherham - Charlton Athletic",
+        "bet_choice": "Under 2.5",
+        "bet_odds": "1.65",
+        "name": "forebet"
+    },
+    {
+        "event_name": "Stevenage - Wigan Athletic",
+        "bet_choice": "Under 2.5",
+        "bet_odds": "1.48",
+        "name": "forebet"
+    },
+    {
+        "event_name": "Bromley FC - Colchester Utd",
+        "bet_choice": "Under 2.5",
+        "bet_odds": "1.85",
+        "name": "forebet"
+    },
+    {
+        "event_name": "Port Vale - Newport County",
+        "bet_choice": "Under 2.5",
+        "bet_odds": "2.00",
+        "name": "forebet"
+    },
+    {
+        "event_name": "Dender - Cercle Brugge",
+        "bet_choice": "Under 2.5",
+        "bet_odds": "1.80",
+        "name": "forebet"
+    },
+    {
+        "event_name": "Oldham Athletic - Aldershot Town",
+        "bet_choice": "Under 2.5",
+        "bet_odds": "2.15",
+        "name": "forebet"
+    },
+    {
+        "event_name": "Southend Utd - Barnet",
+        "bet_choice": "Under 2.5",
+        "bet_odds": "2.10",
+        "name": "forebet"
+    },
+    {
+        "event_name": "Woking - Ebbsfleet Utd",
+        "bet_choice": "Over 2.5",
+        "bet_odds": "1.70",
+        "name": "forebet"
+    },
+    {
+        "event_name": "York City - Sutton United",
+        "bet_choice": "Over 2.5",
+        "bet_odds": "1.75",
+        "name": "forebet"
+    },
+    {
+        "event_name": "Buxton FC - Peterborough Sports",
+        "bet_choice": "Over 2.5",
+        "bet_odds": "1.85",
+        "name": "forebet"
+    },
+    {
+        "event_name": "Curzon Ashton - Brackley Town",
+        "bet_choice": "Under 2.5",
+        "bet_odds": "1.67",
+        "name": "forebet"
+    },
+    {
+        "event_name": "Hereford Utd - Southport",
+        "bet_choice": "Under 2.5",
+        "bet_odds": "1.75",
+        "name": "forebet"
+    },
+    {
+        "event_name": "Kidderminster - Warrington Town",
+        "bet_choice": "Under 2.5",
+        "bet_odds": "2.15",
+        "name": "forebet"
+    },
+    {
+        "event_name": "Needham Market - Radcliffe Borough",
+        "bet_choice": "Under 2.5",
+        "bet_odds": "1.75",
+        "name": "forebet"
+    },
+    {
+        "event_name": "Spennymoor Town - Rushall Olympic",
+        "bet_choice": "Over 2.5",
+        "bet_odds": "1.75",
+        "name": "forebet"
+    },
+    {
+        "event_name": "Chelmsford - AFC Hornchurch",
+        "bet_choice": "Under 2.5",
+        "bet_odds": "1.80",
+        "name": "forebet"
+    },
+    {
+        "event_name": "Dorking Wanderers - Weston-s-Mare",
+        "bet_choice": "Under 2.5",
+        "bet_odds": "2.10",
+        "name": "forebet"
+    },
+    {
+        "event_name": "Farnborough FC - Hemel Hempstead",
+        "bet_choice": "Under 2.5",
+        "bet_odds": "2.25",
+        "name": "forebet"
+    },
+    {
+        "event_name": "Hampton FC - Tonbridge Angels",
+        "bet_choice": "Under 2.5",
+        "bet_odds": "1.70",
+        "name": "forebet"
+    },
+    {
+        "event_name": "Slough Town - Eastbourne",
+        "bet_choice": "Under 2.5",
+        "bet_odds": "1.95",
+        "name": "forebet"
+    },
+    {
+        "event_name": "St Albans City - Torquay United",
+        "bet_choice": "Over 2.5",
+        "bet_odds": "2.08",
+        "name": "forebet"
+    },
+    {
+        "event_name": "Truro City - Aveley FC",
+        "bet_choice": "Under 2.5",
+        "bet_odds": "1.85",
+        "name": "forebet"
+    },
+    {
+        "event_name": "Welling Utd - Boreham Wood",
+        "bet_choice": "Under 2.5",
+        "bet_odds": "2.00",
+        "name": "forebet"
+    },
+    {
+        "event_name": "Coleraine FC - Crusaders Belfast",
+        "bet_choice": "Under 2.5",
+        "bet_odds": "1.95",
+        "name": "forebet"
+    },
+    {
+        "event_name": "Portadown FC - Linfield Belfast",
+        "bet_choice": "Under 2.5",
+        "bet_odds": "1.85",
+        "name": "forebet"
+    },
+    {
+        "event_name": "Billericay - Dulwich Hamlet",
+        "bet_choice": "Under 2.5",
+        "bet_odds": "2.35",
+        "name": "forebet"
+    },
+    {
+        "event_name": "Cheshunt FC - Whitehawk FC",
+        "bet_choice": "Over 2.5",
+        "bet_odds": "1.57",
+        "name": "forebet"
+    },
+    {
+        "event_name": "Cray Valley PM - Bognor Regis Town",
+        "bet_choice": "Over 2.5",
+        "bet_odds": "1.44",
+        "name": "forebet"
+    },
+    {
+        "event_name": "Folkestone Invicta - Canvey Island",
+        "bet_choice": "Over 2.5",
+        "bet_odds": "1.60",
+        "name": "forebet"
+    },
+    {
+        "event_name": "Hashtag United - Dover Athletic",
+        "bet_choice": "Over 2.5",
+        "bet_odds": "1.44",
+        "name": "forebet"
+    },
+    {
+        "event_name": "Hastings United - Cray Wanderers",
+        "bet_choice": "Under 2.5",
+        "bet_odds": "2.05",
+        "name": "forebet"
+    },
+    {
+        "event_name": "Lewes FC - Horsham",
+        "bet_choice": "Over 2.5",
+        "bet_odds": "1.67",
+        "name": "forebet"
+    },
+    {
+        "event_name": "Wingate & Finchley - Dartford",
+        "bet_choice": "Over 2.5",
+        "bet_odds": "1.50",
+        "name": "forebet"
+    },
+    {
+        "event_name": "Ards FC - Armagh City",
+        "bet_choice": "Under 2.5",
+        "bet_odds": "2.35",
+        "name": "forebet"
+    },
+    {
+        "event_name": "AFC Totton - Gosport Borough",
+        "bet_choice": "Under 2.5",
+        "bet_odds": "2.30",
+        "name": "forebet"
+    },
+    {
+        "event_name": "Dorchester Town - Bracknell Town",
+        "bet_choice": "Over 2.5",
+        "bet_odds": "1.75",
+        "name": "forebet"
+    },
+    {
+        "event_name": "Gloucester - Sholing",
+        "bet_choice": "Over 2.5",
+        "bet_odds": "1.53",
+        "name": "forebet"
+    },
+    {
+        "event_name": "Hanwell Town - Tiverton Town",
+        "bet_choice": "Under 2.5",
+        "bet_odds": "2.08",
+        "name": "forebet"
+    },
+    {
+        "event_name": "Havant & Waterlooville - Merthyr Town",
+        "bet_choice": "Over 2.5",
+        "bet_odds": "1.53",
+        "name": "forebet"
+    },
+    {
+        "event_name": "Marlow - Plymouth Parkway",
+        "bet_choice": "Over 2.5",
+        "bet_odds": "1.50",
+        "name": "forebet"
+    },
+    {
+        "event_name": "Poole Town - Basingstoke",
+        "bet_choice": "Under 2.5",
+        "bet_odds": "2.10",
+        "name": "forebet"
+    },
+    {
+        "event_name": "Swindon Supermarine - Chertsey Town",
+        "bet_choice": "Over 2.5",
+        "bet_odds": "1.36",
+        "name": "forebet"
+    },
+    {
+        "event_name": "Taunton - Wimborne Town",
+        "bet_choice": "Under 2.5",
+        "bet_odds": "2.15",
+        "name": "forebet"
+    },
+    {
+        "event_name": "Walton & Hersham - Hungerford Town",
+        "bet_choice": "Over 2.5",
+        "bet_odds": "1.53",
+        "name": "forebet"
+    },
+    {
+        "event_name": "Winchester City - Frome Town",
+        "bet_choice": "Under 2.5",
+        "bet_odds": "2.20",
+        "name": "forebet"
+    },
+    {
+        "event_name": "AFC Sudbury - Halesowen Town",
+        "bet_choice": "Over 2.5",
+        "bet_odds": "1.73",
+        "name": "forebet"
+    },
+    {
+        "event_name": "AFC Telford Utd - Stamford",
+        "bet_choice": "Under 2.5",
+        "bet_odds": "2.20",
+        "name": "forebet"
+    },
+    {
+        "event_name": "Alvechurch FC - Barwell FC",
+        "bet_choice": "Over 2.5",
+        "bet_odds": "1.95",
+        "name": "forebet"
+    },
+    {
+        "event_name": "Banbury United - Bishop's Stortford",
+        "bet_choice": "Under 2.5",
+        "bet_odds": "1.75",
+        "name": "forebet"
+    },
+    {
+        "event_name": "Bromsgrove Sporting - Leiston FC",
+        "bet_choice": "Over 2.5",
+        "bet_odds": "1.85",
+        "name": "forebet"
+    },
+    {
+        "event_name": "Hitchin Town - Biggleswade Town",
+        "bet_choice": "Under 2.5",
+        "bet_odds": "2.20",
+        "name": "forebet"
+    },
+    {
+        "event_name": "Lowestoft Town - Stourbridge FC",
+        "bet_choice": "Over 2.5",
+        "bet_odds": "1.57",
+        "name": "forebet"
+    },
+    {
+        "event_name": "Redditch Utd - Kettering Town",
+        "bet_choice": "Over 2.5",
+        "bet_odds": "1.73",
+        "name": "forebet"
+    },
+    {
+        "event_name": "Royston Town - Harborough Town",
+        "bet_choice": "Under 2.5",
+        "bet_odds": "1.95",
+        "name": "forebet"
+    },
+    {
+        "event_name": "St Ives Town - Bedford Town",
+        "bet_choice": "Over 2.5",
+        "bet_odds": "1.57",
+        "name": "forebet"
+    },
+    {
+        "event_name": "Ashton United - Whitby Town",
+        "bet_choice": "Over 2.5",
+        "bet_odds": "1.73",
+        "name": "forebet"
+    },
+    {
+        "event_name": "FC United - Blyth Spartans",
+        "bet_choice": "Over 2.5",
+        "bet_odds": "1.62",
+        "name": "forebet"
+    },
+    {
+        "event_name": "Gainsborough - Macclesfield",
+        "bet_choice": "Over 2.5",
+        "bet_odds": "1.62",
+        "name": "forebet"
+    },
+    {
+        "event_name": "Guiseley AFC - Basford Utd",
+        "bet_choice": "Over 2.5",
+        "bet_odds": "1.57",
+        "name": "forebet"
+    },
+    {
+        "event_name": "Leek Town - Lancaster City",
+        "bet_choice": "Under 2.5",
+        "bet_odds": "1.90",
+        "name": "forebet"
+    },
+    {
+        "event_name": "Mickleover FC - Warrington Rylands",
+        "bet_choice": "Under 2.5",
+        "bet_odds": "1.90",
+        "name": "forebet"
+    },
+    {
+        "event_name": "Prescot Cables - Worksop Town",
+        "bet_choice": "Over 2.5",
+        "bet_odds": "1.67",
+        "name": "forebet"
+    },
+    {
+        "event_name": "Workington - Matlock Town",
+        "bet_choice": "Over 2.5",
+        "bet_odds": "1.67",
+        "name": "forebet"
+    },
+    {
+        "event_name": "GD Bragança - Pevidém SC",
+        "bet_choice": "Under 2.5",
+        "bet_odds": "1.67",
+        "name": "forebet"
+    },
+    {
+        "event_name": "Queen's Park FC - Montrose FC",
+        "bet_choice": "Under 2.5",
+        "bet_odds": "2.25",
+        "name": "forebet"
+    },
+    {
+        "event_name": "Ross County - Livingston",
+        "bet_choice": "Over 2.5",
+        "bet_odds": "1.90",
+        "name": "forebet"
+    },
+    {
+        "event_name": "Queen of the South - St Mirren",
+        "bet_choice": "Over 2.5",
+        "bet_odds": "1.44",
+        "name": "forebet"
+    },
+    {
+        "event_name": "FCM Aubervilliers - AS Beauvais Oise",
+        "bet_choice": "Under 2.5",
+        "bet_odds": "1.67",
+        "name": "forebet"
+    },
+    {
+        "event_name": "FR Haguenau - Feignies Aulnoye",
+        "bet_choice": "Over 2.5",
+        "bet_odds": "2.05",
+        "name": "forebet"
+    },
+    {
+        "event_name": "Jura Sud - Bergerac Périgord",
+        "bet_choice": "Under 2.5",
+        "bet_odds": "-",
+        "name": "forebet"
+    },
+    {
+        "event_name": "Cultural Guarnizo - Monte",
+        "bet_choice": "Under 2.5",
+        "bet_odds": "-",
+        "name": "forebet"
+    },
+    {
+        "event_name": "Atlético Mansillés - CF Briviesca",
+        "bet_choice": "Under 2.5",
+        "bet_odds": "-",
+        "name": "forebet"
+    },
+    {
+        "event_name": "Cultural Leonesa B - La Virgen del Camino",
+        "bet_choice": "Over 2.5",
+        "bet_odds": "-",
+        "name": "forebet"
+    },
+    {
+        "event_name": "Alcantarilla - CD Plus Ultra",
+        "bet_choice": "Over 2.5",
+        "bet_odds": "2.05",
+        "name": "forebet"
+    },
+    {
+        "event_name": "CD Ardoi - Peña Sport",
+        "bet_choice": "Over 2.5",
+        "bet_odds": "-",
+        "name": "forebet"
+    },
+    {
+        "event_name": "CD Huarte - Rotxapea",
+        "bet_choice": "Over 2.5",
+        "bet_odds": "-",
+        "name": "forebet"
+    },
+    {
+        "event_name": "CD Beti Onak - CA Artajonés",
+        "bet_choice": "Under 2.5",
+        "bet_odds": "-",
+        "name": "forebet"
+    },
+    {
+        "event_name": "UD Fraga - Brea",
+        "bet_choice": "Over 2.5",
+        "bet_odds": "-",
+        "name": "forebet"
+    },
+    {
+        "event_name": "Académica Coimbra - SU 1º Dezembro",
+        "bet_choice": "Under 2.5",
+        "bet_odds": "-",
+        "name": "forebet"
+    },
+    {
+        "event_name": "Amarante - AD Fafe",
+        "bet_choice": "Over 2.5",
+        "bet_odds": "-",
+        "name": "forebet"
+    },
+    {
+        "event_name": "Lusitânia FC - AD Sanjoanense",
+        "bet_choice": "Under 2.5",
+        "bet_odds": "-",
+        "name": "forebet"
+    },
+    {
+        "event_name": "Sporting Lisboa B - Belenenses",
+        "bet_choice": "Over 2.5",
+        "bet_odds": "-",
+        "name": "forebet"
+    },
+    {
+        "event_name": "Leganes - Atlético Madrid",
+        "bet_choice": "Over 2.5",
+        "bet_odds": "2.00",
+        "name": "forebet"
+    },
+    {
+        "event_name": "Eldense - Cadiz",
+        "bet_choice": "Under 2.5",
+        "bet_odds": "1.44",
+        "name": "forebet"
+    },
+    {
+        "event_name": "Birkirkara FC - Gzira United",
+        "bet_choice": "Over 2.5",
+        "bet_odds": "1.90",
+        "name": "forebet"
+    },
+    {
+        "event_name": "Belchite 97 - Fuentes",
+        "bet_choice": "Under 2.5",
+        "bet_odds": "1.62",
+        "name": "forebet"
+    },
+    {
+        "event_name": "Athletic Club W - Barcelona W",
+        "bet_choice": "Over 2.5",
+        "bet_odds": "1.17",
+        "name": "forebet"
+    },
+    {
+        "event_name": "Club Brugge W - Zulte-Waregem W",
+        "bet_choice": "Over 2.5",
+        "bet_odds": "1.44",
+        "name": "forebet"
+    },
+    {
+        "event_name": "PEC Zwolle - PSV Eindhoven",
+        "bet_choice": "Over 2.5",
+        "bet_odds": "1.33",
+        "name": "forebet"
+    },
+    {
+        "event_name": "MVV Maastricht - FC Den Bosch",
+        "bet_choice": "Over 2.5",
+        "bet_odds": "1.62",
+        "name": "forebet"
+    },
+    {
+        "event_name": "Santa Clara - GD Estoril",
+        "bet_choice": "Under 2.5",
+        "bet_odds": "1.60",
+        "name": "forebet"
+    },
+    {
+        "event_name": "Bnei Sakhnin - Maccabi Haifa",
+        "bet_choice": "Under 2.5",
+        "bet_odds": "2.50",
+        "name": "forebet"
+    },
+    {
+        "event_name": "CD Feirense - União Torreense",
+        "bet_choice": "Over 2.5",
+        "bet_odds": "2.30",
+        "name": "forebet"
+    },
+    {
+        "event_name": "KF Tirana - Egnatia Rrogozhine",
+        "bet_choice": "Under 2.5",
+        "bet_odds": "1.57",
+        "name": "forebet"
+    },
+    {
+        "event_name": "SV Wehen - Verl",
+        "bet_choice": "Over 2.5",
+        "bet_odds": "1.70",
+        "name": "forebet"
+    },
+    {
+        "event_name": "SD Ejea - Real Sociedad C",
+        "bet_choice": "Over 2.5",
+        "bet_odds": "1.90",
+        "name": "forebet"
+    },
+    {
+        "event_name": "Gudja United - Swieqi United",
+        "bet_choice": "Over 2.5",
+        "bet_odds": "1.85",
+        "name": "forebet"
+    },
+    {
+        "event_name": "Senglea Athletic - Lija Athletic",
+        "bet_choice": "Over 2.5",
+        "bet_odds": "2.00",
+        "name": "forebet"
+    },
+    {
+        "event_name": "SD Gama (ESP) - CD Cayón",
+        "bet_choice": "Over 2.5",
+        "bet_odds": "-",
+        "name": "forebet"
+    },
+    {
+        "event_name": "SD Torina - SD Revilla",
+        "bet_choice": "Over 2.5",
+        "bet_odds": "-",
+        "name": "forebet"
+    },
+    {
+        "event_name": "Pasaia KE - SD Deusto",
+        "bet_choice": "Over 2.5",
+        "bet_odds": "-",
+        "name": "forebet"
+    },
+    {
+        "event_name": "Deportivo Alavés III - Padura",
+        "bet_choice": "Under 2.5",
+        "bet_odds": "1.70",
+        "name": "forebet"
+    },
+    {
+        "event_name": "CD Binissalem - SD Portmany",
+        "bet_choice": "Under 2.5",
+        "bet_odds": "1.62",
+        "name": "forebet"
+    },
+    {
+        "event_name": "Penya Independent - Alcúdia",
+        "bet_choice": "Over 2.5",
+        "bet_odds": "-",
+        "name": "forebet"
+    },
+    {
+        "event_name": "UD Mutilvera - Beti Kozkor KE",
+        "bet_choice": "Over 2.5",
+        "bet_odds": "1.80",
+        "name": "forebet"
+    },
+    {
+        "event_name": "Zuera - Andorra CF",
+        "bet_choice": "Over 2.5",
+        "bet_odds": "2.25",
+        "name": "forebet"
+    },
+    {
+        "event_name": "CD Marchamalo - CD Pedroñeras",
+        "bet_choice": "Over 2.5",
+        "bet_odds": "-",
+        "name": "forebet"
+    },
+    {
+        "event_name": "PSV W - SBV Excelsior W",
+        "bet_choice": "Over 2.5",
+        "bet_odds": "1.11",
+        "name": "forebet"
+    },
+    {
+        "event_name": "FC Twente W - Fortuna Sittard W",
+        "bet_choice": "Over 2.5",
+        "bet_odds": "1.40",
+        "name": "forebet"
+    },
+    {
+        "event_name": "Poblense - CE Felanitx",
+        "bet_choice": "Under 2.5",
+        "bet_odds": "-",
+        "name": "forebet"
+    },
+    {
+        "event_name": "Lens - PSG",
+        "bet_choice": "Under 2.5",
+        "bet_odds": "2.30",
+        "name": "forebet"
+    },
+    {
+        "event_name": "Besiktas - Samsunspor",
+        "bet_choice": "Under 2.5",
+        "bet_odds": "2.08",
+        "name": "forebet"
+    },
+    {
+        "event_name": "Maccabi Bnei Raina - Maccabi Petah Tikva",
+        "bet_choice": "Over 2.5",
+        "bet_odds": "2.30",
+        "name": "forebet"
+    },
+    {
+        "event_name": "Apollon Limassol - Karmiotissa",
+        "bet_choice": "Over 2.5",
+        "bet_odds": "1.73",
+        "name": "forebet"
+    },
+    {
+        "event_name": "Spartans FC - Forfar Athletic",
+        "bet_choice": "Under 2.5",
+        "bet_odds": "-",
+        "name": "forebet"
+    },
+    {
+        "event_name": "Çorum Belediyesi - Ümraniyespor",
+        "bet_choice": "Under 2.5",
+        "bet_odds": "1.85",
+        "name": "forebet"
+    },
+    {
+        "event_name": "CD Walter Ferretti - H&H Export",
+        "bet_choice": "Over 2.5",
+        "bet_odds": "2.38",
+        "name": "forebet"
+    },
+    {
+        "event_name": "Inter San Carlos - AD Sarchí",
+        "bet_choice": "Under 2.5",
+        "bet_odds": "2.20",
+        "name": "forebet"
+    },
+    {
+        "event_name": "Guadalupe FC - Consultants Moravia",
+        "bet_choice": "Under 2.5",
+        "bet_odds": "1.90",
+        "name": "forebet"
+    },
+    {
+        "event_name": "CSD Sacachispas - Deportivo Mictlán",
+        "bet_choice": "Under 2.5",
+        "bet_odds": "1.95",
+        "name": "forebet"
+    },
+    {
+        "event_name": "Club Atlas - Club León",
+        "bet_choice": "Under 2.5",
+        "bet_odds": "1.80",
+        "name": "forebet"
+    },
+    {
+        "event_name": "CD Marquense - CSD Xinabajul",
+        "bet_choice": "Under 2.5",
+        "bet_odds": "1.85",
+        "name": "forebet"
+    },
+    {
+        "event_name": "Wellington Phoenix W - Newcastle Jets W",
+        "bet_choice": "Under 2.5",
+        "bet_odds": "2.35",
+        "name": "forebet"
+    },
+    {
+        "event_name": "Los Cabos United - Leones Negros II",
+        "bet_choice": "Under 2.5",
+        "bet_odds": "-",
+        "name": "forebet"
+    },
+    {
+        "event_name": "Resources Capital - Sham Shui Po SA",
+        "bet_choice": "Over 2.5",
+        "bet_odds": "1.44",
+        "name": "forebet"
+    },
+    {
+        "event_name": "WSE - Yuen Long",
+        "bet_choice": "Over 2.5",
+        "bet_odds": "1.44",
+        "name": "forebet"
+    },
+    {
+        "event_name": "Tuen Mun SA - Hoi King",
+        "bet_choice": "Over 2.5",
+        "bet_odds": "1.22",
+        "name": "forebet"
+    },
+    {
+        "event_name": "Sydney W - Central Coast Mariners W",
+        "bet_choice": "Under 2.5",
+        "bet_odds": "1.90",
+        "name": "forebet"
+    },
+    {
+        "event_name": "HK Rangers - Lee Man FC",
+        "bet_choice": "Over 2.5",
+        "bet_odds": "1.36",
+        "name": "forebet"
+    },
+    {
+        "event_name": "Citizen AA - Central & Western",
+        "bet_choice": "Over 2.5",
+        "bet_odds": "1.40",
+        "name": "forebet"
+    },
+    {
+        "event_name": "Brisbane Roar W - Adelaide United W",
+        "bet_choice": "Over 2.5",
+        "bet_odds": "1.62",
+        "name": "forebet"
+    },
+    {
+        "event_name": "Real Kashmir - SC Bengaluru",
+        "bet_choice": "Under 2.5",
+        "bet_odds": "1.90",
+        "name": "forebet"
+    },
+    {
+        "event_name": "Shatin SA - Wing Yee Property",
+        "bet_choice": "Over 2.5",
+        "bet_odds": "1.07",
+        "name": "forebet"
+    },
+    {
+        "event_name": "3 Sing - Eastern District SA",
+        "bet_choice": "Over 2.5",
+        "bet_odds": "1.44",
+        "name": "forebet"
+    },
+    {
+        "event_name": "Persik Kediri - PSS Sleman",
+        "bet_choice": "Over 2.5",
+        "bet_odds": "1.75",
+        "name": "forebet"
+    },
+    {
+        "event_name": "Borneo FC - Arema FC",
+        "bet_choice": "Over 2.5",
+        "bet_odds": "1.85",
+        "name": "forebet"
+    },
+    {
+        "event_name": "Hong Kong FC - Kowloon City",
+        "bet_choice": "Under 2.5",
+        "bet_odds": "2.20",
+        "name": "forebet"
+    },
+    {
+        "event_name": "PSMS Medan - Sriwijaya FC",
+        "bet_choice": "Under 2.5",
+        "bet_odds": "2.05",
+        "name": "forebet"
+    },
+    {
+        "event_name": "Adhyaksa - PS TIRA",
+        "bet_choice": "Under 2.5",
+        "bet_odds": "2.63",
+        "name": "forebet"
+    },
+    {
+        "event_name": "Viengchanh - Champasak United",
+        "bet_choice": "Over 2.5",
+        "bet_odds": "-",
+        "name": "forebet"
+    },
+    {
+        "event_name": "Kirivong Sok Sen Chey - Dangkor Senchey",
+        "bet_choice": "Over 2.5",
+        "bet_odds": "1.11",
+        "name": "forebet"
+    },
+    {
+        "event_name": "Royal Thai Air Force - North Bangkok University",
+        "bet_choice": "Over 2.5",
+        "bet_odds": "2.00",
+        "name": "forebet"
+    },
+    {
+        "event_name": "Pathum Thani University - Saraburi United",
+        "bet_choice": "Over 2.5",
+        "bet_odds": "1.73",
+        "name": "forebet"
+    },
+    {
+        "event_name": "Inter Bangkok - Chamchuri United",
+        "bet_choice": "Over 2.5",
+        "bet_odds": "1.75",
+        "name": "forebet"
+    },
+    {
+        "event_name": "Pattani FC - Jalor City FC",
+        "bet_choice": "Under 2.5",
+        "bet_odds": "-",
+        "name": "forebet"
+    },
+    {
+        "event_name": "Assumption United - Nonthaburi United",
+        "bet_choice": "Over 2.5",
+        "bet_odds": "1.65",
+        "name": "forebet"
+    },
+    {
+        "event_name": "Samut Songkhram City - Thap Luang United",
+        "bet_choice": "Over 2.5",
+        "bet_odds": "1.57",
+        "name": "forebet"
+    },
+    {
+        "event_name": "Rayong United - Bankhai United",
+        "bet_choice": "Under 2.5",
+        "bet_odds": "1.62",
+        "name": "forebet"
+    },
+    {
+        "event_name": "ACDC FC - Samut Prakan",
+        "bet_choice": "Under 2.5",
+        "bet_odds": "2.25",
+        "name": "forebet"
+    },
+    {
+        "event_name": "Suranaree Black Cat - Khonkaen Mordindang FC",
+        "bet_choice": "Under 2.5",
+        "bet_odds": "2.05",
+        "name": "forebet"
+    },
+    {
+        "event_name": "Real Murcia Imperial - Unión Molinense",
+        "bet_choice": "Under 2.5",
+        "bet_odds": "1.65",
+        "name": "forebet"
+    },
+    {
+        "event_name": "Miltiadis Pyrgos - Aigeas Plomariou",
+        "bet_choice": "Under 2.5",
+        "bet_odds": "-",
+        "name": "forebet"
+    },
+    {
+        "event_name": "Myawady FC - ISPE FC",
+        "bet_choice": "Over 2.5",
+        "bet_odds": "-",
+        "name": "forebet"
+    },
+    {
+        "event_name": "Hua Hin City - Hua Hin Maraleina",
+        "bet_choice": "Under 2.5",
+        "bet_odds": "-",
+        "name": "forebet"
+    },
+    {
+        "event_name": "Pannafpliakos - AE Mykonos",
+        "bet_choice": "Under 2.5",
+        "bet_odds": "1.57",
+        "name": "forebet"
+    },
+    {
+        "event_name": "Kifisia - Kalamata",
+        "bet_choice": "Under 2.5",
+        "bet_odds": "1.73",
+        "name": "forebet"
+    },
+    {
+        "event_name": "Hougang United - Balestier Khalsa",
+        "bet_choice": "Over 2.5",
+        "bet_odds": "1.25",
+        "name": "forebet"
+    },
+    {
+        "event_name": "Rajasthan United - Dempo SC",
+        "bet_choice": "Under 2.5",
+        "bet_odds": "1.95",
+        "name": "forebet"
+    },
+    {
+        "event_name": "Nairobi City Stars - KCB Nairobi",
+        "bet_choice": "Under 2.5",
+        "bet_odds": "1.50",
+        "name": "forebet"
+    },
+    {
+        "event_name": "Bandari FC - Shabana",
+        "bet_choice": "Under 2.5",
+        "bet_odds": "1.44",
+        "name": "forebet"
+    },
+    {
+        "event_name": "Pas de la Casa - AC d'Escaldes",
+        "bet_choice": "Under 2.5",
+        "bet_odds": "2.05",
+        "name": "forebet"
+    },
+    {
+        "event_name": "Chiangrai City - See Kwae City FC",
+        "bet_choice": "Under 2.5",
+        "bet_odds": "1.80",
+        "name": "forebet"
+    },
+    {
+        "event_name": "Lecce U19 - Cesena U19",
+        "bet_choice": "Over 2.5",
+        "bet_odds": "-",
+        "name": "forebet"
+    },
+    {
+        "event_name": "CD Santurtzi - Urduliz FT",
+        "bet_choice": "Under 2.5",
+        "bet_odds": "1.75",
+        "name": "forebet"
+    },
+    {
+        "event_name": "Göztepe Izmir - Antalyaspor",
+        "bet_choice": "Over 2.5",
+        "bet_odds": "1.75",
+        "name": "forebet"
+    },
+    {
+        "event_name": "76 Igdır Belediye Spor - Boluspor",
+        "bet_choice": "Under 2.5",
+        "bet_odds": "1.65",
+        "name": "forebet"
+    },
+    {
+        "event_name": "Keçiörengücü - Sakaryaspor",
+        "bet_choice": "Under 2.5",
+        "bet_odds": "1.95",
+        "name": "forebet"
+    },
+    {
+        "event_name": "Kastamonuspor - Fethiyespor",
+        "bet_choice": "Under 2.5",
+        "bet_odds": "1.85",
+        "name": "forebet"
+    },
+    {
+        "event_name": "CD Basconia - Eibar III",
+        "bet_choice": "Over 2.5",
+        "bet_odds": "2.00",
+        "name": "forebet"
+    },
+    {
+        "event_name": "CD Canillas - Alcorcón B",
+        "bet_choice": "Under 2.5",
+        "bet_odds": "1.90",
+        "name": "forebet"
+    },
+    {
+        "event_name": "Villaverde San Andrés - RSD Alcala",
+        "bet_choice": "Over 2.5",
+        "bet_odds": "1.85",
+        "name": "forebet"
+    },
+    {
+        "event_name": "AD Parla - Rayo Vallecano B",
+        "bet_choice": "Over 2.5",
+        "bet_odds": "1.80",
+        "name": "forebet"
+    },
+    {
+        "event_name": "Trival Valderas - RCD Carabanchel",
+        "bet_choice": "Over 2.5",
+        "bet_odds": "1.90",
+        "name": "forebet"
+    },
+    {
+        "event_name": "Collado Villalba - Cala Pozuelo",
+        "bet_choice": "Under 2.5",
+        "bet_odds": "2.05",
+        "name": "forebet"
+    },
+    {
+        "event_name": "Platges de Calvià - PE Sant Jordi",
+        "bet_choice": "Under 2.5",
+        "bet_odds": "1.90",
+        "name": "forebet"
+    },
+    {
+        "event_name": "SFC Minerva - Muleño CF",
+        "bet_choice": "Under 2.5",
+        "bet_odds": "1.53",
+        "name": "forebet"
+    },
+    {
+        "event_name": "Bala Azul - CA Pulpileño",
+        "bet_choice": "Over 2.5",
+        "bet_odds": "2.38",
+        "name": "forebet"
+    },
+    {
+        "event_name": "Huesca II - Almudévar",
+        "bet_choice": "Under 2.5",
+        "bet_odds": "-",
+        "name": "forebet"
+    },
+    {
+        "event_name": "Cazalegas - Calvo Sotelo",
+        "bet_choice": "Under 2.5",
+        "bet_odds": "-",
+        "name": "forebet"
+    },
+    {
+        "event_name": "Ellas Syros - Korinthos FC",
+        "bet_choice": "Over 2.5",
+        "bet_odds": "-",
+        "name": "forebet"
+    },
+    {
+        "event_name": "Aviles Stadium CF - CD Roces",
+        "bet_choice": "Under 2.5",
+        "bet_odds": "-",
+        "name": "forebet"
+    },
+    {
+        "event_name": "FC Vizela - Uniao Leiria",
+        "bet_choice": "Over 2.5",
+        "bet_odds": "2.35",
+        "name": "forebet"
+    },
+    {
+        "event_name": "Nam Dinh FC - The Cong",
+        "bet_choice": "Over 2.5",
+        "bet_odds": "2.00",
+        "name": "forebet"
+    },
+    {
+        "event_name": "Da Nang FC - Ha Noi FC",
+        "bet_choice": "Under 2.5",
+        "bet_odds": "1.70",
+        "name": "forebet"
+    },
+    {
+        "event_name": "Ratchaburi FC - Muangthong United",
+        "bet_choice": "Over 2.5",
+        "bet_odds": "1.80",
+        "name": "forebet"
+    },
+    {
+        "event_name": "Isparta Davrazspor - Hekimoglu Trabzon",
+        "bet_choice": "Under 2.5",
+        "bet_odds": "1.62",
+        "name": "forebet"
+    },
+    {
+        "event_name": "24 Erzincanspor - Altay SK Izmir",
+        "bet_choice": "Under 2.5",
+        "bet_odds": "2.05",
+        "name": "forebet"
+    },
+    {
+        "event_name": "Afjet Afyonspor - Sariyer SK",
+        "bet_choice": "Over 2.5",
+        "bet_odds": "-",
+        "name": "forebet"
+    },
+    {
+        "event_name": "Tuzlaspor - Erzinspor",
+        "bet_choice": "Under 2.5",
+        "bet_odds": "1.80",
+        "name": "forebet"
+    },
+    {
+        "event_name": "Kırklarelispor - Karaköprü Bld.",
+        "bet_choice": "Under 2.5",
+        "bet_odds": "1.85",
+        "name": "forebet"
+    },
+    {
+        "event_name": "Kepez Belediyespor - Adana 1954 FK",
+        "bet_choice": "Under 2.5",
+        "bet_odds": "2.00",
+        "name": "forebet"
+    },
+    {
+        "event_name": "Karaman Belediyespor - Elazıgspor",
+        "bet_choice": "Under 2.5",
+        "bet_odds": "1.75",
+        "name": "forebet"
+    },
+    {
+        "event_name": "Diyarbekirspor - Somaspor",
+        "bet_choice": "Under 2.5",
+        "bet_odds": "1.50",
+        "name": "forebet"
+    },
+    {
+        "event_name": "Içel Idman Yurdu - Menemen Bld",
+        "bet_choice": "Over 2.5",
+        "bet_odds": "-",
+        "name": "forebet"
+    },
+    {
+        "event_name": "Belediye Derincespor - Van BB",
+        "bet_choice": "Under 2.5",
+        "bet_odds": "2.20",
+        "name": "forebet"
+    },
+    {
+        "event_name": "Buca FK - Erbaaspor SK",
+        "bet_choice": "Over 2.5",
+        "bet_odds": "-",
+        "name": "forebet"
+    },
+    {
+        "event_name": "Karacabey Bld. - Arnavutköy Bld.",
+        "bet_choice": "Under 2.5",
+        "bet_odds": "1.70",
+        "name": "forebet"
+    },
+    {
+        "event_name": "Real Avilés - Bergantiños FC",
+        "bet_choice": "Over 2.5",
+        "bet_odds": "1.90",
+        "name": "forebet"
+    },
+    {
+        "event_name": "UM Escobedo - SD Laredo",
+        "bet_choice": "Under 2.5",
+        "bet_odds": "1.75",
+        "name": "forebet"
+    },
+    {
+        "event_name": "Deportivo Fabril - Real Valladolid B",
+        "bet_choice": "Over 2.5",
+        "bet_odds": "2.20",
+        "name": "forebet"
+    },
+    {
+        "event_name": "CD Ibiza-Islas - UE Cornellà",
+        "bet_choice": "Under 2.5",
+        "bet_odds": "1.53",
+        "name": "forebet"
+    },
+    {
+        "event_name": "CE Andratx - UE Sant Andreu",
+        "bet_choice": "Over 2.5",
+        "bet_odds": "2.10",
+        "name": "forebet"
+    },
+    {
+        "event_name": "Torrent CF - UE Olot",
+        "bet_choice": "Under 2.5",
+        "bet_odds": "1.50",
+        "name": "forebet"
+    },
+    {
+        "event_name": "Terrassa FC - RCD Mallorca B",
+        "bet_choice": "Over 2.5",
+        "bet_odds": "2.20",
+        "name": "forebet"
+    },
+    {
+        "event_name": "Peña Deportiva - CE Europa",
+        "bet_choice": "Under 2.5",
+        "bet_odds": "1.85",
+        "name": "forebet"
+    },
+    {
+        "event_name": "Linares Deportivo - La Union Atletico",
+        "bet_choice": "Under 2.5",
+        "bet_odds": "-",
+        "name": "forebet"
+    },
+    {
+        "event_name": "CF Villanovense - Atlético Antoniano",
+        "bet_choice": "Under 2.5",
+        "bet_odds": "1.50",
+        "name": "forebet"
+    },
+    {
+        "event_name": "Linense - UD Almeria B",
+        "bet_choice": "Under 2.5",
+        "bet_odds": "1.57",
+        "name": "forebet"
+    },
+    {
+        "event_name": "CD Águilas - San Fernando",
+        "bet_choice": "Under 2.5",
+        "bet_odds": "1.44",
+        "name": "forebet"
+    },
+    {
+        "event_name": "Cádiz CF B - CD Don Benito",
+        "bet_choice": "Over 2.5",
+        "bet_odds": "2.30",
+        "name": "forebet"
+    },
+    {
+        "event_name": "Juventud Torremolinos - Xerez Deportivo",
+        "bet_choice": "Under 2.5",
+        "bet_odds": "1.50",
+        "name": "forebet"
+    },
+    {
+        "event_name": "Union Estepona - UCAM Murcia",
+        "bet_choice": "Under 2.5",
+        "bet_odds": "1.44",
+        "name": "forebet"
+    },
+    {
+        "event_name": "Police Commissary - Boeung Ket FC",
+        "bet_choice": "Over 2.5",
+        "bet_odds": "1.13",
+        "name": "forebet"
+    },
+    {
+        "event_name": "Visakha FC - National Defense",
+        "bet_choice": "Over 2.5",
+        "bet_odds": "1.25",
+        "name": "forebet"
+    },
+    {
+        "event_name": "Mutondo Stars - Green Eagles",
+        "bet_choice": "Under 2.5",
+        "bet_odds": "1.36",
+        "name": "forebet"
+    },
+    {
+        "event_name": "Tepecikspor AS - Kırıkkale Büyük",
+        "bet_choice": "Over 2.5",
+        "bet_odds": "2.15",
+        "name": "forebet"
+    },
+    {
+        "event_name": "Talasgücü Belediyespor - Zonguldak",
+        "bet_choice": "Over 2.5",
+        "bet_odds": "2.25",
+        "name": "forebet"
+    },
+    {
+        "event_name": "Edirnespor - Orduspor 1967",
+        "bet_choice": "Over 2.5",
+        "bet_odds": "-",
+        "name": "forebet"
+    },
+    {
+        "event_name": "Agrıspor - Kahramanmaraş İstiklalsp",
+        "bet_choice": "Under 2.5",
+        "bet_odds": "-",
+        "name": "forebet"
+    },
+    {
+        "event_name": "1926 Polatlı Belediye - Sebat Gençlik",
+        "bet_choice": "Under 2.5",
+        "bet_odds": "2.10",
+        "name": "forebet"
+    },
+    {
+        "event_name": "Niğde Belediyesispor - Mardin BB",
+        "bet_choice": "Over 2.5",
+        "bet_odds": "-",
+        "name": "forebet"
+    },
+    {
+        "event_name": "Aliağa FK - Ayvalıkgücü BS",
+        "bet_choice": "Under 2.5",
+        "bet_odds": "1.44",
+        "name": "forebet"
+    },
+    {
+        "event_name": "Çorluspor 1947 - Bayburt Ozel Idare",
+        "bet_choice": "Over 2.5",
+        "bet_odds": "-",
+        "name": "forebet"
+    },
+    {
+        "event_name": "Pazarspor - Küçükçekmece",
+        "bet_choice": "Under 2.5",
+        "bet_odds": "1.65",
+        "name": "forebet"
+    },
+    {
+        "event_name": "Karabük İdman Yurdu - Anadolu Selcukspor",
+        "bet_choice": "Under 2.5",
+        "bet_odds": "-",
+        "name": "forebet"
+    },
+    {
+        "event_name": "Antalya Kestelspor - Yozgat Bld Bozokspor",
+        "bet_choice": "Under 2.5",
+        "bet_odds": "-",
+        "name": "forebet"
+    },
+    {
+        "event_name": "Viranşehir Belediyespor - Efeler 09 Spor",
+        "bet_choice": "Under 2.5",
+        "bet_odds": "-",
+        "name": "forebet"
+    },
+    {
+        "event_name": "Çankaya FK - Bursa Yıldırımspor",
+        "bet_choice": "Over 2.5",
+        "bet_odds": "2.25",
+        "name": "forebet"
+    },
+    {
+        "event_name": "Fatsa Belediyespor - Balikesirspor",
+        "bet_choice": "Over 2.5",
+        "bet_odds": "1.85",
+        "name": "forebet"
+    },
+    {
+        "event_name": "Mazıdagı Fosfatspor - Adıyamanspor",
+        "bet_choice": "Under 2.5",
+        "bet_odds": "-",
+        "name": "forebet"
+    },
+    {
+        "event_name": "Muğlaspor - Yeni Amasyaspor",
+        "bet_choice": "Under 2.5",
+        "bet_odds": "1.65",
+        "name": "forebet"
+    },
+    {
+        "event_name": "1954 Kelkit Bld. - Tire 2021 FK",
+        "bet_choice": "Over 2.5",
+        "bet_odds": "-",
+        "name": "forebet"
+    },
+    {
+        "event_name": "Utas Usakspor - Etimesgut BS",
+        "bet_choice": "Over 2.5",
+        "bet_odds": "2.05",
+        "name": "forebet"
+    },
+    {
+        "event_name": "Türk Metal 1963 - Beykoz İshaklıspor",
+        "bet_choice": "Under 2.5",
+        "bet_odds": "-",
+        "name": "forebet"
+    },
+    {
+        "event_name": "İnegöl Kafkaspor - Nevsehir Bld.",
+        "bet_choice": "Under 2.5",
+        "bet_odds": "-",
+        "name": "forebet"
+    }
+]

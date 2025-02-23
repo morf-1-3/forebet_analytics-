@@ -1,0 +1,39 @@
+Team: CD Zap vs Zacatepec, Probability: 100, Prediction: Under, Scores: 4 - 0, IsSuccess: False
+Team: Dejan vs Persikota Tangerang, Probability: 85, Prediction: Over, Scores: 1 - 0, IsSuccess: False
+Team: Melbourne City W vs Brisbane Roar W, Probability: 96, Prediction: Over, Scores: 2 - 0, IsSuccess: False
+Team: 76 Igdır Belediye Spor vs Fatih Karagümrük, Probability: 85, Prediction: Under, Scores: 0 - 1, IsSuccess: True
+Team: Sukhothai FC vs Khon Kaen United, Probability: 85, Prediction: Over, Scores: 1 - 0, IsSuccess: False
+Team: Bantu FC vs ACE Maseru, Probability: 89, Prediction: Over, Scores: 8 - 1, IsSuccess: True
+Team: Saestum vs Sparta Rotterdam II W, Probability: 96, Prediction: Over, Scores: 2 - 0, IsSuccess: False
+Team: Erokspor vs Sakaryaspor, Probability: 85, Prediction: Under, Scores: 1 - 1, IsSuccess: True
+Team: Béni Thamou vs IRB Sedrata, Probability: 86, Prediction: Under, Scores: 0 - 0, IsSuccess: True
+Team: VV Smitshoek vs FC Rijnvogels, Probability: 99, Prediction: Over, Scores: 2 - 2, IsSuccess: True
+Team: Klarenbeek W vs Ter Leede W, Probability: 89, Prediction: Over, Scores: 2 - 4, IsSuccess: True
+Team: GVVV vs Jong Sparta Rotterdam, Probability: 88, Prediction: Over, Scores: 3 - 0, IsSuccess: True
+Team: Montecchio Maggiore vs Real Calepina, Probability: 90, Prediction: Under, Scores: 0 - 1, IsSuccess: True
+Team: Modena U19 vs Venezia U19, Probability: 87, Prediction: Under, Scores: 2 - 2, IsSuccess: False
+Team: SV Huizen vs DVS 33, Probability: 90, Prediction: Over, Scores: 3 - 0, IsSuccess: True
+Team: VVSB vs FC's-Gravenzande, Probability: 88, Prediction: Over, Scores: 2 - 1, IsSuccess: True
+Team: Asteras Tripolis II vs Kifisia, Probability: 90, Prediction: Over, Scores: 0 - 3, IsSuccess: True
+Team: Wimborne Town vs Marlow, Probability: 90, Prediction: Over, Scores: 3 - 1, IsSuccess: True
+Team: Whitby Town vs Hebburn Town, Probability: 87, Prediction: Over, Scores: None, IsSuccess: None
+Team: Kraké vs Adjidja, Probability: 90, Prediction: Under, Scores: 2 - 0, IsSuccess: True
+Team: CD Basconia vs Touring, Probability: 85, Prediction: Over, Scores: 2 - 2, IsSuccess: True
+Team: Aberystwyth Town vs Briton Ferry, Probability: 97, Prediction: Over, Scores: 1 - 6, IsSuccess: True
+Team: Sliema Wanderers vs Għajnsielem FC, Probability: 92, Prediction: Over, Scores: 8 - 0, IsSuccess: True
+Team: Villarreal C vs Vall de Uxó, Probability: 87, Prediction: Under, Scores: 4 - 1, IsSuccess: False
+Team: Cascavel U20 vs Boavista U20, Probability: 100, Prediction: Under, Scores: 2 - 2, IsSuccess: False
+Team: Besiktas vs Bodrumspor SK, Probability: 87, Prediction: Under, Scores: 2 - 1, IsSuccess: False
+Team: Ajax Amateurs W vs Bavel W, Probability: 99, Prediction: Over, Scores: 1 - 2, IsSuccess: True
+Team: Ourense CF vs CD Lugo, Probability: 90, Prediction: Under, Scores: 2 - 1, IsSuccess: False
+Team: Le Poiré-sur-Vie VF vs Dinan-Léhon FC, Probability: 85, Prediction: Under, Scores: None, IsSuccess: None
+Team: Rijnvogels W vs Eindhoven W, Probability: 99, Prediction: Over, Scores: 1 - 2, IsSuccess: True
+Team: ASVH vs FC Chambly, Probability: 90, Prediction: Under, Scores: None, IsSuccess: None
+Team: Barcelona W vs Levante Las Planas W, Probability: 99, Prediction: Over, Scores: 6 - 0, IsSuccess: True
+Team: KFC Merelbeke vs Lyra TSV, Probability: 87, Prediction: Over, Scores: None, IsSuccess: None
+Team: Heist vs Cercle Brugge II, Probability: 90, Prediction: Over, Scores: None, IsSuccess: None
+count True : 19,   count False : 10, count None : 5 
+winrate:65.52
+
+
+Gnidlo Sergiy

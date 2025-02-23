@@ -1,0 +1,30 @@
+Team: Brisbane Roar W vs Melbourne Victory W, Probability: 86, Prediction: Yes, Scores: 2 - 0, IsSuccess: False
+Team: Port FC vs Lamphun Warrior, Probability: 78, Prediction: Yes, Scores: 2 - 1, IsSuccess: True
+Team: Awassa Kenema vs Bahardar, Probability: 72, Prediction: No, Scores: 0 - 1, IsSuccess: True
+Team: Tanta FC vs Dairut SC, Probability: 71, Prediction: No, Scores: 0 - 0, IsSuccess: True
+Team: Khaleej Sirte vs Al Anwar, Probability: 70, Prediction: No, Scores: 2 - 0, IsSuccess: True
+Team: Mouloudia Oujda vs Chabab Khénifra, Probability: 82, Prediction: No, Scores: 4 - 0, IsSuccess: True
+Team: Naft Al Janoob Basra vs Newroz SC (IRQ), Probability: 74, Prediction: No, Scores: 2 - 0, IsSuccess: True
+Team: Tahaddy Benghazi vs Al Wefaq Ajdabiyah, Probability: 70, Prediction: No, Scores: 0 - 0, IsSuccess: True
+Team: Rodos FC vs Pannafpliakos, Probability: 71, Prediction: No, Scores: 1 - 0, IsSuccess: True
+Team: Guaratinguetá U20 vs Vitória da Conquista U20, Probability: 74, Prediction: No, Scores: 0 - 0, IsSuccess: True
+Team: Le Havre W vs Paris W, Probability: 73, Prediction: Yes, Scores: 0 - 2, IsSuccess: False
+Team: Nantes W vs Guingamp W, Probability: 74, Prediction: No, Scores: 2 - 1, IsSuccess: False
+Team: Chemal vs Toulde, Probability: 79, Prediction: No, Scores: 4 - 1, IsSuccess: False
+Team: Real Brasília U20 vs Imperatriz U20, Probability: 98, Prediction: No, Scores: 3 - 1, IsSuccess: False
+Team: Porto Vitória U20 vs Gremio U20, Probability: 72, Prediction: Yes, Scores: 0 - 1, IsSuccess: False
+Team: Referência U20 vs Cascavel U20, Probability: 79, Prediction: No, Scores: 1 - 0, IsSuccess: True
+Team: Athletic Bilbao vs Barcelona, Probability: 71, Prediction: Yes, Scores: 0 - 2, IsSuccess: False
+Team: Real Madrid W vs Levante W, Probability: 78, Prediction: Yes, Scores: 6 - 0, IsSuccess: False
+Team: Cambrian & Clydach vs Baglan Dragons, Probability: 74, Prediction: Yes, Scores: 0 - 0, IsSuccess: False
+Team: Celtic vs Dundee United, Probability: 82, Prediction: Yes, Scores: 2 - 0, IsSuccess: False
+Team: Gosport Borough vs Bracknell Town, Probability: 72, Prediction: Yes, Scores: 4 - 3, IsSuccess: True
+Team: Royal Antwerp vs Union Saint-Gilloise, Probability: 72, Prediction: Yes, Scores: 5 - 1, IsSuccess: True
+Team: Tottenham vs Liverpool, Probability: 73, Prediction: Yes, Scores: 1 - 0, IsSuccess: False
+Team: Lyon W vs Dijon W, Probability: 94, Prediction: Yes, Scores: 2 - 0, IsSuccess: False
+Team: Capitão Poço U20 vs Rio Branco ES U20, Probability: 95, Prediction: No, Scores: 2 - 1, IsSuccess: False
+count True : 12,   count False : 13, count None : 0 
+winrate:48.00
+
+
+Gnidlo Sergiy

@@ -1,0 +1,49 @@
+Team: Police FC (T&T) vs AC Port of Spain, Probability: 96, Prediction: Over, Scores: 0 - 2, IsSuccess: False
+Team: San Juan Jabloteh vs La Horquetta Rangers, Probability: 93, Prediction: Over, Scores: None, IsSuccess: None
+Team: Puebla FC vs Atlético San Luis, Probability: 86, Prediction: Over, Scores: 1 - 2, IsSuccess: True
+Team: Venados Yucatán vs CDS Tampico Madero, Probability: 90, Prediction: Under, Scores: 1 - 2, IsSuccess: False
+Team: North District vs Tai Po FC, Probability: 92, Prediction: Over, Scores: 1 - 2, IsSuccess: True
+Team: Ezra vs Lao Army, Probability: 98, Prediction: Over, Scores: 5 - 3, IsSuccess: True
+Team: Samut Sakhon City vs Kanchanaburi City, Probability: 99, Prediction: Over, Scores: 2 - 0, IsSuccess: False
+Team: Life Sihanoukville vs PPC FC, Probability: 99, Prediction: Over, Scores: 0 - 5, IsSuccess: True
+Team: Académie Deira vs Rukinzo FC, Probability: 99, Prediction: Over, Scores: 0 - 2, IsSuccess: False
+Team: Rimini U19 vs Mantova U19, Probability: 85, Prediction: Over, Scores: None, IsSuccess: None
+Team: Ter Leede W vs Eindhoven W, Probability: 89, Prediction: Over, Scores: None, IsSuccess: None
+Team: CS Don Bosco vs US Tshinkunku, Probability: 87, Prediction: Under, Scores: None, IsSuccess: None
+Team: Nzoia Sugar vs Coast Stima, Probability: 87, Prediction: Under, Scores: 4 - 1, IsSuccess: False
+Team: Tottenham U23s vs Norwich U23s, Probability: 90, Prediction: Over, Scores: 1 - 1, IsSuccess: False
+Team: Merghani Kassala vs Al Hilal Al Manaqil, Probability: 100, Prediction: Under, Scores: None, IsSuccess: None
+Team: Merreikh Nyala vs Merreikh Abyad, Probability: 100, Prediction: Under, Scores: None, IsSuccess: None
+Team: Parma U19 vs Pro Vercelli U19, Probability: 90, Prediction: Over, Scores: 3 - 0, IsSuccess: True
+Team: Benevento U19 vs Avellino U19, Probability: 93, Prediction: Over, Scores: 2 - 1, IsSuccess: True
+Team: Gent II W vs Club Brugge II W, Probability: 95, Prediction: Over, Scores: 0 - 1, IsSuccess: False
+Team: Fleetwood United vs Masfoot, Probability: 87, Prediction: Under, Scores: None, IsSuccess: None
+Team: Inter Kashi vs Aizawl FC, Probability: 99, Prediction: Over, Scores: 4 - 3, IsSuccess: True
+Team: Giugliano U19 vs Catania U19, Probability: 99, Prediction: Over, Scores: 1 - 2, IsSuccess: True
+Team: Taranto U19 vs Catanzaro U19, Probability: 93, Prediction: Over, Scores: None, IsSuccess: None
+Team: Pro Vercelli vs Caldiero Terme, Probability: 85, Prediction: Over, Scores: 2 - 1, IsSuccess: True
+Team: Orion W vs DSS W, Probability: 94, Prediction: Over, Scores: None, IsSuccess: None
+Team: Orion W vs DSS W, Probability: 94, Prediction: Over, Scores: None, IsSuccess: None
+Team: Holstein Kiel vs Hoffenheim, Probability: 99, Prediction: Over, Scores: 1 - 3, IsSuccess: True
+Team: Lucchese U19 vs Latina U19, Probability: 85, Prediction: Over, Scores: None, IsSuccess: None
+Team: Cray Valley PM vs Bognor Regis Town, Probability: 99, Prediction: Over, Scores: 4 - 0, IsSuccess: True
+Team: Hashtag United vs Dover Athletic, Probability: 90, Prediction: Over, Scores: 2 - 1, IsSuccess: True
+Team: Swindon Supermarine vs Chertsey Town, Probability: 90, Prediction: Over, Scores: 1 - 0, IsSuccess: False
+Team: Adjidja vs Dragons, Probability: 90, Prediction: Under, Scores: None, IsSuccess: None
+Team: JSO vs AS Cotonou, Probability: 87, Prediction: Under, Scores: None, IsSuccess: None
+Team: Kraké vs Requins, Probability: 85, Prediction: Under, Scores: None, IsSuccess: None
+Team: Roma U19 vs Monza U19, Probability: 88, Prediction: Over, Scores: 1 - 1, IsSuccess: False
+Team: UDI '19 W vs ACV W, Probability: 99, Prediction: Over, Scores: None, IsSuccess: None
+Team: UDI '19 W vs ACV W, Probability: 99, Prediction: Over, Scores: None, IsSuccess: None
+Team: Old Edwardians vs Star Sport Academy, Probability: 90, Prediction: Under, Scores: None, IsSuccess: None
+Team: AJEL vs Dakar Sacré-Cœur, Probability: 95, Prediction: Under, Scores: 1 - 0, IsSuccess: True
+Team: Moralo CP vs Atlético Pueblonuevo, Probability: 85, Prediction: Over, Scores: None, IsSuccess: None
+Team: Santo André/SP vs Primavera SP, Probability: 85, Prediction: Under, Scores: None, IsSuccess: None
+Team: Dunkerque vs Lorient, Probability: 90, Prediction: Over, Scores: None, IsSuccess: None
+Team: Rancho Santana U20 vs Real Esteli U20, Probability: 99, Prediction: Over, Scores: None, IsSuccess: None
+Team: América/RN vs Laguna, Probability: 86, Prediction: Under, Scores: None, IsSuccess: None
+count True : 13,   count False : 9, count None : 22 
+winrate:59.09
+
+
+Gnidlo Sergiy

@@ -1,0 +1,29 @@
+Team: Votuporanguense U20 vs Botafogo U20, Probability: 75, Prediction: No, Scores: 0 - 1, IsSuccess: True
+Team: EC São Bernardo U20 vs Cruzeiro Itaporanga U20, Probability: 85, Prediction: No, Scores: 0 - 0, IsSuccess: True
+Team: Zumbi U20 vs Flamengo RJ U20, Probability: 70, Prediction: No, Scores: 2 - 1, IsSuccess: False
+Team: Rajasthan United vs SC Bengaluru, Probability: 73, Prediction: No, Scores: 2 - 1, IsSuccess: False
+Team: Mekelle 70 vs Welwalo Adigrat Uni, Probability: 82, Prediction: No, Scores: 1 - 0, IsSuccess: True
+Team: Ibri Club vs Saham Club, Probability: 74, Prediction: No, Scores: 1 - 1, IsSuccess: False
+Team: Rustaq Club vs Sur Club, Probability: 75, Prediction: No, Scores: 0 - 0, IsSuccess: True
+Team: Al Borouq vs Nasr Benghazi, Probability: 70, Prediction: No, Scores: 0 - 2, IsSuccess: True
+Team: Abu Salim vs Al Nahda, Probability: 74, Prediction: No, Scores: 1 - 0, IsSuccess: True
+Team: Tadamon (KUW) vs Yarmouk (KUW), Probability: 70, Prediction: Yes, Scores: 3 - 2, IsSuccess: True
+Team: Força e Luz U20 vs Operário PR U20, Probability: 80, Prediction: No, Scores: 0 - 7, IsSuccess: True
+Team: Sitra Club vs Malkiya, Probability: 72, Prediction: Yes, Scores: 0 - 1, IsSuccess: False
+Team: Horoya AC vs RCC Kamsar, Probability: 78, Prediction: No, Scores: 3 - 3, IsSuccess: False
+Team: Hercílio Luz U20 vs Dom Bosco U20, Probability: 95, Prediction: No, Scores: 0 - 4, IsSuccess: True
+Team: Água Santa U20 vs Brasiliense U20, Probability: 72, Prediction: No, Scores: 2 - 4, IsSuccess: False
+Team: Qadisiya Kuwait vs Kuwait SC, Probability: 74, Prediction: Yes, Scores: 2 - 1, IsSuccess: True
+Team: Al Nassr vs Al Akhdood, Probability: 72, Prediction: Yes, Scores: 3 - 1, IsSuccess: True
+Team: AS Douanes (MTN) vs Nouadhibou, Probability: 72, Prediction: Yes, Scores: 0 - 0, IsSuccess: False
+Team: Náutico RR U20 vs Santa Cruz AC U20, Probability: 92, Prediction: No, Scores: 1 - 1, IsSuccess: False
+Team: Bandeirante U20 vs Azuriz U20, Probability: 82, Prediction: No, Scores: 2 - 1, IsSuccess: False
+Team: Fulham vs Watford, Probability: 83, Prediction: Yes, Scores: 4 - 1, IsSuccess: True
+Team: Pague Menos U20 vs Jaciobá U20, Probability: 95, Prediction: No, Scores: 2 - 0, IsSuccess: True
+Team: Oeste U20 vs Palmeiras U20, Probability: 94, Prediction: Yes, Scores: 1 - 1, IsSuccess: True
+Team: Ferroviário U20 vs Mazagão U20, Probability: 95, Prediction: No, Scores: 1 - 2, IsSuccess: False
+count True : 14,   count False : 10, count None : 0 
+winrate:58.33
+
+
+Gnidlo Sergiy

@@ -1,0 +1,81 @@
+Team: Police FC (T&T) vs La Horquetta Rangers, Probability: 86, Prediction: Yes, Scores: 1 - 2, IsSuccess: True
+Team: Santos U20 vs Pague Menos U20, Probability: 82, Prediction: No, Scores: 1 - 0, IsSuccess: True
+Team: Defence Force vs AC Port of Spain, Probability: 86, Prediction: Yes, Scores: 6 - 3, IsSuccess: True
+Team: Newcastle Jets vs Sydney FC, Probability: 86, Prediction: Yes, Scores: 2 - 2, IsSuccess: True
+Team: Persiku Kudus vs Persikas, Probability: 71, Prediction: No, Scores: 2 - 0, IsSuccess: True
+Team: Young Elephant vs Viengchanh, Probability: 97, Prediction: Yes, Scores: 5 - 0, IsSuccess: False
+Team: Melbourne Victory vs WS Wanderers, Probability: 76, Prediction: Yes, Scores: 2 - 2, IsSuccess: True
+Team: Life Sihanoukville vs Boeung Ket FC, Probability: 83, Prediction: Yes, Scores: 1 - 4, IsSuccess: True
+Team: National Defense vs Dangkor Senchey, Probability: 79, Prediction: Yes, Scores: 1 - 2, IsSuccess: True
+Team: Odisha vs Goa, Probability: 80, Prediction: Yes, Scores: 2 - 4, IsSuccess: True
+Team: Phrae United vs Lampang FC, Probability: 76, Prediction: Yes, Scores: 1 - 2, IsSuccess: True
+Team: Tottenham vs Newcastle United, Probability: 78, Prediction: Yes, Scores: 1 - 2, IsSuccess: True
+Team: Eding Sport vs Union Abong-Mbang, Probability: 80, Prediction: No, Scores: 1 - 0, IsSuccess: True
+Team: Kedros Agia Marina vs Ethnikos Latsion, Probability: 73, Prediction: Yes, Scores: 3 - 1, IsSuccess: True
+Team: Antalyaspor vs Eyüpspor, Probability: 77, Prediction: Yes, Scores: 1 - 4, IsSuccess: True
+Team: Young Africans vs TP Mazembe, Probability: 77, Prediction: No, Scores: 3 - 1, IsSuccess: False
+Team: AS Ariana vs SA Menzel Bourguiba, Probability: 72, Prediction: No, Scores: 1 - 0, IsSuccess: True
+Team: JSM Béjaia vs USB Hassi R’Mel, Probability: 84, Prediction: No, Scores: 2 - 1, IsSuccess: False
+Team: MB Barika vs JS Jijel, Probability: 80, Prediction: No, Scores: 1 - 2, IsSuccess: False
+Team: TS Galaxy FC vs Magesi FC, Probability: 73, Prediction: No, Scores: 0 - 0, IsSuccess: True
+Team: Denbigh Town vs Holywell Town, Probability: 90, Prediction: Yes, Scores: 2 - 4, IsSuccess: True
+Team: Buckley Town vs Guilsfield, Probability: 76, Prediction: Yes, Scores: 1 - 1, IsSuccess: True
+Team: Annagh United vs Portadown FC, Probability: 74, Prediction: Yes, Scores: 3 - 2, IsSuccess: True
+Team: ICS Tlemcen vs USM Sétif, Probability: 74, Prediction: No, Scores: 1 - 3, IsSuccess: False
+Team: Centre Chiefs vs Township Rollers, Probability: 74, Prediction: Yes, Scores: 0 - 0, IsSuccess: False
+Team: AS Dikaki vs US Bitam, Probability: 72, Prediction: Yes, Scores: 1 - 0, IsSuccess: False
+Team: Exeter City vs Bolton Wanderers, Probability: 70, Prediction: Yes, Scores: 1 - 2, IsSuccess: True
+Team: Elgin City vs Spartans FC, Probability: 71, Prediction: Yes, Scores: None, IsSuccess: None
+Team: Billericay vs Potters Bar Town, Probability: 72, Prediction: Yes, Scores: 1 - 0, IsSuccess: False
+Team: Kettering Town vs Halesowen Town, Probability: 83, Prediction: Yes, Scores: None, IsSuccess: None
+Team: Leiston FC vs Stratford Town, Probability: 77, Prediction: Yes, Scores: 1 - 0, IsSuccess: False
+Team: Redditch Utd vs Lowestoft Town, Probability: 84, Prediction: Yes, Scores: 3 - 4, IsSuccess: True
+Team: Basingstoke vs Plymouth Parkway, Probability: 73, Prediction: Yes, Scores: 0 - 1, IsSuccess: False
+Team: Gloucester vs Taunton, Probability: 82, Prediction: Yes, Scores: 2 - 2, IsSuccess: True
+Team: Havant & Waterlooville vs Dorchester Town, Probability: 77, Prediction: Yes, Scores: 1 - 1, IsSuccess: True
+Team: Tiverton Town vs Merthyr Town, Probability: 72, Prediction: Yes, Scores: 1 - 1, IsSuccess: True
+Team: Walton & Hersham vs AFC Totton, Probability: 78, Prediction: Yes, Scores: 3 - 2, IsSuccess: True
+Team: Blyth Spartans vs Ashton United, Probability: 74, Prediction: Yes, Scores: None, IsSuccess: None
+Team: Macclesfield vs Worksop Town, Probability: 83, Prediction: Yes, Scores: 3 - 1, IsSuccess: True
+Team: Ilkeston Town vs Leek Town, Probability: 80, Prediction: Yes, Scores: 0 - 2, IsSuccess: False
+Team: Avrankou Omnisport vs Requins, Probability: 71, Prediction: No, Scores: 0 - 1, IsSuccess: True
+Team: Sitatunga vs Coton Sport Ouidah, Probability: 73, Prediction: No, Scores: 1 - 1, IsSuccess: False
+Team: Buffles du Borgou vs ESAE FC, Probability: 76, Prediction: No, Scores: 0 - 0, IsSuccess: True
+Team: Dynamique Djougou vs Bani Gansè, Probability: 70, Prediction: No, Scores: 0 - 0, IsSuccess: True
+Team: Aldershot Town vs Chertsey Town, Probability: 75, Prediction: Yes, Scores: 8 - 0, IsSuccess: False
+Team: Juventus U19 vs Inter U19, Probability: 70, Prediction: Yes, Scores: 3 - 2, IsSuccess: True
+Team: Roma U19 vs Verona U19, Probability: 73, Prediction: Yes, Scores: 1 - 2, IsSuccess: True
+Team: Maccabi Tel Aviv vs FC Ashdod, Probability: 74, Prediction: Yes, Scores: 5 - 1, IsSuccess: True
+Team: Flamengo SP U20 vs Barra SC U20, Probability: 84, Prediction: No, Scores: 1 - 0, IsSuccess: True
+Team: Nacional SP U20 vs Canaã U20, Probability: 80, Prediction: No, Scores: 1 - 1, IsSuccess: False
+Team: Galatasaray vs Göztepe Izmir, Probability: 86, Prediction: Yes, Scores: 2 - 1, IsSuccess: True
+Team: Scarborough
+
+ vs Radcliffe Borough, Probability: 72, Prediction: Yes, Scores: None, IsSuccess: None
+Team: Slough Town vs Torquay United, Probability: 71, Prediction: Yes, Scores: None, IsSuccess: None
+Team: Hungerford Town vs Chertsey Town, Probability: 84, Prediction: Yes, Scores: None, IsSuccess: None
+Team: Votoraty U20 vs Gênus U20, Probability: 95, Prediction: No, Scores: 2 - 0, IsSuccess: True
+Team: Taubaté U20 vs Marcílio Dias U20, Probability: 77, Prediction: No, Scores: 2 - 3, IsSuccess: False
+Team: Aster Brasil SP U20 vs Dourados U20, Probability: 91, Prediction: No, Scores: 4 - 1, IsSuccess: False
+Team: Armed Forces FC vs TMT, Probability: 71, Prediction: No, Scores: 0 - 0, IsSuccess: True
+Team: Brikama United vs BST Galaxy, Probability: 77, Prediction: Yes, Scores: 0 - 0, IsSuccess: False
+Team: Atalanta II vs Novara, Probability: 75, Prediction: Yes, Scores: 0 - 0, IsSuccess: False
+Team: Ammanford vs Afan Lido, Probability: 82, Prediction: Yes, Scores: 5 - 1, IsSuccess: True
+Team: Oslo vs Sonacos, Probability: 74, Prediction: No, Scores: 3 - 2, IsSuccess: False
+Team: Fiorentina vs Napoli, Probability: 70, Prediction: Yes, Scores: 0 - 3, IsSuccess: False
+Team: Samsunspor vs Trabzonspor, Probability: 74, Prediction: Yes, Scores: 2 - 1, IsSuccess: True
+Team: Brighton vs Arsenal, Probability: 71, Prediction: Yes, Scores: 1 - 1, IsSuccess: True
+Team: Marumo Gallants vs Richards Bay, Probability: 76, Prediction: No, Scores: 0 - 0, IsSuccess: True
+Team: CD Tondela vs Uniao Leiria, Probability: 74, Prediction: Yes, Scores: 1 - 4, IsSuccess: True
+Team: Internacional U20 vs América SE U20, Probability: 77, Prediction: No, Scores: 0 - 1, IsSuccess: True
+Team: ABC U20 vs Novorizontino U20, Probability: 71, Prediction: No, Scores: 0 - 5, IsSuccess: True
+Team: América Mineiro U20 vs Piauí U20, Probability: 78, Prediction: No, Scores: 2 - 0, IsSuccess: True
+Team: Raja Casablanca vs Sundowns FC, Probability: 76, Prediction: No, Scores: 1 - 0, IsSuccess: True
+Team: Saint George's Colts vs Devonshire Cougars, Probability: 70, Prediction: Yes, Scores: 2 - 2, IsSuccess: True
+Team: RCS Verlaine vs Seraing II, Probability: 82, Prediction: Yes, Scores: 1 - 2, IsSuccess: True
+Team: XV de Jaú U20 vs Picos PI U20, Probability: 81, Prediction: No, Scores: 3 - 0, IsSuccess: True
+count True : 48,   count False : 20, count None : 6 
+winrate:70.59
+
+
+Gnidlo Sergiy

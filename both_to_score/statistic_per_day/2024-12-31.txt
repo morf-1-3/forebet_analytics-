@@ -1,0 +1,16 @@
+Team: Central Coast Mariners W vs Melbourne City W, Probability: 77, Prediction: Yes, Scores: 0 - 0, IsSuccess: False
+Team: CC Mariners vs Melbourne City, Probability: 70, Prediction: Yes, Scores: 1 - 1, IsSuccess: True
+Team: Briton Ferry vs Barry Town, Probability: 71, Prediction: Yes, Scores: 0 - 0, IsSuccess: False
+Team: The New Saints vs GAP Connah's Quay, Probability: 86, Prediction: Yes, Scores: 2 - 1, IsSuccess: True
+Team: Enyimba vs Bendel Insurance, Probability: 72, Prediction: No, Scores: 0 - 0, IsSuccess: True
+Team: SOL FC vs Bouaké FC, Probability: 73, Prediction: No, Scores: 0 - 2, IsSuccess: True
+Team: Al Dahra FC vs Al Ittihad Al Misrati, Probability: 85, Prediction: No, Scores: 0 - 1, IsSuccess: True
+Team: AS Korofina vs AS Bakaridjan, Probability: 71, Prediction: No, Scores: 1 - 0, IsSuccess: True
+Team: USFAS Bamako vs Stade Malien, Probability: 72, Prediction: No, Scores: 0 - 2, IsSuccess: True
+Team: Pen-y-Bont FC vs Cardiff Met, Probability: 71, Prediction: Yes, Scores: 2 - 2, IsSuccess: True
+Team: AS Real Bamako vs Diarra, Probability: 83, Prediction: No, Scores: 3 - 3, IsSuccess: False
+count True : 8,   count False : 3, count None : 0 
+winrate:72.73
+
+
+Gnidlo Sergiy

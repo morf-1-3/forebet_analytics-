@@ -1,0 +1,293 @@
+Team: Deportivo Madryn vs Racing de Cordoba, Probability: 63, Prediction: Under, Scores: None, IsSuccess: None
+Team: Calor de San Pedro vs Cañoneros Marina, Probability: 60, Prediction: Under, Scores: None, IsSuccess: None
+Team: Artesanos Metepec vs Deportivo Yautepec, Probability: 97, Prediction: Under, Scores: None, IsSuccess: None
+Team: Zitacuaro vs Pioneros de Cancún, Probability: 72, Prediction: Under, Scores: None, IsSuccess: None
+Team: Jaguares de Córdoba vs Orsomarso SC, Probability: 82, Prediction: Under, Scores: None, IsSuccess: None
+Team: CAI de La Chorrera vs CD Universitario, Probability: 64, Prediction: Under, Scores: None, IsSuccess: None
+Team: Tigres de Álica vs Real Apodaca, Probability: 70, Prediction: Under, Scores: None, IsSuccess: None
+Team: Sport Sinop vs Academia, Probability: 63, Prediction: Under, Scores: None, IsSuccess: None
+Team: Gualan vs AFF Guatemala, Probability: 78, Prediction: Under, Scores: None, IsSuccess: None
+Team: All Boys vs Colegiales, Probability: 62, Prediction: Under, Scores: None, IsSuccess: None
+Team: Macará vs Orense SC, Probability: 65, Prediction: Under, Scores: None, IsSuccess: None
+Team: Tritones Vallarta vs Cimarrones de Sonora II, Probability: 60, Prediction: Under, Scores: None, IsSuccess: None
+Team: Flamengo vs Vasco da Gama, Probability: 67, Prediction: Under, Scores: None, IsSuccess: None
+Team: Malacateco vs Deportivo Guastatoya, Probability: 72, Prediction: Under, Scores: None, IsSuccess: None
+Team: Atlético Central Córdoba vs Córdoba CF B, Probability: 80, Prediction: Under, Scores: None, IsSuccess: None
+Team: Quiché vs La Libertad, Probability: 62, Prediction: Under, Scores: None, IsSuccess: None
+Team: Los Cabos United vs Mexicali FC, Probability: 62, Prediction: Under, Scores: None, IsSuccess: None
+Team: Ulsan Hyundai vs FC Anyang, Probability: 67, Prediction: Under, Scores: None, IsSuccess: None
+Team: Tochigi SC vs Kochi United SC, Probability: 80, Prediction: Under, Scores: None, IsSuccess: None
+Team: FC Osaka vs FC Gifu, Probability: 62, Prediction: Under, Scores: None, IsSuccess: None
+Team: Melbourne Victory W vs Central Coast Mariners W, Probability: 70, Prediction: Under, Scores: None, IsSuccess: None
+Team: MCF vs Darajani Gogo, Probability: 69, Prediction: Under, Scores: None, IsSuccess: None
+Team: Roi Et United vs Khonkaen FC, Probability: 67, Prediction: Under, Scores: None, IsSuccess: None
+Team: Suranaree Black Cat vs Ubon Kruanapat, Probability: 60, Prediction: Under, Scores: None, IsSuccess: None
+Team: Satun vs Pattani FC, Probability: 65, Prediction: Under, Scores: None, IsSuccess: None
+Team: Raj Pracha vs STK Muangnont FC, Probability: 77, Prediction: Under, Scores: None, IsSuccess: None
+Team: Real Murcia Imperial vs Águilas II, Probability: 67, Prediction: Under, Scores: None, IsSuccess: None
+Team: Hoang Anh Gia Lai vs Binh Dinh FC, Probability: 60, Prediction: Under, Scores: None, IsSuccess: None
+Team: Karaköprü Bld. vs Fethiyespor, Probability: 70, Prediction: Under, Scores: None, IsSuccess: None
+Team: Phuket FC vs Muang Trang United, Probability: 63, Prediction: Under, Scores: None, IsSuccess: None
+Team: Hòa Bình vs Long An FC, Probability: 67, Prediction: Under, Scores: None, IsSuccess: None
+Team: Real Madrid C vs CD Atlético Paso, Probability: 72, Prediction: Under, Scores: None, IsSuccess: None
+Team: Koln U19 vs Chemnitzer FC U19, Probability: 70, Prediction: Under, Scores: None, IsSuccess: None
+Team: Bremen U19 vs Schalke 04 U19, Probability: 67, Prediction: Under, Scores: None, IsSuccess: None
+Team: RB Leipzig U19 vs Unterhaching U19, Probability: 62, Prediction: Under, Scores: None, IsSuccess: None
+Team: Meerbusch U19 vs Viktoria Köln U19, Probability: 62, Prediction: Under, Scores: None, IsSuccess: None
+Team: 76 Igdır Belediye Spor vs Keçiörengücü, Probability: 60, Prediction: Under, Scores: None, IsSuccess: None
+Team: Boluspor vs Amedspor, Probability: 70, Prediction: Under, Scores: None, IsSuccess: None
+Team: La Union Atletico vs UD Almeria B, Probability: 60, Prediction: Under, Scores: None, IsSuccess: None
+Team: Athletic Torrellano vs La Nucía, Probability: 77, Prediction: Under, Scores: None, IsSuccess: None
+Team: Villaverde San Andrés vs Las Rozas, Probability: 63, Prediction: Under, Scores: None, IsSuccess: None
+Team: Trival Valderas vs RSD Alcala, Probability: 65, Prediction: Under, Scores: None, IsSuccess: None
+Team: RCD Carabanchel vs Cala Pozuelo, Probability: 65, Prediction: Under, Scores: None, IsSuccess: None
+Team: CE Constancia vs Porreres, Probability: 70, Prediction: Under, Scores: None, IsSuccess: None
+Team: FC Vizela vs Leixões SC, Probability: 61, Prediction: Under, Scores: None, IsSuccess: None
+Team: Shabana vs Mathare United, Probability: 77, Prediction: Under, Scores: None, IsSuccess: None
+Team: Diyarbekirspor vs Halide Edip Adivar, Probability: 77, Prediction: Under, Scores: None, IsSuccess: None
+Team: Somaspor vs Içel Idman Yurdu, Probability: 60, Prediction: Under, Scores: None, IsSuccess: None
+Team: CE Andratx vs Elche Ilicitano, Probability: 65, Prediction: Under, Scores: None, IsSuccess: None
+Team: Linares Deportivo vs Deportiva Minera, Probability: 75, Prediction: Under, Scores: None, IsSuccess: None
+Team: CD Águilas vs UCAM Murcia, Probability: 67, Prediction: Under, Scores: None, IsSuccess: None
+Team: Tepecikspor AS vs Denizlispor, Probability: 62, Prediction: Under, Scores: None, IsSuccess: None
+Team: Talasgücü Belediyespor vs Mardin BB, Probability: 73, Prediction: Under, Scores: None, IsSuccess: None
+Team: Muğlaspor vs Balikesirspor, Probability: 70, Prediction: Under, Scores: None, IsSuccess: None
+Team: Mazıdagı Fosfatspor vs Türk Metal 1963, Probability: 70, Prediction: Under, Scores: None, IsSuccess: None
+Team: Fatsa Belediyespor vs İnegöl Kafkaspor, Probability: 82, Prediction: Under, Scores: None, IsSuccess: None
+Team: 1954 Kelkit Bld. vs Nevsehir Bld., Probability: 74, Prediction: Under, Scores: None, IsSuccess: None
+Team: Kutahyaspor vs Kahramanmaras, Probability: 70, Prediction: Under, Scores: None, IsSuccess: None
+Team: Artvin Hopaspor vs Düzcespor, Probability: 85, Prediction: Under, Scores: None, IsSuccess: None
+Team: Bursaspor vs Anadolu Üniv., Probability: 75, Prediction: Under, Scores: None, IsSuccess: None
+Team: Kırsehir Belediyespor vs Mus Menderesspor, Probability: 60, Prediction: Under, Scores: None, IsSuccess: None
+Team: Ranong United vs Nara United, Probability: 62, Prediction: Under, Scores: None, IsSuccess: None
+Team: Hồ Chí Minh II vs FC Hue, Probability: 80, Prediction: Under, Scores: None, IsSuccess: None
+Team: Racing Villalbés vs Valladares, Probability: 60, Prediction: Under, Scores: None, IsSuccess: None
+Team: CP San Cristóbal vs Vilassar de Mar, Probability: 61, Prediction: Under, Scores: None, IsSuccess: None
+Team: Conil CF vs Bollullos, Probability: 75, Prediction: Under, Scores: None, IsSuccess: None
+Team: CD Beti Onak vs AD San Juan, Probability: 72, Prediction: Under, Scores: None, IsSuccess: None
+Team: Zuera vs Calamocha, Probability: 60, Prediction: Under, Scores: None, IsSuccess: None
+Team: Valdepeñas vs Noblejas, Probability: 82, Prediction: Under, Scores: None, IsSuccess: None
+Team: Amarante vs AD Fafe, Probability: 72, Prediction: Under, Scores: None, IsSuccess: None
+Team: Celta de Vigo B vs Real Unión, Probability: 63, Prediction: Under, Scores: None, IsSuccess: None
+Team: Atlético Sanluqueño vs Atlético Madrid B, Probability: 67, Prediction: Under, Scores: None, IsSuccess: None
+Team: Union Berlin U19 vs Borussia Dortmund U19, Probability: 63, Prediction: Under, Scores: None, IsSuccess: None
+Team: Athletic Club W vs Real Sociedad W, Probability: 61, Prediction: Under, Scores: None, IsSuccess: None
+Team: FK Radnicki 1923 vs Mladost Lucani, Probability: 66, Prediction: Under, Scores: None, IsSuccess: None
+Team: Hradec Kralove vs Bohemians 1905, Probability: 63, Prediction: Under, Scores: None, IsSuccess: None
+Team: Turan Tovuz vs Araz Nakhchivan, Probability: 61, Prediction: Under, Scores: None, IsSuccess: None
+Team: Gor Mahia vs Tusker FC, Probability: 63, Prediction: Under, Scores: None, IsSuccess: None
+Team: FK Zemun vs FK Sloven Ruma, Probability: 60, Prediction: Under, Scores: None, IsSuccess: None
+Team: Radnicki Sr. Mitrovica vs FK Smederevo, Probability: 67, Prediction: Under, Scores: None, IsSuccess: None
+Team: Grande Riviere Sud Est vs La Cure Waves, Probability: 67, Prediction: Under, Scores: None, IsSuccess: None
+Team: Vihiga United vs 3K, Probability: 83, Prediction: Under, Scores: None, IsSuccess: None
+Team: Dimba Patriots vs Modern Coast Rangers, Probability: 62, Prediction: Under, Scores: None, IsSuccess: None
+Team: Lugazi Municipal vs Wakiso Giants, Probability: 85, Prediction: Under, Scores: None, IsSuccess: None
+Team: Police FC (UGA) vs NEC, Probability: 85, Prediction: Under, Scores: None, IsSuccess: None
+Team: Chiangmai United vs Nakhon Si United, Probability: 64, Prediction: Under, Scores: None, IsSuccess: None
+Team: Gjilani vs Ballkani, Probability: 61, Prediction: Under, Scores: None, IsSuccess: None
+Team: Unión Sur Yaiza vs Colonia Moscardó, Probability: 62, Prediction: Under, Scores: None, IsSuccess: None
+Team: Wehen U19 vs Elversberg U19, Probability: 75, Prediction: Under, Scores: None, IsSuccess: None
+Team: Blau-Weiß Königsdorf U19 vs FSV Frankfurt U19, Probability: 70, Prediction: Under, Scores: None, IsSuccess: None
+Team: CSKA 1948 Sofia III vs Pirin Blagoevgrad II, Probability: 71, Prediction: Under, Scores: None, IsSuccess: None
+Team: Bamboutos FC vs AS Fortuna, Probability: 61, Prediction: Under, Scores: None, IsSuccess: None
+Team: Al Andalus vs Al Mahdia, Probability: 60, Prediction: Under, Scores: None, IsSuccess: None
+Team: Voska Sport vs Besa Dobërdoll, Probability: 64, Prediction: Under, Scores: None, IsSuccess: None
+Team: Genclerbirligi vs Pendikspor, Probability: 60, Prediction: Under, Scores: None, IsSuccess: None
+Team: Budapesti VSC vs Csakvari TK, Probability: 70, Prediction: Under, Scores: None, IsSuccess: None
+Team: Penang FA vs Kuching FA, Probability: 60, Prediction: Under, Scores: None, IsSuccess: None
+Team: Saint Eloi Lupopo vs CS Don Bosco, Probability: 80, Prediction: Under, Scores: None, IsSuccess: None
+Team: Simba(DRC) vs Blessing, Probability: 84, Prediction: Under, Scores: None, IsSuccess: None
+Team: Dauphins Noirs vs Etoile de Kivu, Probability: 77, Prediction: Under, Scores: None, IsSuccess: None
+Team: Ngozi City vs Lydia Ludic, Probability: 64, Prediction: Under, Scores: None, IsSuccess: None
+Team: SamWest vs Fortune Sacco, Probability: 60, Prediction: Under, Scores: None, IsSuccess: None
+Team: Bul FC vs Kiboga Young, Probability: 83, Prediction: Under, Scores: None, IsSuccess: None
+Team: AS Otôho vs Patronage Sainte-Anne, Probability: 60, Prediction: Under, Scores: None, IsSuccess: None
+Team: Kalâa Sport vs CS Korba, Probability: 60, Prediction: Under, Scores: None, IsSuccess: None
+Team: Capitão Poço vs São Francisco/PA, Probability: 80, Prediction: Under, Scores: None, IsSuccess: None
+Team: Baladiyyat Al Mahalla vs Itesalat, Probability: 62, Prediction: Under, Scores: None, IsSuccess: None
+Team: Dairut SC vs Al Qanah, Probability: 65, Prediction: Under, Scores: None, IsSuccess: None
+Team: Proxy vs Petrol Asyut, Probability: 63, Prediction: Under, Scores: None, IsSuccess: None
+Team: Montakhab Suez vs Dakhleya, Probability: 60, Prediction: Under, Scores: None, IsSuccess: None
+Team: Tanta FC vs La Viena, Probability: 62, Prediction: Under, Scores: None, IsSuccess: None
+Team: Monte Azul/SP vs Bandeirante SP, Probability: 70, Prediction: Under, Scores: None, IsSuccess: None
+Team: XV de Jaú vs USAC, Probability: 80, Prediction: Under, Scores: None, IsSuccess: None
+Team: Eintracht Frankfurt II W vs Bochum W, Probability: 77, Prediction: Under, Scores: None, IsSuccess: None
+Team: Paganese Calcio vs Olbia Calcio, Probability: 70, Prediction: Under, Scores: None, IsSuccess: None
+Team: PAO Kristoni vs Orestis Orestiadas, Probability: 60, Prediction: Under, Scores: None, IsSuccess: None
+Team: Iraklis Ammoudia vs Thermaikos, Probability: 62, Prediction: Under, Scores: None, IsSuccess: None
+Team: Apollon Krya Vrysi vs Chaniotis, Probability: 70, Prediction: Under, Scores: None, IsSuccess: None
+Team: Aris Petroupolis vs Giouchtas, Probability: 70, Prediction: Under, Scores: None, IsSuccess: None
+Team: Agios Nikolaos vs Asteras Varis, Probability: 73, Prediction: Under, Scores: None, IsSuccess: None
+Team: Asteras Kaisarianis vs Chaidari AO, Probability: 82, Prediction: Under, Scores: None, IsSuccess: None
+Team: Nea Ionia vs Thyella Diastavroseos, Probability: 80, Prediction: Under, Scores: None, IsSuccess: None
+Team: Desp. Ferroviária ES vs Rio Branco-VN, Probability: 63, Prediction: Under, Scores: None, IsSuccess: None
+Team: Darmstadt 98 II vs Marburg, Probability: 62, Prediction: Under, Scores: None, IsSuccess: None
+Team: Chisola vs Cairese, Probability: 62, Prediction: Under, Scores: None, IsSuccess: None
+Team: Arconatese vs Vigasio, Probability: 70, Prediction: Under, Scores: None, IsSuccess: None
+Team: AC Fanfulla vs Desenzano Calvina, Probability: 60, Prediction: Under, Scores: None, IsSuccess: None
+Team: AC Mestre vs Treviso FBC, Probability: 71, Prediction: Under, Scores: None, IsSuccess: None
+Team: Villa d'Almè vs Montecchio Maggiore, Probability: 60, Prediction: Under, Scores: None, IsSuccess: None
+Team: Piacenza Calcio vs Ravenna, Probability: 61, Prediction: Under, Scores: None, IsSuccess: None
+Team: Sasso Marconi vs AC Tuttocuoio, Probability: 60, Prediction: Under, Scores: None, IsSuccess: None
+Team: Tau Altopascio vs Sammaurese, Probability: 80, Prediction: Under, Scores: None, IsSuccess: None
+Team: United Riccione vs Fiorenzuola, Probability: 77, Prediction: Under, Scores: None, IsSuccess: None
+Team: Sangiovannese 1927 vs San Donato Tavarnelle, Probability: 63, Prediction: Under, Scores: None, IsSuccess: None
+Team: Atletico Ascoli vs Fossombrone, Probability: 75, Prediction: Under, Scores: None, IsSuccess: None
+Team: Civitanovese vs Ancona, Probability: 72, Prediction: Under, Scores: None, IsSuccess: None
+Team: L'Aquila Calcio vs Roma City, Probability: 66, Prediction: Under, Scores: None, IsSuccess: None
+Team: AS Sora vs Vigor Senigallia, Probability: 67, Prediction: Under, Scores: None, IsSuccess: None
+Team: Anzio vs Sarnese, Probability: 62, Prediction: Under, Scores: None, IsSuccess: None
+Team: Monterosi FC vs CynthiAlbalonga, Probability: 67, Prediction: Under, Scores: None, IsSuccess: None
+Team: Costa D’Amalfi vs Brindisi, Probability: 67, Prediction: Under, Scores: None, IsSuccess: None
+Team: Pompei vs Sancataldese, Probability: 67, Prediction: Under, Scores: None, IsSuccess: None
+Team: AS Paternò Calcio vs Ragusa, Probability: 61, Prediction: Under, Scores: None, IsSuccess: None
+Team: Sambiase vs Scafatese, Probability: 85, Prediction: Under, Scores: None, IsSuccess: None
+Team: Palermo vs Mantova FC, Probability: 72, Prediction: Under, Scores: None, IsSuccess: None
+Team: St Mirren vs Hibernian, Probability: 61, Prediction: Under, Scores: None, IsSuccess: None
+Team: NK Varaždin vs Slaven Belupo, Probability: 69, Prediction: Under, Scores: None, IsSuccess: None
+Team: Avellino vs FC Crotone, Probability: 60, Prediction: Under, Scores: None, IsSuccess: None
+Team: AC Trento vs AC Lumezzane, Probability: 61, Prediction: Under, Scores: None, IsSuccess: None
+Team: Chabab Khénifra vs Wydad Fès, Probability: 62, Prediction: Under, Scores: None, IsSuccess: None
+Team: KAC Kenitra vs USM Oujda, Probability: 75, Prediction: Under, Scores: None, IsSuccess: None
+Team: CAYB Berrechid vs Ben Guerir, Probability: 73, Prediction: Under, Scores: None, IsSuccess: None
+Team: Celeste vs DC Motema Pembe, Probability: 70, Prediction: Under, Scores: None, IsSuccess: None
+Team: PAS Mates vs ASVP, Probability: 70, Prediction: Under, Scores: None, IsSuccess: None
+Team: Majantja vs Linare FC, Probability: 78, Prediction: Under, Scores: None, IsSuccess: None
+Team: Manonyane vs Lijabatho, Probability: 63, Prediction: Under, Scores: None, IsSuccess: None
+Team: USI Lupo-Martini vs Vorsfelde, Probability: 69, Prediction: Under, Scores: None, IsSuccess: None
+Team: Akragas vs Città Di Sant’Agata, Probability: 67, Prediction: Under, Scores: None, IsSuccess: None
+Team: Habay-la-Neuve vs UR La Louvière Centre, Probability: 73, Prediction: Under, Scores: None, IsSuccess: None
+Team: Raeren-Eynatten vs RFC Huy, Probability: 82, Prediction: Under, Scores: None, IsSuccess: None
+Team: Verviers vs Schaerbeek-Evere, Probability: 87, Prediction: Under, Scores: None, IsSuccess: None
+Team: Rupel Boom vs Sint-Truiden II, Probability: 80, Prediction: Under, Scores: None, IsSuccess: None
+Team: Security Systems vs Nico United, Probability: 66, Prediction: Under, Scores: None, IsSuccess: None
+Team: IFK Göteborg vs IK Oddevold, Probability: 66, Prediction: Under, Scores: None, IsSuccess: None
+Team: Spartak Trnava vs Dunajska Streda, Probability: 62, Prediction: Under, Scores: None, IsSuccess: None
+Team: Stade Renard vs PWD Bamenda, Probability: 73, Prediction: Under, Scores: None, IsSuccess: None
+Team: Canon Yaoundé vs Gazelle, Probability: 87, Prediction: Under, Scores: None, IsSuccess: None
+Team: Union Berlin W vs Nürnberg W, Probability: 75, Prediction: Under, Scores: None, IsSuccess: None
+Team: FC Cartagena B vs CA Pulpileño, Probability: 61, Prediction: Under, Scores: None, IsSuccess: None
+Team: Francs Borains vs KSV Temse, Probability: 67, Prediction: Under, Scores: None, IsSuccess: None
+Team: Karela United vs All Stars FC, Probability: 63, Prediction: Under, Scores: None, IsSuccess: None
+Team: Dreams FC vs Bechem United, Probability: 68, Prediction: Under, Scores: None, IsSuccess: None
+Team: Accra Hearts of Oak vs Nations, Probability: 73, Prediction: Under, Scores: None, IsSuccess: None
+Team: Heartland FC vs Shooting Stars SC, Probability: 62, Prediction: Under, Scores: None, IsSuccess: None
+Team: SC Vianense vs FC Tirsense, Probability: 62, Prediction: Under, Scores: None, IsSuccess: None
+Team: SC Vila Real vs Atlético Arcos, Probability: 67, Prediction: Under, Scores: None, IsSuccess: None
+Team: GD Joane vs Dumiense, Probability: 70, Prediction: Under, Scores: None, IsSuccess: None
+Team: Vitória Guimarães B vs USC Paredes, Probability: 66, Prediction: Under, Scores: None, IsSuccess: None
+Team: Rebordosa AC vs Sandinenses, Probability: 77, Prediction: Under, Scores: None, IsSuccess: None
+Team: Fabril Barreiro vs FC Serpa, Probability: 60, Prediction: Under, Scores: None, IsSuccess: None
+Team: AC Marinhense vs O Elvas, Probability: 62, Prediction: Under, Scores: None, IsSuccess: None
+Team: Guarda vs Gondomar SC, Probability: 73, Prediction: Under, Scores: None, IsSuccess: None
+Team: GD Peniche vs Arronches e Benfica, Probability: 70, Prediction: Under, Scores: None, IsSuccess: None
+Team: Benfica C. Branco vs Mortágua FC, Probability: 67, Prediction: Under, Scores: None, IsSuccess: None
+Team: CF União de Coimbra 1919 vs CD Fátima, Probability: 60, Prediction: Under, Scores: None, IsSuccess: None
+Team: Upi Onm vs Requins, Probability: 72, Prediction: Under, Scores: None, IsSuccess: None
+Team: Adjidja vs ASVO, Probability: 81, Prediction: Under, Scores: None, IsSuccess: None
+Team: JAC vs Coton Sport Ouidah, Probability: 61, Prediction: Under, Scores: None, IsSuccess: None
+Team: Avrankou Omnisport vs Etoile Filante, Probability: 78, Prediction: Under, Scores: None, IsSuccess: None
+Team: CARA Brazzaville vs Racine, Probability: 82, Prediction: Under, Scores: None, IsSuccess: None
+Team: CA Cirbonero vs CD Cortes, Probability: 62, Prediction: Under, Scores: None, IsSuccess: None
+Team: Oliveira do Hospital vs SC Lusitânia, Probability: 83, Prediction: Under, Scores: None, IsSuccess: None
+Team: Eldense vs Deportivo La Coruña, Probability: 60, Prediction: Under, Scores: None, IsSuccess: None
+Team: FC Alverca vs Marítimo, Probability: 60, Prediction: Under, Scores: None, IsSuccess: None
+Team: KF Tirana vs Skenderbeu, Probability: 60, Prediction: Under, Scores: None, IsSuccess: None
+Team: Cádiz CF B vs Juventud Torremolinos, Probability: 60, Prediction: Under, Scores: None, IsSuccess: None
+Team: Al Ahli Benghazi vs Al Sadaka, Probability: 75, Prediction: Under, Scores: None, IsSuccess: None
+Team: Etoile Filante vs RC Bobo-Dioulasso, Probability: 80, Prediction: Under, Scores: None, IsSuccess: None
+Team: Gbohloe-Su vs Binah, Probability: 62, Prediction: Under, Scores: None, IsSuccess: None
+Team: Unisport de Sokodé vs AS OTR, Probability: 61, Prediction: Under, Scores: None, IsSuccess: None
+Team: Etoile Filante vs Haknour, Probability: 67, Prediction: Under, Scores: None, IsSuccess: None
+Team: Espoir vs Tambo, Probability: 65, Prediction: Under, Scores: None, IsSuccess: None
+Team: Betanzos CF vs Atlético Arteixo, Probability: 62, Prediction: Under, Scores: None, IsSuccess: None
+Team: CD Gerena vs AD Cartaya, Probability: 66, Prediction: Under, Scores: None, IsSuccess: None
+Team: Bala Azul vs SFC Minerva, Probability: 77, Prediction: Under, Scores: None, IsSuccess: None
+Team: Caspe vs CDJ Tamarite, Probability: 66, Prediction: Under, Scores: None, IsSuccess: None
+Team: CD Colunga vs CD Roces, Probability: 64, Prediction: Under, Scores: None, IsSuccess: None
+Team: CD Autol vs SD Oyonesa, Probability: 63, Prediction: Under, Scores: None, IsSuccess: None
+Team: Coruxo FC vs SD Laredo, Probability: 80, Prediction: Under, Scores: None, IsSuccess: None
+Team: CD Guijuelo vs Real Ávila, Probability: 71, Prediction: Under, Scores: None, IsSuccess: None
+Team: SD Ejea vs UD Logrones, Probability: 60, Prediction: Under, Scores: None, IsSuccess: None
+Team: CF Badalona vs Terrassa FC, Probability: 62, Prediction: Under, Scores: None, IsSuccess: None
+Team: Orihuela CF vs Union Estepona, Probability: 83, Prediction: Under, Scores: None, IsSuccess: None
+Team: Al Dahra FC vs Asaria, Probability: 75, Prediction: Under, Scores: None, IsSuccess: None
+Team: Kaedi vs N'Zidane, Probability: 83, Prediction: Under, Scores: None, IsSuccess: None
+Team: Walter Ferretti U20 vs Rancho Santana U20, Probability: 80, Prediction: Under, Scores: None, IsSuccess: None
+Team: Guinée Foot Elite vs AS Kaloum Star, Probability: 93, Prediction: Under, Scores: None, IsSuccess: None
+Team: Stade Malien vs Djoliba AC, Probability: 60, Prediction: Under, Scores: None, IsSuccess: None
+Team: CD Ourense vs UD Barbadás, Probability: 74, Prediction: Under, Scores: None, IsSuccess: None
+Team: CF San Ignacio vs UD Aretxabaleta, Probability: 60, Prediction: Under, Scores: None, IsSuccess: None
+Team: SD Almazán vs Arandina CF, Probability: 68, Prediction: Under, Scores: None, IsSuccess: None
+Team: River Ebro vs CD Agoncillo, Probability: 61, Prediction: Under, Scores: None, IsSuccess: None
+Team: Quintanar del Rey vs CD Manchego, Probability: 64, Prediction: Under, Scores: None, IsSuccess: None
+Team: Bombada vs BST Galaxy, Probability: 67, Prediction: Under, Scores: None, IsSuccess: None
+Team: Armed Forces FC vs Fortune, Probability: 67, Prediction: Under, Scores: None, IsSuccess: None
+Team: Le Havre vs Nice, Probability: 62, Prediction: Under, Scores: None, IsSuccess: None
+Team: Cesena vs AC Pisa, Probability: 65, Prediction: Under, Scores: None, IsSuccess: None
+Team: Lamboi vs SLIFA Mount Aureol, Probability: 72, Prediction: Under, Scores: None, IsSuccess: None
+Team: Bo Rangers vs East End Lions FC, Probability: 68, Prediction: Under, Scores: None, IsSuccess: None
+Team: Kamboi Eagles vs Freetown City, Probability: 66, Prediction: Under, Scores: None, IsSuccess: None
+Team: Diamond Stars vs Wilberforce Strikers, Probability: 70, Prediction: Under, Scores: None, IsSuccess: None
+Team: Haras Al Hodoud vs Pharco, Probability: 75, Prediction: Under, Scores: None, IsSuccess: None
+Team: Bendel Insurance vs Niger Tornadoes, Probability: 68, Prediction: Under, Scores: None, IsSuccess: None
+Team: Monopoli vs Team Altamura, Probability: 62, Prediction: Under, Scores: None, IsSuccess: None
+Team: AJEL vs Oslo, Probability: 77, Prediction: Under, Scores: None, IsSuccess: None
+Team: Casa Sport vs US Ouakam, Probability: 72, Prediction: Under, Scores: None, IsSuccess: None
+Team: CD Torreperogil vs Motril CF, Probability: 63, Prediction: Under, Scores: None, IsSuccess: None
+Team: Ciudad de Lucena vs UD Tomares, Probability: 61, Prediction: Under, Scores: None, IsSuccess: None
+Team: Real Murcia vs Sevilla Atletico, Probability: 67, Prediction: Under, Scores: None, IsSuccess: None
+Team: Villarreal B vs CD Alcoyano, Probability: 62, Prediction: Under, Scores: None, IsSuccess: None
+Team: US Gorée vs Guédiawaye FC, Probability: 75, Prediction: Under, Scores: None, IsSuccess: None
+Team: UE Cornellà vs CE Sabadell, Probability: 64, Prediction: Under, Scores: None, IsSuccess: None
+Team: Reddis vs Atlètic Lleida, Probability: 62, Prediction: Under, Scores: None, IsSuccess: None
+Team: Atlético Malagueño vs UD Torre del Mar, Probability: 61, Prediction: Under, Scores: None, IsSuccess: None
+Team: Real Zaragoza vs Burgos CF, Probability: 67, Prediction: Under, Scores: None, IsSuccess: None
+Team: Slavia Praha vs Banik, Probability: 63, Prediction: Under, Scores: None, IsSuccess: None
+Team: Ciudad Rodrigo vs Atlético Astorga, Probability: 62, Prediction: Under, Scores: None, IsSuccess: None
+Team: LDU vs Cuniburo, Probability: 70, Prediction: Under, Scores: None, IsSuccess: None
+Team: Star Sport Academy vs FC Kallon, Probability: 80, Prediction: Under, Scores: None, IsSuccess: None
+Team: Peten vs Chiquimulilla, Probability: 60, Prediction: Under, Scores: None, IsSuccess: None
+Team: Juan Pablo II College vs Sport Huancayo, Probability: 71, Prediction: Under, Scores: None, IsSuccess: None
+Team: Heidenheim vs Mainz, Probability: 61, Prediction: Under, Scores: None, IsSuccess: None
+Team: Campobasso vs Ternana Calcio, Probability: 85, Prediction: Under, Scores: None, IsSuccess: None
+Team: Sobradinho DF vs Brasiliense/DF, Probability: 69, Prediction: Under, Scores: None, IsSuccess: None
+Team: Carmópolis vs América/SE, Probability: 60, Prediction: Under, Scores: None, IsSuccess: None
+Team: Guarany/SE vs Falcon, Probability: 80, Prediction: Under, Scores: None, IsSuccess: None
+Team: Maranguape/CE vs Tiradentes/CE, Probability: 60, Prediction: Under, Scores: None, IsSuccess: None
+Team: Quixadá/CE vs Crato/CE, Probability: 67, Prediction: Under, Scores: None, IsSuccess: None
+Team: Fluminense vs Nova Iguacu/RJ, Probability: 62, Prediction: Under, Scores: None, IsSuccess: None
+Team: Sampaio Corrêa RJ vs Volta Redonda, Probability: 64, Prediction: Under, Scores: None, IsSuccess: None
+Team: Santa Cruz vs Central PE, Probability: 66, Prediction: Under, Scores: None, IsSuccess: None
+Team: CR Belouizdad vs MC Alger, Probability: 65, Prediction: Under, Scores: None, IsSuccess: None
+Team: Itabaiana/SE vs Dorense/SE, Probability: 61, Prediction: Under, Scores: None, IsSuccess: None
+Team: CRAC/GO vs Goiânia/GO, Probability: 64, Prediction: Under, Scores: None, IsSuccess: None
+Team: Uberlândia MG vs Betim, Probability: 62, Prediction: Under, Scores: None, IsSuccess: None
+Team: Guarani/CE vs Pacatuba, Probability: 71, Prediction: Under, Scores: None, IsSuccess: None
+Team: Parintins vs Princesa Solimões, Probability: 63, Prediction: Under, Scores: None, IsSuccess: None
+Team: Newell's Old Boys vs Rosario Central, Probability: 80, Prediction: Under, Scores: None, IsSuccess: None
+Team: Real Oviedo vs Albacete Balompie, Probability: 62, Prediction: Under, Scores: None, IsSuccess: None
+Team: Temperley vs Mitre SdE, Probability: 71, Prediction: Under, Scores: None, IsSuccess: None
+Team: Arsenal Sarandi vs Los Andes, Probability: 68, Prediction: Under, Scores: None, IsSuccess: None
+Team: Gimnasia y Tiro vs CA San Miguel, Probability: 86, Prediction: Under, Scores: None, IsSuccess: None
+Team: Deportivo Morón vs Central Norte Salta, Probability: 83, Prediction: Under, Scores: None, IsSuccess: None
+Team: Dunbeholden FC vs Waterhouse FC, Probability: 60, Prediction: Under, Scores: None, IsSuccess: None
+Team: Chapelton vs Vere United, Probability: 67, Prediction: Under, Scores: None, IsSuccess: None
+Team: Racing United vs Portmore United, Probability: 80, Prediction: Under, Scores: None, IsSuccess: None
+Team: Rolim de Moura/RO vs Barcelona/RO, Probability: 70, Prediction: Under, Scores: None, IsSuccess: None
+Team: Ferroviária/SP vs São José EC, Probability: 72, Prediction: Under, Scores: None, IsSuccess: None
+Team: Alvarado Mar del Plata vs CA Atlanta, Probability: 62, Prediction: Under, Scores: None, IsSuccess: None
+Team: Deportivo Garcilaso vs CD Comerciantes, Probability: 60, Prediction: Under, Scores: None, IsSuccess: None
+Team: Deportivo Maipú vs Quilmes AC, Probability: 64, Prediction: Under, Scores: None, IsSuccess: None
+Team: Olancho vs Juticalpa, Probability: 73, Prediction: Under, Scores: None, IsSuccess: None
+Team: Concórdia AC/SC vs Brusque FC/SC, Probability: 67, Prediction: Under, Scores: None, IsSuccess: None
+Team: Joinville vs Santa Catarina, Probability: 80, Prediction: Under, Scores: None, IsSuccess: None
+Team: Luverdense vs CEOV MS, Probability: 61, Prediction: Under, Scores: None, IsSuccess: None
+Team: Platense (SLV) vs Municipal Limeño, Probability: 69, Prediction: Under, Scores: None, IsSuccess: None
+Team: Olimpia Asunción vs Sportivo Trinidense, Probability: 60, Prediction: Under, Scores: None, IsSuccess: None
+Team: Figueirense vs Caravaggio, Probability: 70, Prediction: Under, Scores: None, IsSuccess: None
+count True : 0,   count False : 0, count None : 528 
+
+
+
+Gnidlo Sergiy

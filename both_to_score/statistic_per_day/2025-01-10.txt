@@ -1,0 +1,58 @@
+Team: Linense U20 vs Fluminense U20, Probability: 78, Prediction: No, Scores: 0 - 2, IsSuccess: True
+Team: Ferroviária U20 vs Santos U20, Probability: 93, Prediction: Yes, Scores: 2 - 1, IsSuccess: True
+Team: Rahmatganj MFS vs MSC Limited Dhaka, Probability: 81, Prediction: Yes, Scores: 1 - 3, IsSuccess: True
+Team: Dagon Port vs Dagon FC, Probability: 80, Prediction: Yes, Scores: 0 - 3, IsSuccess: False
+Team: América SE U20 vs Barra SC U20, Probability: 98, Prediction: No, Scores: 2 - 2, IsSuccess: False
+Team: Al Qanah vs Sporting Alexandria, Probability: 70, Prediction: No, Scores: 4 - 3, IsSuccess: False
+Team: Hatta Club vs Dubba Al Fujairah, Probability: 83, Prediction: Yes, Scores: 1 - 0, IsSuccess: False
+Team: Emirates Club vs Fleetwood United, Probability: 78, Prediction: No, Scores: None, IsSuccess: None
+Team: Hapoel Ramat Gan vs Maccabi Kabilio Jaffa, Probability: 80, Prediction: Yes, Scores: 2 - 1, IsSuccess: True
+Team: Hapoel Tel Aviv vs Ramat HaSharon, Probability: 79, Prediction: Yes, Scores: 4 - 2, IsSuccess: True
+Team: Rabeta Kosti vs Haidoub FC, Probability: 72, Prediction: No, Scores: 0 - 0, IsSuccess: True
+Team: Gulf Heroes vs Al Hamriyah, Probability: 70, Prediction: Yes, Scores: 0 - 4, IsSuccess: False
+Team: Al Nasr Dubai vs Ittihad Kalba, Probability: 79, Prediction: Yes, Scores: 3 - 2, IsSuccess: True
+Team: NRB Touggourt vs MC El Bayadh, Probability: 82, Prediction: No, Scores: 0 - 2, IsSuccess: True
+Team: Petrojet Suez vs ENPPI Cairo, Probability: 74, Prediction: No, Scores: 0 - 0, IsSuccess: True
+Team: JSM Béjaia vs A El-Eulma, Probability: 84, Prediction: No, Scores: 0 - 0, IsSuccess: True
+Team: Arabi Doha vs Shahaniya SC, Probability: 70, Prediction: Yes, Scores: 3 - 1, IsSuccess: True
+Team: XV de Piracicaba U20 vs Canaã U20, Probability: 78, Prediction: No, Scores: 2 - 1, IsSuccess: False
+Team: Ponte Preta U20 vs IAPE U20, Probability: 76, Prediction: No, Scores: 0 - 0, IsSuccess: True
+Team: Inter de Minas U20 vs Marcílio Dias U20, Probability: 73, Prediction: No, Scores: 1 - 1, IsSuccess: False
+Team: Piauí U20 vs Estrela de Março U20, Probability: 98, Prediction: No, Scores: 3 - 0, IsSuccess: True
+Team: Falcon U20 vs Dourados U20, Probability: 95, Prediction: No, Scores: 0 - 0, IsSuccess: True
+Team: Araguacema U20 vs Monte Roraima U20, Probability: 95, Prediction: No, Scores: 3 - 0, IsSuccess: True
+Team: Zurrieq FC vs Mellieha SC, Probability: 80, Prediction: No, Scores: 0 - 0, IsSuccess: True
+Team: Ajax Cape Town vs Casric Stars, Probability: 74, Prediction: No, Scores: 1 - 0, IsSuccess: True
+Team: Porto Velho EC U20 vs Rio Branco AC U20, Probability: 91, Prediction: No, Scores: 4 - 2, IsSuccess: False
+Team: AS Police Bamako vs Binga, Probability: 76, Prediction: No, Scores: 1 - 0, IsSuccess: True
+Team: Votoraty U20 vs ABC U20, Probability: 79, Prediction: No, Scores: 2 - 0, IsSuccess: True
+Team: Santa Fé SP U20 vs Cuiabá U20, Probability: 73, Prediction: No, Scores: 0 - 2, IsSuccess: True
+Team: Aster Brasil SP U20 vs Vila Nova U20, Probability: 71, Prediction: No, Scores: 0 - 0, IsSuccess: True
+Team: Ibrachina U20 vs Nautico U20, Probability: 74, Prediction: Yes, Scores: 1 - 1, IsSuccess: True
+Team: Richards Bay vs Polokwane City, Probability: 77, Prediction: No, Scores: None, IsSuccess: None
+Team: Fortuna Sittard vs Go Ahead Eagles, Probability: 76, Prediction: Yes, Scores: 0 - 3, IsSuccess: False
+Team: FC Eindhoven vs Volendam, Probability: 72, Prediction: Yes, Scores: 1 - 3, IsSuccess: True
+Team: Derby U23s vs Tottenham U23s, Probability: 86, Prediction: Yes, Scores: 2 - 1, IsSuccess: True
+Team: Leeds United U21 vs Man United U23s, Probability: 88, Prediction: Yes, Scores: None, IsSuccess: None
+Team: Middlesbrough U23s vs Newcastle U23s, Probability: 74, Prediction: Yes, Scores: None, IsSuccess: None
+Team: Southampton U23s vs Fulham U23s, Probability: 87, Prediction: Yes, Scores: 5 - 0, IsSuccess: False
+Team: Sunderland U23s vs Nottingham Forest U21, Probability: 90, Prediction: Yes, Scores: None, IsSuccess: None
+Team: West Brom U23s vs Everton FC U23s, Probability: 78, Prediction: Yes, Scores: None, IsSuccess: None
+Team: Leicester City U23s vs Crystal Palace U21, Probability: 73, Prediction: Yes, Scores: 0 - 2, IsSuccess: False
+Team: MC Alger vs TP Mazembe, Probability: 75, Prediction: No, Scores: 1 - 0, IsSuccess: True
+Team: Loyers W vs OH Leuven II W, Probability: 93, Prediction: Yes, Scores: None, IsSuccess: None
+Team: Borussia Dortmund vs Bayer Leverkusen, Probability: 86, Prediction: Yes, Scores: 2 - 3, IsSuccess: True
+Team: Afan Lido vs Llanelli AFC, Probability: 70, Prediction: Yes, Scores: 0 - 1, IsSuccess: False
+Team: Trethomas Bluebirds vs Goytre United, Probability: 71, Prediction: Yes, Scores: 3 - 1, IsSuccess: True
+Team: Flint Mountain vs Bangor 1876, Probability: 83, Prediction: Yes, Scores: None, IsSuccess: None
+Team: Prestatyn Town vs Ruthin Town, Probability: 70, Prediction: Yes, Scores: None, IsSuccess: None
+Team: Portuguesa U20 vs América RJ U20, Probability: 72, Prediction: No, Scores: 3 - 1, IsSuccess: False
+Team: Sergipe U20 vs Madureira U20, Probability: 77, Prediction: No, Scores: 3 - 0, IsSuccess: True
+Team: Merreikh Al Sudan vs N'Zidane, Probability: 95, Prediction: No, Scores: 1 - 1, IsSuccess: False
+Team: Aston Villa vs West Ham, Probability: 70, Prediction: Yes, Scores: 2 - 1, IsSuccess: True
+Team: Lynx vs Lincoln Red Imps, Probability: 83, Prediction: Yes, Scores: 1 - 5, IsSuccess: True
+count True : 30,   count False : 14, count None : 9 
+winrate:68.18
+
+
+Gnidlo Sergiy

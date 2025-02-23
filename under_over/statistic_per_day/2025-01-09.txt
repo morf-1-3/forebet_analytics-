@@ -1,0 +1,11 @@
+Team: Rajasthan United vs SC Bengaluru, Probability: 100, Prediction: Under, Scores: 2 - 1, IsSuccess: False
+Team: Hercílio Luz U20 vs Dom Bosco U20, Probability: 100, Prediction: Under, Scores: 0 - 4, IsSuccess: False
+Team: Náutico RR U20 vs Santa Cruz AC U20, Probability: 100, Prediction: Under, Scores: 1 - 1, IsSuccess: True
+Team: Bandeirante U20 vs Azuriz U20, Probability: 100, Prediction: Under, Scores: 2 - 1, IsSuccess: False
+Team: Pague Menos U20 vs Jaciobá U20, Probability: 100, Prediction: Under, Scores: 2 - 0, IsSuccess: True
+Team: Ferroviário U20 vs Mazagão U20, Probability: 100, Prediction: Under, Scores: 1 - 2, IsSuccess: False
+count True : 2,   count False : 4, count None : 0 
+winrate:33.33
+
+
+Gnidlo Sergiy

@@ -1,0 +1,9 @@
+Team: Ethiopian Medhin vs Shire Endaselassie, Probability: 100, Prediction: Under, Scores: 3 - 1, IsSuccess: False
+Team: Sekka Al Hadid vs Baladiyyat Al Mahalla, Probability: 90, Prediction: Under, Scores: 1 - 1, IsSuccess: True
+Team: Wahda Abu Dhabi vs Dubba Al Husun, Probability: 85, Prediction: Over, Scores: 4 - 1, IsSuccess: True
+Team: Tuna Luso PA U20 vs Azuriz U20, Probability: 100, Prediction: Under, Scores: 1 - 2, IsSuccess: False
+count True : 2,   count False : 2, count None : 0 
+winrate:50.00
+
+
+Gnidlo Sergiy

@@ -1,0 +1,18 @@
+Team: Club Sando vs Cunupia FC, Probability: 79, Prediction: No, Scores: 7 - 1, IsSuccess: False
+Team: Police FC (T&T) vs Prison Service, Probability: 78, Prediction: Yes, Scores: 5 - 1, IsSuccess: True
+Team: Dhaka Wanderers vs Abahani Chittagong, Probability: 80, Prediction: No, Scores: 1 - 0, IsSuccess: True
+Team: Adelaide United vs WS Wanderers, Probability: 87, Prediction: Yes, Scores: 2 - 3, IsSuccess: True
+Team: Angkor Tiger FC vs Dangkor Senchey, Probability: 79, Prediction: Yes, Scores: 2 - 2, IsSuccess: True
+Team: Shahre Raz vs Naft Bandar Abbas, Probability: 79, Prediction: No, Scores: 1 - 1, IsSuccess: False
+Team: Bashundhara Kings vs Brothers Union, Probability: 96, Prediction: Yes, Scores: 1 - 1, IsSuccess: True
+Team: Mes Rafsanjan vs Zob Ahan, Probability: 72, Prediction: No, Scores: 1 - 2, IsSuccess: False
+Team: Caspian Qazvin vs Gol Gohar, Probability: 78, Prediction: No, Scores: 0 - 1, IsSuccess: True
+Team: Persepolis FC vs Kheybar Khorramabad, Probability: 71, Prediction: No, Scores: 2 - 1, IsSuccess: False
+Team: SDC Group/Hôpital Balbala vs Garde-côtes, Probability: 72, Prediction: No, Scores: 0 - 1, IsSuccess: True
+Team: Brighton vs Brentford, Probability: 71, Prediction: Yes, Scores: 0 - 0, IsSuccess: False
+Team: Anderlecht vs Dender, Probability: 73, Prediction: Yes, Scores: 2 - 3, IsSuccess: True
+count True : 8,   count False : 5, count None : 0 
+winrate:61.54
+
+
+Gnidlo Sergiy

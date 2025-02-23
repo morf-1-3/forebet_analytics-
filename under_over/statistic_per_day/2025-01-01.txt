@@ -1,0 +1,11 @@
+Team: Bracknell Town vs Basingstoke, Probability: 86, Prediction: Over, Scores: 1 - 1, IsSuccess: False
+Team: Bangor 1876 vs Prestatyn Town, Probability: 99, Prediction: Over, Scores: None, IsSuccess: None
+Team: Denbigh Town vs Flint Mountain, Probability: 99, Prediction: Over, Scores: None, IsSuccess: None
+Team: Boreham Wood vs Slough Town, Probability: 90, Prediction: Over, Scores: 5 - 1, IsSuccess: True
+Team: Chertsey Town vs Walton & Hersham, Probability: 99, Prediction: Over, Scores: None, IsSuccess: None
+Team: Abacha City vs Kamboi Eagles, Probability: 100, Prediction: Under, Scores: 2 - 1, IsSuccess: False
+count True : 1,   count False : 2, count None : 3 
+winrate:33.33
+
+
+Gnidlo Sergiy

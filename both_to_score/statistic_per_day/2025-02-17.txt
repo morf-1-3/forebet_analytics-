@@ -1,0 +1,30 @@
+Team: Politie VV vs SV Robinhood, Probability: 81, Prediction: Yes, Scores: None, IsSuccess: None
+Team: Weymouth Wales vs UWI Blackbirds, Probability: 82, Prediction: Yes, Scores: None, IsSuccess: None
+Team: CD Walter Ferretti vs Rancho Santana, Probability: 75, Prediction: No, Scores: None, IsSuccess: None
+Team: Persiraja Banda Aceh vs Deltras Sidoarjo, Probability: 71, Prediction: Yes, Scores: None, IsSuccess: None
+Team: Shan United vs Rakhine United, Probability: 73, Prediction: Yes, Scores: None, IsSuccess: None
+Team: Ayeyawady United vs Yangon United, Probability: 74, Prediction: Yes, Scores: None, IsSuccess: None
+Team: Mendiola FC vs Manila Digger, Probability: 78, Prediction: Yes, Scores: None, IsSuccess: None
+Team: Afantou vs Miltiadis Pyrgos, Probability: 70, Prediction: No, Scores: None, IsSuccess: None
+Team: Dunav Ruse vs Ludogorets II, Probability: 72, Prediction: Yes, Scores: None, IsSuccess: None
+Team: Bali United Pusam vs Malut United, Probability: 73, Prediction: Yes, Scores: None, IsSuccess: None
+Team: Mbarara City vs UPDF FC, Probability: 73, Prediction: No, Scores: None, IsSuccess: None
+Team: Aizawl FC vs Churchill Brothers, Probability: 72, Prediction: Yes, Scores: None, IsSuccess: None
+Team: Arta vs Q5 / Nourie Transit, Probability: 74, Prediction: Yes, Scores: None, IsSuccess: None
+Team: Diarra vs US Bougouni, Probability: 77, Prediction: No, Scores: None, IsSuccess: None
+Team: Al Hala vs Al Hidd Club, Probability: 72, Prediction: Yes, Scores: None, IsSuccess: None
+Team: ASC Jaraaf vs ASC HLM, Probability: 73, Prediction: No, Scores: None, IsSuccess: None
+Team: Rizespor vs Galatasaray, Probability: 73, Prediction: Yes, Scores: None, IsSuccess: None
+Team: Randers FC vs København, Probability: 70, Prediction: Yes, Scores: None, IsSuccess: None
+Team: Jong AZ Alkmaar vs Jong PSV, Probability: 80, Prediction: Yes, Scores: None, IsSuccess: None
+Team: Man United U23s vs Fulham U23s, Probability: 90, Prediction: Yes, Scores: None, IsSuccess: None
+Team: Crystal Palace U21 vs Aston Villa U23s, Probability: 79, Prediction: Yes, Scores: None, IsSuccess: None
+Team: Man City U23s vs Tottenham U23s, Probability: 83, Prediction: Yes, Scores: None, IsSuccess: None
+Team: Sunderland U23s vs Reading U23s, Probability: 74, Prediction: Yes, Scores: None, IsSuccess: None
+Team: Leeds United vs Sunderland, Probability: 79, Prediction: Yes, Scores: None, IsSuccess: None
+Team: Barcelona vs Rayo Vallecano, Probability: 77, Prediction: Yes, Scores: None, IsSuccess: None
+count True : 0,   count False : 0, count None : 25 
+
+
+
+Gnidlo Sergiy

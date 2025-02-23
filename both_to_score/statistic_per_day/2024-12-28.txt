@@ -1,0 +1,43 @@
+Team: Sydney FC vs Melbourne Victory, Probability: 79, Prediction: Yes, Scores: 3 - 0, IsSuccess: False
+Team: Life Sihanoukville vs National Defense, Probability: 72, Prediction: Yes, Scores: 3 - 1, IsSuccess: True
+Team: ASVP vs Cercle de Joachim, Probability: 71, Prediction: Yes, Scores: 0 - 0, IsSuccess: False
+Team: Naft Gachsaran vs Mes Soongoun, Probability: 70, Prediction: No, Scores: 1 - 0, IsSuccess: True
+Team: Arabi Irbid vs Al Wehdat II, Probability: 78, Prediction: Yes, Scores: 5 - 2, IsSuccess: True
+Team: JS Omranienne vs AS Gabès, Probability: 74, Prediction: No, Scores: 2 - 2, IsSuccess: False
+Team: Al Borouq vs Al Suqoor Tobruk, Probability: 79, Prediction: No, Scores: 2 - 3, IsSuccess: False
+Team: Caersws FC vs Gresford Athletic, Probability: 80, Prediction: Yes, Scores: 0 - 1, IsSuccess: False
+Team: Guilsfield vs Penrhyncoch, Probability: 78, Prediction: Yes, Scores: 4 - 2, IsSuccess: True
+Team: ISOHSA vs Eding Sport, Probability: 74, Prediction: Yes, Scores: 0 - 0, IsSuccess: False
+Team: AS Fap vs Union Abong-Mbang, Probability: 80, Prediction: No, Scores: 1 - 1, IsSuccess: False
+Team: Dumbarton FC vs Kelty Hearts, Probability: 72, Prediction: Yes, Scores: 2 - 0, IsSuccess: False
+Team: Elgin City vs Peterhead FC, Probability: 70, Prediction: Yes, Scores: 2 - 0, IsSuccess: False
+Team: Cheshunt FC vs Cray Valley PM, Probability: 78, Prediction: Yes, Scores: 4 - 4, IsSuccess: True
+Team: Folkestone Invicta vs Wingate & Finchley, Probability: 73, Prediction: Yes, Scores: 3 - 2, IsSuccess: True
+Team: Hashtag United vs Lewes FC, Probability: 79, Prediction: Yes, Scores: 2 - 1, IsSuccess: True
+Team: Bedford Town vs Halesowen Town, Probability: 70, Prediction: Yes, Scores: 3 - 1, IsSuccess: True
+Team: Lowestoft Town vs Barwell FC, Probability: 70, Prediction: Yes, Scores: 1 - 0, IsSuccess: False
+Team: Stratford Town vs Kettering Town, Probability: 72, Prediction: Yes, Scores: 3 - 3, IsSuccess: True
+Team: Dorchester Town vs Basingstoke, Probability: 76, Prediction: Yes, Scores: 3 - 2, IsSuccess: True
+Team: Merthyr Town vs Walton & Hersham, Probability: 91, Prediction: Yes, Scores: 5 - 2, IsSuccess: True
+Team: Plymouth Parkway vs Havant & Waterlooville, Probability: 81, Prediction: Yes, Scores: 2 - 1, IsSuccess: True
+Team: Swindon Supermarine vs Hanwell Town, Probability: 73, Prediction: Yes, Scores: 2 - 2, IsSuccess: True
+Team: Wimborne Town vs Gloucester, Probability: 71, Prediction: Yes, Scores: 1 - 1, IsSuccess: True
+Team: Basford Utd vs Worksop Town, Probability: 82, Prediction: Yes, Scores: 1 - 3, IsSuccess: True
+Team: Coton Sport Ouidah vs JSO, Probability: 73, Prediction: No, Scores: 1 - 1, IsSuccess: False
+Team: Requins vs Sitatunga, Probability: 76, Prediction: No, Scores: 1 - 0, IsSuccess: True
+Team: Bani Gansè vs Boa, Probability: 80, Prediction: No, Scores: 2 - 0, IsSuccess: True
+Team: Damissa vs Buffles du Borgou, Probability: 71, Prediction: No, Scores: 0 - 0, IsSuccess: True
+Team: CF Mounana vs CS Bendje, Probability: 74, Prediction: No, Scores: 2 - 2, IsSuccess: False
+Team: AVS vs Estrela Amadora, Probability: 74, Prediction: No, Scores: 1 - 1, IsSuccess: False
+Team: Bouaké FC vs ASEC Mimosas, Probability: 74, Prediction: No, Scores: 0 - 0, IsSuccess: True
+Team: Tahaddy Benghazi vs Al Ansar, Probability: 70, Prediction: No, Scores: 3 - 0, IsSuccess: True
+Team: Haknour vs AS OTR, Probability: 76, Prediction: No, Scores: 3 - 1, IsSuccess: False
+Team: Toulde vs Garde Nationale, Probability: 82, Prediction: No, Scores: 0 - 2, IsSuccess: True
+Team: Kamboi Eagles vs Wilberforce Strikers, Probability: 83, Prediction: No, Scores: 0 - 1, IsSuccess: True
+Team: Lamboi vs Bhantal, Probability: 71, Prediction: No, Scores: 1 - 2, IsSuccess: False
+Team: Lazio vs Atalanta, Probability: 78, Prediction: Yes, Scores: 1 - 1, IsSuccess: True
+count True : 23,   count False : 15, count None : 0 
+winrate:60.53
+
+
+Gnidlo Sergiy

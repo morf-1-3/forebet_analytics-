@@ -1,0 +1,11 @@
+Team: Colo Colo/BA vs Porto BA, Probability: 93, Prediction: Under, Scores: 0 - 0, IsSuccess: True
+Team: CastrumFavara vs Reggina Calcio, Probability: 87, Prediction: Under, Scores: 1 - 3, IsSuccess: False
+Team: Mohammedan SC vs Chennaiyin, Probability: 85, Prediction: Under, Scores: 2 - 2, IsSuccess: False
+Team: Al-Karma vs Najaf FC, Probability: 85, Prediction: Under, Scores: 1 - 0, IsSuccess: True
+Team: TAFIC vs Gaborone United, Probability: 87, Prediction: Over, Scores: 1 - 1, IsSuccess: False
+Team: Benfica U23 vs Gil Vicente U23, Probability: 97, Prediction: Over, Scores: 0 - 1, IsSuccess: False
+count True : 2,   count False : 4, count None : 0 
+winrate:33.33
+
+
+Gnidlo Sergiy

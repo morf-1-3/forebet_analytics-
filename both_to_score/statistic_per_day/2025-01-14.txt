@@ -1,0 +1,38 @@
+Team: Bragantino U20 vs Flamengo RJ U20, Probability: 99, Prediction: Yes, Scores: 3 - 1, IsSuccess: True
+Team: Dempo SC vs Gokulam FC, Probability: 71, Prediction: No, Scores: 0 - 1, IsSuccess: True
+Team: Nakhon Pathom vs Nong Bua Pitchaya, Probability: 72, Prediction: Yes, Scores: 1 - 1, IsSuccess: True
+Team: Ethiopia Nigd Bank vs Mebrat Hayl, Probability: 72, Prediction: No, Scores: 1 - 0, IsSuccess: True
+Team: Cong an Ha Noi vs Hong Linh Ha Tinh, Probability: 72, Prediction: No, Scores: 2 - 1, IsSuccess: False
+Team: Heegan vs Badbaado, Probability: 72, Prediction: Yes, Scores: 3 - 0, IsSuccess: False
+Team: Sporting Alexandria vs Dakhleya, Probability: 78, Prediction: No, Scores: 0 - 0, IsSuccess: True
+Team: Mansoura SC vs Wadi Degla SC, Probability: 75, Prediction: No, Scores: 0 - 2, IsSuccess: True
+Team: Montakhab Suez vs Abu Qair Lel Asmeda, Probability: 75, Prediction: No, Scores: 1 - 4, IsSuccess: False
+Team: Rabeta Kosti vs Al Zamala SC, Probability: 88, Prediction: No, Scores: 2 - 1, IsSuccess: False
+Team: Haidoub FC vs Merreikh Abyad, Probability: 79, Prediction: No, Scores: 1 - 2, IsSuccess: False
+Team: North East Utd vs Goa, Probability: 79, Prediction: Yes, Scores: 1 - 1, IsSuccess: True
+Team: Al Arabi Kuwait vs Tadamon (KUW), Probability: 87, Prediction: Yes, Scores: 1 - 0, IsSuccess: False
+Team: Vizela U23 vs Famalicão U23, Probability: 70, Prediction: Yes, Scores: 1 - 1, IsSuccess: True
+Team: Tevragh-Zeïne vs N'Zidane, Probability: 70, Prediction: No, Scores: 2 - 0, IsSuccess: True
+Team: Milo vs Hafia FC, Probability: 81, Prediction: Yes, Scores: 1 - 4, IsSuccess: True
+Team: Garde Nationale vs Chemal, Probability: 71, Prediction: No, Scores: 0 - 2, IsSuccess: True
+Team: Holstein Kiel vs Borussia Dortmund, Probability: 79, Prediction: Yes, Scores: 4 - 2, IsSuccess: True
+Team: Noordwijk vs BVV Barendrecht, Probability: 73, Prediction: Yes, Scores: 0 - 0, IsSuccess: False
+Team: Chelsea vs Bournemouth, Probability: 74, Prediction: Yes, Scores: 2 - 2, IsSuccess: True
+Team: Bayer Leverkusen vs Mainz, Probability: 83, Prediction: Yes, Scores: 1 - 0, IsSuccess: False
+Team: Eintracht Frankfurt vs Freiburg, Probability: 78, Prediction: Yes, Scores: 4 - 1, IsSuccess: True
+Team: Wolfsburg vs Borussia M'gladbach, Probability: 79, Prediction: Yes, Scores: 5 - 1, IsSuccess: True
+Team: Solihull Moors vs Eastleigh, Probability: 71, Prediction: Yes, Scores: 0 - 1, IsSuccess: False
+Team: Barry Town vs Haverfordwest, Probability: 72, Prediction: Yes, Scores: 1 - 1, IsSuccess: True
+Team: Caernarfon Town vs Flint Town Utd, Probability: 71, Prediction: Yes, Scores: 3 - 0, IsSuccess: False
+Team: Cardiff Met vs The New Saints, Probability: 89, Prediction: Yes, Scores: 0 - 2, IsSuccess: False
+Team: SU Divaise vs Le Puy Foot, Probability: 77, Prediction: Yes, Scores: 1 - 0, IsSuccess: False
+Team: Hendon FC vs Horsham, Probability: 70, Prediction: Yes, Scores: 0 - 4, IsSuccess: False
+Team: Merthyr Town vs AFC Totton, Probability: 75, Prediction: Yes, Scores: 1 - 1, IsSuccess: True
+Team: Nottingham Forest vs Liverpool, Probability: 79, Prediction: Yes, Scores: 1 - 1, IsSuccess: True
+Team: Dundee vs Celtic, Probability: 85, Prediction: Yes, Scores: 3 - 3, IsSuccess: True
+Team: Ferroviária U20 vs Santos U20, Probability: 92, Prediction: Yes, Scores: 2 - 2, IsSuccess: True
+count True : 20,   count False : 13, count None : 0 
+winrate:60.61
+
+
+Gnidlo Sergiy

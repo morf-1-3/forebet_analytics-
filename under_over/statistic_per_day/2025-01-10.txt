@@ -1,0 +1,26 @@
+Team: Guarani U20 vs Nova Iguaçu U20, Probability: 90, Prediction: Under, Scores: 0 - 1, IsSuccess: True
+Team: Dhaka Wanderers vs Brothers Union, Probability: 99, Prediction: Over, Scores: 1 - 4, IsSuccess: True
+Team: Mlada Boleslav B vs Hradec Kralove, Probability: 100, Prediction: Under, Scores: 0 - 0, IsSuccess: True
+Team: Dempo SC vs Inter Kashi, Probability: 90, Prediction: Under, Scores: 0 - 1, IsSuccess: True
+Team: América SE U20 vs Barra SC U20, Probability: 100, Prediction: Under, Scores: 2 - 2, IsSuccess: False
+Team: Emirates Club vs Fleetwood United, Probability: 90, Prediction: Under, Scores: None, IsSuccess: None
+Team: Arbil FC vs Al-Karma, Probability: 100, Prediction: Under, Scores: 1 - 1, IsSuccess: True
+Team: Al Dahra FC vs Al Ahli Tripoli, Probability: 90, Prediction: Under, Scores: 0 - 4, IsSuccess: False
+Team: Ponte Preta U20 vs IAPE U20, Probability: 90, Prediction: Under, Scores: 0 - 0, IsSuccess: True
+Team: Inter de Minas U20 vs Marcílio Dias U20, Probability: 100, Prediction: Under, Scores: 1 - 1, IsSuccess: True
+Team: Piauí U20 vs Estrela de Março U20, Probability: 100, Prediction: Under, Scores: 3 - 0, IsSuccess: False
+Team: Falcon U20 vs Dourados U20, Probability: 100, Prediction: Under, Scores: 0 - 0, IsSuccess: True
+Team: Araguacema U20 vs Monte Roraima U20, Probability: 100, Prediction: Under, Scores: 3 - 0, IsSuccess: False
+Team: Xaghra vs Victoria Hotspurs, Probability: 99, Prediction: Over, Scores: 1 - 5, IsSuccess: True
+Team: La Roche VF vs US Avranches, Probability: 85, Prediction: Under, Scores: None, IsSuccess: None
+Team: FC Istres vs Le Puy Foot, Probability: 90, Prediction: Under, Scores: 1 - 4, IsSuccess: False
+Team: Santa Fé SP U20 vs Cuiabá U20, Probability: 85, Prediction: Under, Scores: 0 - 2, IsSuccess: True
+Team: Derby U23s vs Tottenham U23s, Probability: 89, Prediction: Over, Scores: 2 - 1, IsSuccess: True
+Team: Sunderland U23s vs Nottingham Forest U21, Probability: 86, Prediction: Over, Scores: None, IsSuccess: None
+Team: Loyers W vs OH Leuven II W, Probability: 99, Prediction: Over, Scores: None, IsSuccess: None
+Team: Merreikh Al Sudan vs N'Zidane, Probability: 100, Prediction: Under, Scores: 1 - 1, IsSuccess: True
+count True : 12,   count False : 5, count None : 4 
+winrate:70.59
+
+
+Gnidlo Sergiy

@@ -1,0 +1,24 @@
+Team: Police FC (T&T) vs La Horquetta Rangers, Probability: 95, Prediction: Over, Scores: 1 - 2, IsSuccess: True
+Team: Newcastle Jets vs Sydney FC, Probability: 86, Prediction: Over, Scores: 2 - 2, IsSuccess: True
+Team: Brisbane Roar W vs Canberra United W, Probability: 87, Prediction: Over, Scores: 1 - 2, IsSuccess: True
+Team: Young Elephant vs Viengchanh, Probability: 99, Prediction: Over, Scores: 5 - 0, IsSuccess: True
+Team: Life Sihanoukville vs Boeung Ket FC, Probability: 98, Prediction: Over, Scores: 1 - 4, IsSuccess: True
+Team: Trat FC vs Samut Prakan City, Probability: 89, Prediction: Over, Scores: None, IsSuccess: None
+Team: Knockbreda vs Crusaders Belfast, Probability: 90, Prediction: Over, Scores: 0 - 3, IsSuccess: True
+Team: Chabab Khénifra vs Yacoub El Mansour, Probability: 90, Prediction: Under, Scores: 0 - 0, IsSuccess: True
+Team: Penrhyncoch vs Flint Mountain, Probability: 100, Prediction: Under, Scores: None, IsSuccess: None
+Team: Leiston FC vs Stratford Town, Probability: 91, Prediction: Over, Scores: 1 - 0, IsSuccess: False
+Team: Redditch Utd vs Lowestoft Town, Probability: 87, Prediction: Over, Scores: 3 - 4, IsSuccess: True
+Team: Gloucester vs Taunton, Probability: 95, Prediction: Over, Scores: 2 - 2, IsSuccess: True
+Team: ASC Biesheim vs AS Beauvais Oise, Probability: 85, Prediction: Under, Scores: 2 - 0, IsSuccess: True
+Team: Aveley FC vs Salisbury City, Probability: 87, Prediction: Under, Scores: None, IsSuccess: None
+Team: Hungerford Town vs Chertsey Town, Probability: 85, Prediction: Over, Scores: None, IsSuccess: None
+Team: Votoraty U20 vs Gênus U20, Probability: 100, Prediction: Under, Scores: 2 - 0, IsSuccess: True
+Team: Chamois Niortais vs Saint-Colomban Locminé, Probability: 87, Prediction: Under, Scores: 1 - 2, IsSuccess: False
+Team: Wally Daan vs US Ouakam, Probability: 87, Prediction: Under, Scores: 0 - 0, IsSuccess: True
+Team: RCS Verlaine vs Seraing II, Probability: 94, Prediction: Over, Scores: 1 - 2, IsSuccess: True
+count True : 13,   count False : 2, count None : 4 
+winrate:86.67
+
+
+Gnidlo Sergiy

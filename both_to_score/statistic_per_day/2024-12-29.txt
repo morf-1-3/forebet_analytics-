@@ -1,0 +1,38 @@
+Team: Western United vs Brisbane Roar, Probability: 70, Prediction: Yes, Scores: 1 - 0, IsSuccess: False
+Team: Western United W vs Brisbane Roar W, Probability: 87, Prediction: Yes, Scores: 2 - 8, IsSuccess: True
+Team: PKR Svay Rieng vs Visakha FC, Probability: 91, Prediction: Yes, Scores: 1 - 0, IsSuccess: False
+Team: Nagaworld FC vs Boeung Ket FC, Probability: 85, Prediction: Yes, Scores: 1 - 5, IsSuccess: True
+Team: Barito Putera vs PSIS Semarang, Probability: 71, Prediction: No, Scores: 0 - 0, IsSuccess: True
+Team: Gasco vs Elman, Probability: 88, Prediction: No, Scores: 0 - 3, IsSuccess: True
+Team: Khaleej Sirte vs Al Wefaq Ajdabiyah, Probability: 76, Prediction: No, Scores: 1 - 0, IsSuccess: True
+Team: AS Kasserine vs Rogba Tataouine, Probability: 72, Prediction: No, Scores: 1 - 0, IsSuccess: True
+Team: EO Sidi Bouzid vs Baath Bouhajla, Probability: 77, Prediction: No, Scores: 2 - 0, IsSuccess: True
+Team: Stade Gabésien vs Redeyef, Probability: 76, Prediction: No, Scores: 1 - 0, IsSuccess: True
+Team: Magesi FC vs Orlando Pirates, Probability: 73, Prediction: No, Scores: 0 - 1, IsSuccess: True
+Team: Abu Salim vs Al ittihad FC, Probability: 76, Prediction: No, Scores: 1 - 0, IsSuccess: True
+Team: Aigle Royal vs Fovu Club, Probability: 70, Prediction: No, Scores: 1 - 1, IsSuccess: False
+Team: Feutcheu FC vs Bafmeng United, Probability: 74, Prediction: Yes, Scores: 0 - 4, IsSuccess: False
+Team: Leicester City vs Manchester City, Probability: 71, Prediction: Yes, Scores: 0 - 2, IsSuccess: False
+Team: Gazelle vs Les Astres FC, Probability: 86, Prediction: Yes, Scores: 1 - 0, IsSuccess: False
+Team: Tottenham vs Wolverhampton, Probability: 84, Prediction: Yes, Scores: 2 - 2, IsSuccess: True
+Team: Peterborough vs Barnsley, Probability: 71, Prediction: Yes, Scores: 1 - 3, IsSuccess: True
+Team: Karela United vs Vision, Probability: 81, Prediction: No, Scores: 1 - 1, IsSuccess: False
+Team: Berekum Chelsea vs Dreams FC, Probability: 73, Prediction: No, Scores: 0 - 0, IsSuccess: True
+Team: Accra Lions FC vs Accra Hearts of Oak, Probability: 73, Prediction: No, Scores: 2 - 3, IsSuccess: False
+Team: Haras Al Hodoud vs Tala'ea Al Jaish, Probability: 74, Prediction: No, Scores: 3 - 0, IsSuccess: True
+Team: Katsina United vs Nasarawa Utd, Probability: 71, Prediction: No, Scores: 1 - 0, IsSuccess: True
+Team: Etoile Filante vs Ayema, Probability: 75, Prediction: No, Scores: 1 - 0, IsSuccess: True
+Team: Al Swehly SC vs Tersana Tripoli, Probability: 83, Prediction: Yes, Scores: 1 - 0, IsSuccess: False
+Team: Doumbé de Mango vs Etoile Filante, Probability: 80, Prediction: No, Scores: 3 - 2, IsSuccess: False
+Team: Al Nasr Dubai vs Al Ahli Dubai, Probability: 72, Prediction: Yes, Scores: 5 - 5, IsSuccess: True
+Team: Kraké vs JAC, Probability: 75, Prediction: No, Scores: 1 - 0, IsSuccess: True
+Team: Star Sport Academy vs Freetown City, Probability: 86, Prediction: No, Scores: 1 - 1, IsSuccess: False
+Team: West Ham vs Liverpool, Probability: 76, Prediction: Yes, Scores: 0 - 5, IsSuccess: False
+Team: Sporting Braga vs Casa Pia AC, Probability: 71, Prediction: Yes, Scores: 1 - 2, IsSuccess: True
+Team: Kiryat Yam SC vs Beitar Jerusalem, Probability: 71, Prediction: No, Scores: 2 - 2, IsSuccess: False
+Team: Sporting CP vs SL Benfica, Probability: 77, Prediction: Yes, Scores: 1 - 0, IsSuccess: False
+count True : 19,   count False : 14, count None : 0 
+winrate:57.58
+
+
+Gnidlo Sergiy

@@ -1,0 +1,35 @@
+Team: Botafogo U20 vs Fast Clube U20, Probability: 77, Prediction: No, Scores: 2 - 1, IsSuccess: False
+Team: Melbourne City vs Wellington Phoenix, Probability: 74, Prediction: Yes, Scores: 2 - 0, IsSuccess: False
+Team: Western United W vs Newcastle Jets W, Probability: 74, Prediction: Yes, Scores: 2 - 0, IsSuccess: False
+Team: Nagaworld FC vs PKR Svay Rieng, Probability: 84, Prediction: Yes, Scores: 0 - 2, IsSuccess: False
+Team: Newroz SC (IRQ) vs Diyala FC, Probability: 73, Prediction: No, Scores: 2 - 1, IsSuccess: False
+Team: Be'sat Kermanshah vs Naft M. Soleyman, Probability: 75, Prediction: No, Scores: 1 - 0, IsSuccess: True
+Team: Niroye Zamini vs Mes Shahr-e Babak, Probability: 83, Prediction: No, Scores: 0 - 0, IsSuccess: True
+Team: Sanat Naft AC vs Ario Eslamshahr, Probability: 77, Prediction: No, Scores: 1 - 1, IsSuccess: False
+Team: Naft Bandar Abbas vs Naft Gachsaran, Probability: 80, Prediction: No, Scores: 1 - 0, IsSuccess: True
+Team: Hapoel Ramat Gan vs FC Nazareth Ilit, Probability: 77, Prediction: Yes, Scores: 3 - 1, IsSuccess: True
+Team: Al Wefaq Ajdabiyah vs Al Borouq, Probability: 80, Prediction: No, Scores: 1 - 1, IsSuccess: False
+Team: Lugazi Municipal vs Bul FC, Probability: 82, Prediction: No, Scores: 1 - 2, IsSuccess: False
+Team: USM Blida vs IRB Sedrata, Probability: 95, Prediction: No, Scores: 0 - 0, IsSuccess: True
+Team: ES Guelma vs JS Kabylie, Probability: 70, Prediction: No, Scores: 0 - 2, IsSuccess: True
+Team: JSM Tiaret vs Théniet El-Abed, Probability: 76, Prediction: No, Scores: 3 - 0, IsSuccess: True
+Team: USM Bel Abbès vs JS Azazga, Probability: 76, Prediction: No, Scores: 2 - 1, IsSuccess: False
+Team: USM Annaba vs Aïn Yagout, Probability: 75, Prediction: No, Scores: 2 - 1, IsSuccess: False
+Team: ES Mostaganem vs WAB Tissemsilt, Probability: 82, Prediction: No, Scores: 1 - 1, IsSuccess: False
+Team: Tanabi SP U20 vs Operário PR U20, Probability: 72, Prediction: No, Scores: 0 - 6, IsSuccess: True
+Team: Tupã U20 vs Brasiliense U20, Probability: 71, Prediction: No, Scores: 1 - 0, IsSuccess: True
+Team: Freetown City vs Luawa, Probability: 73, Prediction: No, Scores: 0 - 0, IsSuccess: True
+Team: Azuriz U20 vs Botafogo SP U20, Probability: 79, Prediction: No, Scores: 3 - 3, IsSuccess: False
+Team: CRB U20 vs Água Santa U20, Probability: 73, Prediction: No, Scores: 0 - 3, IsSuccess: True
+Team: Airdrieonians FC vs Falkirk FC, Probability: 74, Prediction: Yes, Scores: None, IsSuccess: None
+Team: Newport City vs Trethomas Bluebirds, Probability: 73, Prediction: Yes, Scores: 1 - 2, IsSuccess: True
+Team: Linense U20 vs Coimbra U20, Probability: 71, Prediction: No, Scores: 5 - 2, IsSuccess: False
+Team: Valencia vs Real Madrid, Probability: 72, Prediction: Yes, Scores: 1 - 2, IsSuccess: True
+Team: Vitória vs Sporting CP, Probability: 74, Prediction: Yes, Scores: 4 - 4, IsSuccess: True
+Team: Ferroviária U20 vs Jaciobá U20, Probability: 77, Prediction: No, Scores: 8 - 0, IsSuccess: True
+Team: Central FC (T&T) vs Phoenix, Probability: 78, Prediction: Yes, Scores: 6 - 2, IsSuccess: True
+count True : 16,   count False : 13, count None : 1 
+winrate:55.17
+
+
+Gnidlo Sergiy

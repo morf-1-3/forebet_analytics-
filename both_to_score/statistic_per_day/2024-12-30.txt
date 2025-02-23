@@ -1,0 +1,22 @@
+Team: Aswan FC vs Raya Ghazl, Probability: 84, Prediction: No, Scores: 1 - 1, IsSuccess: False
+Team: Sporting Alexandria vs Tersana Giza, Probability: 76, Prediction: No, Scores: 0 - 1, IsSuccess: True
+Team: Al Taawun (LIB) vs Al Branes, Probability: 71, Prediction: No, Scores: 4 - 1, IsSuccess: False
+Team: Al Morooj vs Al Sadaka, Probability: 70, Prediction: Yes, Scores: 1 - 0, IsSuccess: False
+Team: Vision vs Musanze, Probability: 77, Prediction: No, Scores: 3 - 0, IsSuccess: True
+Team: Sfax Railways vs Djelma, Probability: 72, Prediction: No, Scores: 2 - 0, IsSuccess: True
+Team: Avion Academy vs Atlantic, Probability: 91, Prediction: No, Scores: 1 - 0, IsSuccess: True
+Team: Al Ahli Tripoli vs Al Madina Tripoli, Probability: 74, Prediction: Yes, Scores: 2 - 0, IsSuccess: False
+Team: Jazira Abu Dhabi vs Al Ain, Probability: 77, Prediction: Yes, Scores: 3 - 2, IsSuccess: True
+Team: FC Masr vs Petrojet Suez, Probability: 77, Prediction: No, Scores: 1 - 1, IsSuccess: False
+Team: Trefelin BGC vs Afan Lido, Probability: 82, Prediction: Yes, Scores: 1 - 1, IsSuccess: True
+Team: Aston Villa vs Brighton, Probability: 74, Prediction: Yes, Scores: 2 - 2, IsSuccess: True
+Team: Ipswich Town vs Chelsea, Probability: 84, Prediction: Yes, Scores: 2 - 0, IsSuccess: False
+Team: Loughgall FC vs Coleraine FC, Probability: 70, Prediction: Yes, Scores: 1 - 3, IsSuccess: True
+Team: H&W Welders vs Ballyclare Comrades, Probability: 79, Prediction: Yes, Scores: 3 - 1, IsSuccess: True
+Team: Manchester United vs Newcastle United, Probability: 83, Prediction: Yes, Scores: 0 - 2, IsSuccess: False
+Team: Limavady United vs Ballinamallard Utd, Probability: 70, Prediction: Yes, Scores: 2 - 1, IsSuccess: True
+count True : 10,   count False : 7, count None : 0 
+winrate:58.82
+
+
+Gnidlo Sergiy

@@ -1,0 +1,17 @@
+Team: Palmeiras U20 vs Referência U20, Probability: 90, Prediction: Over, Scores: 2 - 1, IsSuccess: True
+Team: Picuiense vs Sousa/PB, Probability: 88, Prediction: Under, Scores: 0 - 2, IsSuccess: True
+Team: Bragantino U20 vs Flamengo RJ U20, Probability: 95, Prediction: Over, Scores: 3 - 1, IsSuccess: True
+Team: Mansoura SC vs Wadi Degla SC, Probability: 93, Prediction: Under, Scores: 0 - 2, IsSuccess: True
+Team: Montakhab Suez vs Abu Qair Lel Asmeda, Probability: 90, Prediction: Under, Scores: 1 - 4, IsSuccess: False
+Team: Shabab Al-Ghar vs Al Swehly SC, Probability: 87, Prediction: Under, Scores: 1 - 2, IsSuccess: False
+Team: Moyola Park vs Sport & Leisure Swifts, Probability: 100, Prediction: Under, Scores: 0 - 0, IsSuccess: True
+Team: Caernarfon Town vs Flint Town Utd, Probability: 99, Prediction: Over, Scores: 3 - 0, IsSuccess: True
+Team: Cardiff Met vs The New Saints, Probability: 94, Prediction: Over, Scores: 0 - 2, IsSuccess: False
+Team: Chertsey Town vs Poole Town, Probability: 87, Prediction: Under, Scores: 2 - 1, IsSuccess: False
+Team: Bishop's Stortford vs Bromsgrove Sporting, Probability: 85, Prediction: Under, Scores: 0 - 2, IsSuccess: True
+Team: Sao Paulo U20 vs Juventude U20, Probability: 87, Prediction: Under, Scores: 1 - 0, IsSuccess: True
+count True : 8,   count False : 4, count None : 0 
+winrate:66.67
+
+
+Gnidlo Sergiy

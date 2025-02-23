@@ -1,0 +1,29 @@
+Team: North District vs HK Rangers, Probability: 85, Prediction: Over, Scores: 4 - 4, IsSuccess: True
+Team: Persikota Tangerang vs PSKC Cimahi, Probability: 85, Prediction: Over, Scores: 0 - 1, IsSuccess: False
+Team: Champasak United vs Ezra, Probability: 99, Prediction: Over, Scores: 0 - 4, IsSuccess: True
+Team: CF Briviesca vs SD Almazán, Probability: 87, Prediction: Under, Scores: 1 - 2, IsSuccess: False
+Team: Amman vs Doqarah, Probability: 95, Prediction: Over, Scores: 3 - 3, IsSuccess: True
+Team: Ethnikos Neou vs Kavala FC, Probability: 100, Prediction: Under, Scores: 0 - 1, IsSuccess: True
+Team: Proxy vs Dakhleya, Probability: 90, Prediction: Under, Scores: 1 - 1, IsSuccess: True
+Team: Real Sociedad W vs Barcelona W, Probability: 94, Prediction: Over, Scores: 0 - 6, IsSuccess: True
+Team: Fleetwood United vs Dubai United, Probability: 87, Prediction: Under, Scores: None, IsSuccess: None
+Team: Bafmeng United vs Aigle Royal, Probability: 85, Prediction: Under, Scores: 0 - 0, IsSuccess: True
+Team: Progrès Sakiet Eddaïer vs Stade Gabésien, Probability: 87, Prediction: Under, Scores: 1 - 0, IsSuccess: True
+Team: AS Agareb vs AS Kasserine, Probability: 92, Prediction: Under, Scores: 2 - 2, IsSuccess: False
+Team: Aris Piges vs Poseidon Nea Michaniona, Probability: 87, Prediction: Under, Scores: 0 - 1, IsSuccess: True
+Team: Amarynthiakos vs Malesina, Probability: 87, Prediction: Under, Scores: 0 - 0, IsSuccess: True
+Team: Asteras Varis vs Chaidari AO, Probability: 100, Prediction: Under, Scores: 1 - 0, IsSuccess: True
+Team: Young Apostles vs Karela United, Probability: 85, Prediction: Under, Scores: 2 - 0, IsSuccess: True
+Team: GD Lagoa vs FC Serpa, Probability: 85, Prediction: Under, Scores: 0 - 0, IsSuccess: True
+Team: AC Marinhense vs SC Pombal, Probability: 97, Prediction: Under, Scores: 2 - 0, IsSuccess: True
+Team: O Elvas vs Arronches e Benfica, Probability: 97, Prediction: Under, Scores: 0 - 0, IsSuccess: True
+Team: CD Fátima vs Mortágua FC, Probability: 90, Prediction: Under, Scores: 0 - 0, IsSuccess: True
+Team: Pêro Pinheiro vs Os Marialvas, Probability: 90, Prediction: Under, Scores: 0 - 1, IsSuccess: True
+Team: Boa vs Damissa, Probability: 85, Prediction: Under, Scores: 1 - 2, IsSuccess: False
+Team: Ethiopia Nigd Bank vs Mekelle 70, Probability: 90, Prediction: Under, Scores: 0 - 0, IsSuccess: True
+Team: Hamilton Parish vs Devonshire Colts, Probability: 99, Prediction: Over, Scores: 0 - 2, IsSuccess: False
+count True : 18,   count False : 5, count None : 1 
+winrate:78.26
+
+
+Gnidlo Sergiy

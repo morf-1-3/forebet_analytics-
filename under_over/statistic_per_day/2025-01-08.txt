@@ -1,0 +1,11 @@
+Team: Doqarah vs Sama Al Sarhan, Probability: 100, Prediction: Under, Scores: 2 - 2, IsSuccess: False
+Team: CD Tenerife B vs CD Atlético Paso, Probability: 89, Prediction: Over, Scores: 3 - 2, IsSuccess: True
+Team: Real Brasília U20 vs Imperatriz U20, Probability: 100, Prediction: Under, Scores: 3 - 1, IsSuccess: False
+Team: Referência U20 vs Cascavel U20, Probability: 100, Prediction: Under, Scores: 1 - 0, IsSuccess: True
+Team: Lyon W vs Dijon W, Probability: 99, Prediction: Over, Scores: 2 - 0, IsSuccess: False
+Team: Capitão Poço U20 vs Rio Branco ES U20, Probability: 100, Prediction: Under, Scores: 2 - 1, IsSuccess: False
+count True : 2,   count False : 4, count None : 0 
+winrate:33.33
+
+
+Gnidlo Sergiy

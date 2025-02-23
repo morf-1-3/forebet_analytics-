@@ -1,0 +1,25 @@
+Team: Porto Vitória vs Desp. Ferroviária ES, Probability: 71, Prediction: Yes, Scores: 0 - 3, IsSuccess: False
+Team: Icasa/CE vs Crato/CE, Probability: 72, Prediction: No, Scores: 1 - 1, IsSuccess: False
+Team: Pombal vs Auto Esporte/PB, Probability: 75, Prediction: No, Scores: 1 - 1, IsSuccess: False
+Team: Wotton vs Paradise, Probability: 73, Prediction: Yes, Scores: 0 - 0, IsSuccess: False
+Team: Atlético Tucumán vs Sarmiento Junín, Probability: 71, Prediction: No, Scores: 5 - 0, IsSuccess: True
+Team: Deportivo Pereira vs Deportes Tolima, Probability: 70, Prediction: No, Scores: 0 - 0, IsSuccess: True
+Team: CS Cartaginés vs Santa Ana, Probability: 71, Prediction: Yes, Scores: 2 - 1, IsSuccess: True
+Team: Wollongong FC vs St George City FA, Probability: 75, Prediction: Yes, Scores: None, IsSuccess: None
+Team: Edgeworth Eagles vs Broadmeadow, Probability: 92, Prediction: Yes, Scores: 1 - 0, IsSuccess: False
+Team: Dagon Port vs Thitsar Arman, Probability: 79, Prediction: Yes, Scores: 1 - 2, IsSuccess: True
+Team: FC Tira vs Kiryat Yam SC, Probability: 88, Prediction: Yes, Scores: 1 - 0, IsSuccess: False
+Team: Talaba Baghdad vs Diyala FC, Probability: 74, Prediction: No, Scores: 0 - 0, IsSuccess: True
+Team: Everton FC U23s vs Southampton U23s, Probability: 83, Prediction: Yes, Scores: 1 - 2, IsSuccess: True
+Team: Gulf Heroes vs Dubai United, Probability: 72, Prediction: Yes, Scores: 1 - 2, IsSuccess: True
+Team: Shillong Lajong vs Sreenidi Deccan, Probability: 86, Prediction: Yes, Scores: 4 - 0, IsSuccess: False
+Team: NC Magra vs Olympique Akbou, Probability: 72, Prediction: No, Scores: 1 - 1, IsSuccess: False
+Team: Sagrada Esperanca vs Wiliet, Probability: 73, Prediction: Yes, Scores: 2 - 1, IsSuccess: True
+Team: Odisha vs Hyderabad, Probability: 70, Prediction: Yes, Scores: 3 - 1, IsSuccess: True
+Team: Muaither SC vs Al Waab SC, Probability: 71, Prediction: Yes, Scores: 2 - 2, IsSuccess: True
+Team: Salitas vs ASEC Koudougou, Probability: 71, Prediction: No, Scores: 3 - 0, IsSuccess: True
+count True : 11,   count False : 8, count None : 1 
+winrate:57.89
+
+
+Gnidlo Sergiy
